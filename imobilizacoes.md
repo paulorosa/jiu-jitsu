@@ -58,8 +58,6 @@ Este guia detalha as 6 imobilizações obrigatórias e 2 variações de reserva 
 
 ---
 
-### Técnicas de Reserva (Caso precise variar)
-
 ## 7. 100kg Invertido (Ushiro Kesa Gatame)
 * **Como fazer:** Do 100kg, gire o corpo olhando para os pés do oponente. Seu braço (que abraçava a cabeça) agora controla a axila dele.
 * **Detalhe:** Mantenha seu quadril baixo e pesado sobre o peito dele. É uma posição de transição clássica para montar.
@@ -67,6 +65,7 @@ Este guia detalha as 6 imobilizações obrigatórias e 2 variações de reserva 
 * **Erro Comum:** Levantar muito o quadril durante o giro, permitindo a reposição de meia-guarda.
 * **Vídeo Sugerido:** [Passagem de Guarda e Inversão de Quadril (Conceito de Ushiro)](https://www.youtube.com/watch?v=HBfl_Tut6D8)
 
+---
 ## 8. 100kg com Braço Preso (Crucifixo Lateral)
 * **Como fazer:** No 100kg, use sua perna próxima ao quadril para "pescar" o braço do oponente e prendê-lo com sua canela, ou use seu próprio kimono (lapela) para amarrar o braço dele.
 * **Detalhe:** Isole o braço completamente. O oponente fica "monoco" (com um braço a menos para defender).
