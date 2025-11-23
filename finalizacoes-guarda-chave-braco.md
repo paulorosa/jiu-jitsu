@@ -40,16 +40,14 @@ Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 var
 
 ---
 
-### Técnicas de Reserva (Bônus)
-
-## 62. Chave de Braço Reta da Guarda (Straight Armlock) - *Reserva 1*
+## 62. Chave de Braço Reta da Guarda (Straight Armlock)
 * **Como fazer:** Quando você tenta o armlock clássico e o oponente defende tirando o cotovelo ou "empilhando". Segure o braço dele com as duas mãos, estique o quadril e finalize no cotovelo reto, sem precisar cruzar o corpo.
 * **Detalhe:** Pode ser feita também quando o oponente segura sua gola com o braço esticado. Ataque o cotovelo com a axila ou ombro.
 * **Por que é boa:** Pune o oponente que "esquece" o braço esticado ou que defende mal o armlock giratório.
 * **Erro Comum:** Não isolar o ombro, permitindo que o oponente gire o braço para aliviar a pressão.
 * **Vídeo Sugerido:** [Chave de Braço Reta da Guarda Fechada](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
 
-## 63. Mão de Vaca da Guarda (Wristlock) - *Reserva 2*
+## 63. Mão de Vaca da Guarda (Wristlock)
 * **Como fazer:** O oponente segura sua gola ou peito. Domine a mão dele com as duas mãos (polegares nas costas da mão dele), traga os joelhos no peito para quebrar a postura e pressione a mão dele contra o pulso.
 * **Detalhe:** O cotovelo dele deve estar travado no seu peito ou barriga. Se o cotovelo recuar, a chave perde a pressão.
 * **Por que é boa:** É a técnica da "malícia" da Faixa Marrom. Finaliza rápido ou obriga o oponente a soltar a pegada, abrindo espaço para outros ataques.
