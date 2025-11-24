@@ -10,7 +10,7 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 * **Detalhe:** O segredo é tirar o peso dele dos calcanhares. Puxe-o até o peito dele encostar na sua canela antes de tesourar.
 * **Por que é boa:** Funciona contra oponentes de todos os tamanhos se o desequilíbrio for bem feito.
 * **Erro Comum:** Tentar chutar a perna do oponente enquanto o peso dele ainda está nos calcanhares (ele vira um pilar imóvel).
-* **Vídeo Sugerido:** [Raspagem Tesoura - Detalhes para não errar](https://www.youtube.com/watch?v=Z8QeKq4z_X0)
+* **Vídeo Sugerido:** [Raspagem Tesoura - Detalhes para não errar](https://www.youtube.com/watch?v=Z8QeKq4z_X0) (vídeo inexistente)
 
 ---
 
@@ -19,16 +19,16 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 * **Detalhe:** A perna que não está presa deve "chutar" a axila do oponente para gerar o giro. É um movimento circular, não lateral.
 * **Por que é boa:** Anula a base do oponente ao prender o braço e a perna do mesmo lado.
 * **Erro Comum:** Não girar o suficiente e ficar "preso" embaixo do peso do oponente.
-* **Vídeo Sugerido:** [Raspagem Pêndulo - Passo a Passo](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
+* **Vídeo Sugerido:** [Raspagem Pêndulo - Passo a Passo](https://www.youtube.com/watch?v=OAC_XsbPiJ8) (trocar vídeo)
 
 ---
 
-## 46. Raspagem de Quadril (Hip Bump)
+## 46. Raspagem de Quadril no Joelho
 * **Como fazer:** Quando o oponente postura para trás na guarda fechada. Abra a guarda, apoie o cotovelo no chão e suba o quadril, abraçando o braço do oponente por cima. Gire o quadril jogando-o para o lado.
 * **Detalhe:** O "bump" (colisão) do seu quadril contra o peito dele é o que derruba. Se ele defender colocando a mão no chão, sobra a Kimura.
 * **Por que é boa:** Simples, explosiva e conecta direto com finalizações (Kimura/Guilhotina).
 * **Erro Comum:** Tentar raspar sem tirar o bumbum do chão (falta altura e alavanca).
-* **Vídeo Sugerido:** [Raspagem de Quadril (Hip Bump) - Detalhes](https://www.youtube.com/watch?v=RCyfWcdIeUo)
+* **Vídeo Sugerido:** (https://www.youtube.com/shorts/Kry--tj5YgA)
 
 ---
 
@@ -50,12 +50,12 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 
 ---
 
-## 49. Tripod Sweep (Tripé)
+## 49. Raspagem com o Pé no Quadril (Tripé)
 * **Como fazer:** Da guarda aberta contra oponente em pé. Coloque um pé no quadril e o outro fazendo um gancho atrás do joelho do oponente. Com a mão, segure o calcanhar da perna que está com o gancho. Empurre o quadril e puxe o calcanhar.
 * **Detalhe:** É um movimento de "empurra e puxa" simultâneo. O gancho atrás do joelho serve para recolher a perna dele.
 * **Por que é boa:** A raspagem mais segura da guarda aberta. Se ele defender, você volta para a guarda.
 * **Erro Comum:** Soltar o calcanhar antes dele cair, permitindo que ele dê um passo para trás e equilibre.
-* **Vídeo Sugerido:** [Tripod Sweep - A raspagem que todo graduado deve saber](https://www.youtube.com/watch?v=q_qkyeu_yQA)
+* **Vídeo Sugerido:** (https://www.youtube.com/shorts/ZwqxUbHC3EA)
 
 ---
 
@@ -100,7 +100,7 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 * **Detalhe:** Use o gancho De La Riva para levantar a perna dele junto com o corpo.
 * **Por que é boa:** Quando o oponente tenta pesar para passar, ele entrega o peso para o balão.
 * **Erro Comum:** Tentar levantar o oponente sem que ele esteja pressionando para frente.
-* **Vídeo Sugerido:** [Raspagem Balão da De La Riva](https://www.youtube.com/watch?v=5yQ2X_z3z7o)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/u3zQDUGv3hg
 
 ---
 
