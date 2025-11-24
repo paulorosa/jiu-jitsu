@@ -136,7 +136,7 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 * **Detalhe:** Abrace a cintura dele para evitar que ele role.
 * **Por que é boa:** Transforma uma finalização falha em 2 pontos garantidos.
 * **Erro Comum:** Deixar o oponente pular sobre o seu corpo.
-* **Vídeo Sugerido:** [Raspagem de Omoplata - Simples e Eficiente](https://www.youtube.com/watch?v=Z8QeKq4z_X0)
+* **Vídeo Sugerido:** (https://www.youtube.com/watch?v=YlOwDqwB838)
 
 ---
 
@@ -145,4 +145,7 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 * **Detalhe:** A pegada da outra mão na calça do oponente potencializa o giro.
 * **Por que é boa:** Trava um lado inteiro do oponente, dificultando muito a defesa.
 * **Erro Comum:** Deixar o laço frouxo ("mão de alface"), perdendo o controle do braço.
-* **Vídeo Sugerido:** [Raspagem da Guarda Laço Passo a Passo](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/jlbc_HzM7Kw
+
+---
+
