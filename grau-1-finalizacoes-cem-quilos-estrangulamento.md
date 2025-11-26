@@ -4,7 +4,7 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 
 ---
 
-## 24. Baseball Choke (Estrangulamento de Beisebol)
+## 1. Baseball Choke (Estrangulamento de Beisebol)
 * **Como fazer:** Do 100kg ou Joelho na Barriga, coloque as mãos na gola do oponente como se segurasse um taco de beisebol (uma mão com o polegar dentro, a outra com os quatro dedos dentro, bem justas). Gire o corpo para o Norte-Sul, cruzando os braços.
 * **Detalhe:** O segredo é o giro. Quanto mais você caminha para o Norte-Sul e cola a cabeça no chão, mais aperta. Os antebraços funcionam como uma tesoura no pescoço.
 * **Por que é boa:** É uma armadilha clássica. Muitas vezes o oponente acha que você está perdendo a posição ao girar, quando na verdade está apertando o golpe.
@@ -13,7 +13,7 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 
 ---
 
-## 25. Estrangulamento Norte-Sul
+## 2. Estrangulamento Norte-Sul
 * **Como fazer:** Isole um braço do oponente. Passe seu braço por baixo do pescoço dele até o bíceps tocar o outro lado do pescoço. Desça o corpo para trás (sprawl), afundando sua costela no rosto dele e fechando o espaço.
 * **Detalhe:** Não é força de braço, é peso de corpo. Você deve "escorregar" para trás até sentir que o queixo dele não está mais protegendo a garganta.
 * **Por que é boa:** Extremamente difícil de defender depois de encaixado, pois não depende de pano (funciona bem sem kimono também).
@@ -22,7 +22,7 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 
 ---
 
-## 26. Katagatame (Triângulo de Braço)
+## 3. Katagatame (Triângulo de Braço)
 * **Como fazer:** Do 100kg ou Montada, empurre o braço do oponente cruzando o pescoço dele. Abrace a cabeça e o braço dele juntos. Una suas mãos (mão com mão ou mata-leão). Saia para a lateral (se estiver montado) e pressione.
 * **Detalhe:** "Caminhe" com o braço do oponente para cima antes de travar, tirando o ombro dele do chão. Cole sua orelha na orelha dele para não deixar o braço voltar.
 * **Por que é boa:** Um dos golpes mais seguros do Jiu-Jitsu. Se ele defender, você ainda tem o domínio lateral ou montada.
