@@ -1,5 +1,4 @@
-# Guia de Estudos: Saídas de Imobilização (Exame Faixa Marrom)
-
+# 1o. Grau: Técnicas - Saídas de Imobilizações (4)
 Este guia detalha as 4 saídas obrigatórias para o 1º Grau, mais uma técnica extra de reserva. O foco deve ser a *antecipação* e o uso de *alavancas* (frames), e não apenas força bruta (supino).
 
 ---
