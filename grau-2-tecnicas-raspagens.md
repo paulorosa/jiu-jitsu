@@ -148,3 +148,11 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 
 ---
 
+
+  1. Tesoura: Mata a mão do lado que vai fazer a raspagem, a outra mão na gola, o pé do lado da raspagem no chão, o outro pé na axila do oponente, fazendo o gancho.
+   2. Tesoura Chutando o Joelho: Idêntico à tesoura normal, mas chuta o joelho da perna do lado da raspagem.
+   3. Abdominal: força o quadril. cotovelo no chão
+   4. Delariva: perna oposta lá embaixo.
+   5. Borboleta:
+   6. Puxando a Calça e Braço Oposto: levanta a perna.   
+
