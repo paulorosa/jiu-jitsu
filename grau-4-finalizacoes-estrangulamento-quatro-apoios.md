@@ -1,10 +1,10 @@
-# Guia de Estudos: Finalizações dos Quatro Apoios - Estrangulamento (Exame Faixa Marrom)
+# 4o. Grau: Finalizações - Estrangulamento dos Quatro Apoios (3)
 
 Este bloco cobre os ataques de pescoço quando o oponente se fecha em tartaruga. O foco é o controle do quadril do adversário para evitar cambalhotas de defesa antes do ajuste final.
 
 ---
 
-## 112. Estrangulamento Relógio (Clock Choke)
+## 1. Estrangulamento Relógio (Clock Choke)
 * **Como fazer:** Posicione-se ao lado do oponente. Com a mão de dentro (a que está perto da cabeça), abra a gola dele e segure fundo, cruzando o pescoço. A outra mão segura o pulso dele (por baixo do corpo) ou a gola oposta por baixo da axila. Coloque o peso no pescoço dele, caminhe para a frente (em direção à cabeça) e tire o quadril do chão.
 * **Detalhe:** O nome "relógio" vem do movimento das pernas. Você caminha como os ponteiros, tirando a base dele. O segredo é projetar o seu quadril para a frente, não apenas puxar a gola.
 * **Por que é boa:** Uma das finalizações mais fortes de pano. Uma vez encaixada, a pressão é contínua e o oponente não consegue girar.
@@ -13,7 +13,7 @@ Este bloco cobre os ataques de pescoço quando o oponente se fecha em tartaruga.
 
 ---
 
-## 113. Gravata Peruana (Peruvian Necktie)
+## 2. Gravata Peruana (Peruvian Necktie)
 * **Como fazer:** Estando na posição de controle frontal (tartaruga ou *sprawl*). Encaixe um braço por cima do pescoço e o outro por baixo da axila. Junte as mãos (pegada de guilhotina ou s-grip). Levante-se, pise com uma perna sobre a cabeça dele e a outra sobre as costas, e sente-se puxando a cabeça dele para baixo.
 * **Detalhe:** É uma guilhotina com as pernas. A perna sobre a cabeça é fundamental para quebrar a postura e impedir que ele role.
 * **Por que é boa:** Surpreende o oponente que espera um ataque lateral. É muito comum no No-Gi, mas funciona perfeitamente com kimono.
@@ -22,16 +22,16 @@ Este bloco cobre os ataques de pescoço quando o oponente se fecha em tartaruga.
 
 ---
 
-### Técnicas de Reserva (Bônus)
-
-## 114. Guilhotina da Tartaruga (Power Guillotine) - *Reserva 1*
+## 3. Guilhotina da Tartaruga (Power Guillotine)
 * **Como fazer:** Quando o oponente tenta entrar nas suas pernas ou deixa o pescoço exposto na tartaruga. Envolva o pescoço com um braço (queixo na dobra do cotovelo). Segure a mão de ataque com a outra mão por cima do ombro dele (*high elbow* ou marcelotine). Puxe-o para a sua guarda ou finalize girando para o lado da cabeça.
 * **Detalhe:** Na tartaruga, muitas vezes você não precisa puxar para a guarda; pode finalizar usando o quadril para pressionar a nuca dele para baixo enquanto puxa o pescoço para cima.
 * **Por que é boa:** Punição imediata para quem deixa a cabeça baixa.
 * **Erro Comum:** Deixar o oponente pular para o lado oposto do estrangulamento (passando a guarda) para aliviar a pressão.
 * **Vídeo Sugerido:** [Guilhotina e Capotamento da Tartaruga](https://www.youtube.com/watch?v=8H9l2w-dRwc)
 
-## 115. Anaconda Choke (Triângulo de Mão Invertido) - *Reserva 2*
+---
+
+## 115. Anaconda Choke (Triângulo de Mão Invertido)
 * **Como fazer:** Na posição de tartaruga ou *sprawl*. Passe o braço pelo pescoço e saia pela axila do oponente (como um triângulo de mão invertido). Feche o cadeado no seu bíceps perto da axila dele. Gire (role) por baixo do oponente, trazendo-o com você, e caminhe com as pernas em direção ao quadril dele para apertar.
 * **Detalhe:** A rolagem ("Gator Roll") é essencial para ajustar. Depois de rolar, prenda a perna dele com a sua perna para evitar que ele fuja.
 * **Por que é boa:** Excelente controle de transição. Se não finalizar, você cai por cima ou nas costas.
