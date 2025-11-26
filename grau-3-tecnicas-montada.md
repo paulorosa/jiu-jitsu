@@ -1,4 +1,4 @@
-# Guia de Estudos: Idas para a Montada (Exame Faixa Marrom)
+# 3o. Grau: Técnicas - Montada (2)
 
 Este bloco cobre as transições ofensivas para a posição de maior domínio (4 pontos). O foco é o controle do quadril e das pernas do oponente durante o trajeto.
 
