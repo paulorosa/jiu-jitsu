@@ -1,4 +1,4 @@
-# Guia de Estudos: Imobilizações e Controle (Exame Faixa Marrom)
+# 1o. Grau: Técnicas - Imobilizações
 
 Este guia detalha as 6 imobilizações obrigatórias e 2 variações de reserva para o exame de graduação. O foco é demonstrar controle, pressão e evitar erros técnicos básicos.
 
