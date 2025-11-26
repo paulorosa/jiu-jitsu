@@ -22,7 +22,7 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 
 ---
 
-## 3. Chave de Braço Girando (Spinning Armbar)
+## 3. Chave de Braço Girando
 * **Como fazer:** O oponente empurra seu pescoço ou peito. Domine o braço dele. Coloque o joelho na barriga ou apenas levante a base, passe a perna por cima da cabeça dele e gire o corpo para o outro lado, caindo com o braço esticado.
 * **Detalhe:** O joelho que estava no quadril serve de pivô. Ao passar a perna na cabeça, "raspe" a panturrilha no rosto dele para evitar que ele suba.
 * **Por que é boa:** Pune o adversário que estica os braços para defender a pressão do 100kg.
@@ -31,7 +31,7 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 
 ---
 
-## 4. Armlock Invertido (Featherlock)
+## 4. Armlock Invertido
 * **Como fazer:** Isole o braço do oponente (braço mais próximo de você) prendendo-o entre as suas pernas ou axila. Passe a perna de cima sobre a cabeça dele e a de baixo sob o ombro.
 * **Detalhe:** É uma finalização "curta". Você não precisa cair para trás. Apenas aperte os joelhos e projete o quadril para frente.
 * **Por que é boa:** Surpreende o oponente que está preocupado em defender o lado oposto e não espera um ataque no braço "escondido".
@@ -40,7 +40,7 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 
 ---
 
-## 5. Chave de Braço Reta (Straight Armlock / Violino)
+## 5. Chave de Braço Reta
 * **Como fazer:** Domine o braço distante do oponente como se fosse uma Americana, mas ele estica o braço. Coloque o braço dele debaixo da sua axila ou sobre o seu ombro, com o cotovelo virado para cima.
 * **Detalhe:** Pressione o cotovelo dele contra seu peito/axila e empurre o punho dele para baixo (como se tocasse um violino).
 * **Por que é boa:** Funciona como uma "armadilha" quando a Americana falha.
@@ -49,7 +49,7 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 
 ---
 
-## 6. Mão de Vaca (Wristlock)
+## 6. Mão de Vaca
 * **Como fazer:** Quando o oponente coloca a mão no seu peito ou ombro para defender o 100kg. Prenda o cotovelo dele contra seu corpo, segure a palma da mão dele e pressione os dedos em direção ao antebraço dele.
 * **Detalhe:** O cotovelo dele *precisa* estar imobilizado (no chão ou no seu peito), senão a força dissipa.
 * **Por que é boa:** É rápida, dolorosa e muitas vezes faz o oponente entregar o braço inteiro (Armlock) para aliviar a dor no punho.
