@@ -1,10 +1,10 @@
-# Guia de Estudos: Saídas da Montada (Exame Faixa Marrom)
+# 3o. Grau: Técnicas - Saída da Montada (3)
 
 Este bloco cobre as técnicas defensivas obrigatórias. Na Faixa Marrom, sair da montada exige calma e o uso de alavancas, jamais explosão descontrolada.
 
 ---
 
-## 68. Saída da Montada: Upa (Ponte)
+## 1. Saída da Montada: Upa (Ponte)
 * **Como fazer:** Quando o oponente está com o peso alto ou posturado. Prenda um braço dele (segurando o punho e o tríceps/pano na altura do cotovelo) e prenda o pé dele do mesmo lado com o seu pé. Faça uma ponte explosiva para o lado do braço preso, girando o oponente.
 * **Detalhe:** A ponte deve ser feita "olhando" para o chão na diagonal, não apenas para cima. Cole sua orelha no ombro dele para evitar que ele tire o braço.
 * **Por que é boa:** Pune o oponente que deixa o peso morto ou base ruim, invertendo a posição completamente.
@@ -13,7 +13,7 @@ Este bloco cobre as técnicas defensivas obrigatórias. Na Faixa Marrom, sair da
 
 ---
 
-## 69. Saída da Montada: Reposição (Cotovelo/Joelho)
+## 2. Saída da Montada: Reposição (Cotovelo/Joelho)
 * **Como fazer:** O oponente está estabilizado. Vire de lado, fazendo uma "conchinha" defensiva. Use o cotovelo de baixo para empurrar o joelho dele e criar um espaço. Introduza o seu joelho de baixo nesse espaço e arraste a perna, recuperando a meia-guarda ou guarda fechada.
 * **Detalhe:** Não empurre com a mão (risco de armlock), use a estrutura óssea do antebraço/cotovelo. A fuga de quadril é essencial para criar o espaço inicial.
 * **Por que é boa:** É a saída técnica padrão, funcionando contra oponentes pesados pois não exige levantar o peso deles.
@@ -22,7 +22,7 @@ Este bloco cobre as técnicas defensivas obrigatórias. Na Faixa Marrom, sair da
 
 ---
 
-## 70. Saída da Montada: Pé com Pé (Alavanca)
+## 3. Saída da Montada: Pé com Pé (Alavanca)
 * **Como fazer:** Quando o oponente cruza os pés embaixo das suas pernas ou estica as pernas (grapevine). Use um dos seus pés para pisar no calcanhar/pé do oponente e empurrá-lo para baixo, esticando a perna dele. Isso tira a pressão do quadril e permite que você vire de lado ou reponha.
 * **Detalhe:** Ao empurrar o pé dele, você cria uma alavanca que desalinha o quadril dele, facilitando a fuga de quadril tradicional.
 * **Por que é boa:** É uma resposta específica e inteligente contra quem tenta travar suas pernas.
@@ -31,7 +31,7 @@ Este bloco cobre as técnicas defensivas obrigatórias. Na Faixa Marrom, sair da
 
 ---
 
-## 71. Saída da Montada para Chave de Pé (Botinha)
+## 4. Saída da Montada para Chave de Pé (Botinha)
 * **Como fazer:** Se o oponente cruza os pés ou deixa os pés muito altos na sua axila. Em vez de repor a guarda, use o "pé com pé" para empurrar a perna dele para baixo, mas ao mesmo tempo abrace o tornozelo dele com o braço. Gire o corpo atacando a chave de pé reta (Botinha).
 * **Detalhe:** É uma saída ofensiva. Você usa o espaço da reposição para atacar.
 * **Por que é boa:** Demonstra agressividade e conhecimento de leg locks, fundamental para a Faixa Marrom.
