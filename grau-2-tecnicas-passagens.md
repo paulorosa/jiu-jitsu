@@ -1,4 +1,4 @@
-# Guia de Estudos: Passagem de Guarda (Exame Faixa Marrom)
+# 2o. Grau: Técnicas - Passagens (8)
 
 Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco deve ser o controle do quadril do oponente antes de consolidar a posição lateral.
 
@@ -76,14 +76,14 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 44. Passagem de Meia-Guarda (Esgrima e Slide) - *Reserva 1*
+## 44. Passagem de Meia-Guarda (Esgrima e Slide)
 * **Como fazer:** Na meia-guarda, ganhe a esgrima e o controle da cabeça. Cole o queixo no chão. Deslize o joelho que está livre pelo chão em direção ao quadril do oponente para liberar o pé preso.
 * **Detalhe:** Use o pé livre para "empurrar" o joelho do oponente e ajudar a soltar seu pé preso.
 * **Por que é boa:** É o "arroz com feijão" bem feito. Fundamental para mostrar base sólida na Faixa Marrom.
 * **Erro Comum:** Levantar o quadril para tentar tirar o pé, perdendo o peso e sendo raspado.
 * **Vídeo Sugerido:** [Passagem de Meia Guarda Básica e Eficiente](https://www.youtube.com/watch?v=P7e8Ag1aPMA)
 
-## 45. Smash Pass (Passagem Dobrando) - *Reserva 2*
+## 45. Smash Pass (Passagem Dobrando)
 * **Como fazer:** Contra guarda aberta. Avance dobrando as duas pernas do oponente para o mesmo lado (como se fosse fechar um livro). Abrace as pernas e o quadril, jogando seu peso sobre as coxas dele.
 * **Detalhe:** Use o seu peito para travar os joelhos dele contra o chão. Pule para o lado oposto das pernas (caminho livre) ou monte.
 * **Por que é boa:** Frustra o guardeiro flexível e coloca você em posição de montada fácil.
