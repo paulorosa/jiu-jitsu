@@ -1,8 +1,20 @@
-# 1o. Grau: Técnicas - Quedas
+# 1o. Grau: Técnicas - Quedas (8)
 
 Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na Faixa Marrom é demonstrar o *Kuzushi* (desequilíbrio) antes da entrada e o controle na aterrissagem.
 
 ---
+1-Baiana 
+2-Single Leg
+3-Double Leg
+4-osotogari
+5-O-Soto-Guruma
+6-O-Uchi-Gari
+7-Ko-Uchi-Gari:
+8-Ashi-Barai
+---
+
+
+
 
 ## 1. Baiana (Double Leg)
 * **Como fazer:** Mude de nível (abaixe o quadril), dê um passo de penetração profundo entre as pernas do oponente. Abrace as duas pernas (atrás dos joelhos ou coxas) mantendo a cabeça na lateral da cintura.
