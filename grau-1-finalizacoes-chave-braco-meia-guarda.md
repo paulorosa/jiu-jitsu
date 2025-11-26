@@ -1,4 +1,4 @@
-# 1o. Grau: Finalizações - Chave de Braço da Meia Guarda
+# 1o. Grau: Finalizações - Chave de Braço da Meia Guarda (3)
 Este guia detalha os estrangulamentos partindo da imobilização lateral e os ataques fundamentais quando se está passando a meia-guarda. O foco é o ajuste justo que elimina o espaço de defesa.
 
 ---
