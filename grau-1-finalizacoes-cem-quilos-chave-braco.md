@@ -1,4 +1,4 @@
-# 1o. Grau: Finalizações - Chave de Braço dos 100 Kg
+# 1o. Grau: Finalizações - Chave de Braço dos 100 Kg (5)
 
 Este bloco foca no ataque aos membros superiores partindo do controle lateral. A chave aqui é a distribuição de peso para evitar que o oponente gire enquanto você ataca.
 
