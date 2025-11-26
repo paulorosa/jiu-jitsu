@@ -1,10 +1,10 @@
-# Guia de Estudos: Finalizações da Guarda - Chave de Braço (Exame Faixa Marrom)
+# 2o. Grau: Finalizações - Chave de Braço da Guarda (4)
 
 Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 variações de reserva. O foco é o *controle de postura* e o *isolamento da articulação*.
 
 ---
 
-## 58. Armlock Clássico da Guarda Fechada
+## 1. Armlock Clássico da Guarda Fechada
 * **Como fazer:** Domine o braço do oponente cruzando-o sobre seu peito. Coloque o pé do mesmo lado no quadril para girar o corpo. Passe a outra perna por cima da cabeça (raspando a orelha dele) e feche os joelhos. Levante o quadril para finalizar.
 * **Detalhe:** O detalhe de mestre é a "quebra de postura" com as pernas. Antes de passar a perna na cabeça, use a perna que está nas costas dele para empurrá-lo para baixo, impedindo que ele levante.
 * **Por que é boa:** É o fundamento básico de ataque da guarda. Se ele defender, abre espaço para triângulo ou raspagem.
@@ -13,7 +13,7 @@ Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 var
 
 ---
 
-## 59. Kimura da Guarda Fechada
+## 2. Kimura da Guarda Fechada
 * **Como fazer:** Quando o oponente coloca a mão no chão ou na sua barriga. Domine o punho dele, abra a guarda, sente-se (abdominal) e passe seu braço por cima do ombro dele, fechando a figura 4. Caia para trás girando o tronco para o lado da Kimura.
 * **Detalhe:** Use suas pernas para fechar a guarda novamente ou usar como tesoura nas costelas dele para impedir que ele role para frente.
 * **Por que é boa:** É um ataque de força e alavanca que funciona muito bem contra oponentes maiores que tentam amassar.
@@ -22,7 +22,7 @@ Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 var
 
 ---
 
-## 60. Omoplata
+## 3. Omoplata
 * **Como fazer:** Domine uma manga e a gola/ombro oposto. Saia o quadril, coloque a perna por cima do ombro do braço dominado e estique as pernas para frente, obrigando-o a baixar a cabeça. Sente-se, triangulando as pernas, e projete o corpo para frente para finalizar no ombro.
 * **Detalhe:** O segredo é "chapar" o oponente no chão. Se ele ficar de joelhos, ele pode rolar. Estique suas pernas para deixá-lo de barriga no chão antes de subir.
 * **Por que é boa:** Além de finalizar, é uma das melhores posições para raspar se o oponente defender.
@@ -31,7 +31,7 @@ Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 var
 
 ---
 
-## 61. Armlock da Guarda Aberta (Aranha)
+## 4. Armlock da Guarda Aberta (Aranha)
 * **Como fazer:** Com a guarda aranha (pé no bíceps), estique uma perna e tire a outra do bíceps, passando-a por cima da cabeça do oponente. Use a perna que está esticada no bíceps para girar seu corpo e encaixar o armlock.
 * **Detalhe:** Mantenha a tensão constante no bíceps até o último segundo. É essa tensão que impede o oponente de amassar você enquanto você gira.
 * **Por que é boa:** Surpreende o passador que está focado em estourar as pegadas.
@@ -40,16 +40,20 @@ Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 var
 
 ---
 
-## 62. Chave de Braço Reta da Guarda (Straight Armlock)
+## 5. Chave de Braço Reta da Guarda
 * **Como fazer:** Quando você tenta o armlock clássico e o oponente defende tirando o cotovelo ou "empilhando". Segure o braço dele com as duas mãos, estique o quadril e finalize no cotovelo reto, sem precisar cruzar o corpo.
 * **Detalhe:** Pode ser feita também quando o oponente segura sua gola com o braço esticado. Ataque o cotovelo com a axila ou ombro.
 * **Por que é boa:** Pune o oponente que "esquece" o braço esticado ou que defende mal o armlock giratório.
 * **Erro Comum:** Não isolar o ombro, permitindo que o oponente gire o braço para aliviar a pressão.
 * **Vídeo Sugerido:** [Chave de Braço Reta da Guarda Fechada](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
 
-## 63. Mão de Vaca da Guarda (Wristlock)
+---
+
+## 6. Mão de Vaca da Guarda
 * **Como fazer:** O oponente segura sua gola ou peito. Domine a mão dele com as duas mãos (polegares nas costas da mão dele), traga os joelhos no peito para quebrar a postura e pressione a mão dele contra o pulso.
 * **Detalhe:** O cotovelo dele deve estar travado no seu peito ou barriga. Se o cotovelo recuar, a chave perde a pressão.
 * **Por que é boa:** É a técnica da "malícia" da Faixa Marrom. Finaliza rápido ou obriga o oponente a soltar a pegada, abrindo espaço para outros ataques.
 * **Erro Comum:** Tentar aplicar sem quebrar a postura do oponente. Ele precisa estar próximo para você ter alavanca.
 * **Vídeo Sugerido:** [Mão de Vaca na Guarda Fechada - Surpreenda](https://www.youtube.com/watch?v=fCcwBdQiZNY)
+
+---
