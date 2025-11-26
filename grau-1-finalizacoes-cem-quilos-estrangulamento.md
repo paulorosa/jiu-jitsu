@@ -4,7 +4,7 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 
 ---
 
-## 1. Baseball Choke (Estrangulamento de Beisebol)
+## 1. Estrangulamento de Beisebol
 * **Como fazer:** Do 100kg ou Joelho na Barriga, coloque as mãos na gola do oponente como se segurasse um taco de beisebol (uma mão com o polegar dentro, a outra com os quatro dedos dentro, bem justas). Gire o corpo para o Norte-Sul, cruzando os braços.
 * **Detalhe:** O segredo é o giro. Quanto mais você caminha para o Norte-Sul e cola a cabeça no chão, mais aperta. Os antebraços funcionam como uma tesoura no pescoço.
 * **Por que é boa:** É uma armadilha clássica. Muitas vezes o oponente acha que você está perdendo a posição ao girar, quando na verdade está apertando o golpe.
