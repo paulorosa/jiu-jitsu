@@ -1,22 +1,23 @@
-# Guia de Estudos: Finalizações 100kg (Estrangulamentos) e Meia-Guarda (Exame Faixa Marrom)
+# 1o. Grau: Finalizações - Estrangulamento da Meia Guarda
 
 Este guia detalha os estrangulamentos partindo da imobilização lateral e os ataques fundamentais quando se está passando a meia-guarda. O foco é o ajuste justo que elimina o espaço de defesa.
 
 ---
 
-
-### Finalizações da Meia-Guarda (Por Cima) - Estrangulamento
-
-## 30. Ezequiel da Meia-Guarda
+## 1. Ezequiel da Meia-Guarda
 * **Como fazer:** Abrace a cabeça do oponente (com o braço de trás). Coloque os quatro dedos dessa mão dentro da manga do seu outro braço. Passe o antebraço livre na frente do pescoço dele e estique.
 * **Detalhe:** Use o ombro para fazer pressão no queixo dele enquanto ajusta a pegada. Se ele defender o pescoço, use o Ezequiel para obrigá-lo a mover os braços e abrir espaço.
 * **Por que é boa:** Funciona muito bem quando o jogo está travado e justo.
 * **Erro Comum:** Deixar o braço que ataca muito longe do pescoço. O punho tem que entrar justo na traqueia/carótida.
 * **Vídeo Sugerido:** [Ezequiel de dentro da Meia Guarda](https://www.youtube.com/watch?v=M6ZJ2_2g7ro)
 
-## 31. Brabo Choke (Estrangulamento Rodado)
+---
+
+## 2. Estrangulamento Rodado
 * **Como fazer:** Entregue a lapela do oponente (a que está solta ou a sua própria) para a mão que está abraçando a cabeça dele por trás (*crossface*). Passe o outro braço por cima do ombro dele, segure a lapela e avance o corpo para estrangular.
 * **Detalhe:** É necessário "quebrar" a postura dele, colando a cabeça dele no seu peito. O movimento final é de avanço e rotação.
 * **Por que é boa:** Um dos estrangulamentos mais fortes do Jiu-Jitsu moderno, difícil de defender sem ceder a passagem.
 * **Erro Comum:** Não ajustar a lapela o suficiente antes de tentar finalizar. Se estiver frouxo, não pega.
 * **Vídeo Sugerido:** [Estrangulamento Rodado (Brabo Choke) da Meia Guarda](https://www.youtube.com/watch?v=O-67JUTmtFM)
+
+---
