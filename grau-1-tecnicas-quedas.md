@@ -1,6 +1,4 @@
-
-```markdown
-# Guia de Estudos: Quedas e Projeções (Exame Faixa Marrom)
+# 1o. Grau: Técnicas - Quedas
 
 Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na Faixa Marrom é demonstrar o *Kuzushi* (desequilíbrio) antes da entrada e o controle na aterrissagem.
 
@@ -78,7 +76,7 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 
 ---
 
-## 9. Uchi Mata (Arremesso de Coxa Interna) - *Reserva 1*
+## 9. Uchi Mata (Arremesso de Coxa Interna)
 * **Como fazer:** Com pegada de gola e manga (ou gola alta nas costas), dê um passo de entrada cruzando entre as pernas do oponente e gire o corpo encaixando o quadril. A sua perna entra no meio das pernas dele e chuta para o alto, levantando a coxa interna dele.
 * **Detalhe:** A rotação da cabeça é o segredo. Olhe para onde você quer jogar o oponente (para o chão/lado), girando o tronco. A perna funciona como um pêndulo para alavancar o peso.
 * **Por que é boa:** É uma das quedas mais plásticas e eficientes contra adversários que travam o quadril ou ficam curvados (postura defensiva).
@@ -87,10 +85,10 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 
 ---
 
-## 10. Kouchi Gari (Pequena Segada Interna) - *Reserva 2*
+## 10. Kouchi Gari (Pequena Segada Interna)
 * **Como fazer:** Faça o oponente abrir a base (forçando um passo para trás). Com a sola do seu pé, faça um gancho por dentro do calcanhar do pé da frente dele, puxando-o na sua direção ("colherada"), enquanto empurra o peito dele para trás.
 * **Detalhe:** O movimento de mão é de "soco" no ombro/peito para transferir o peso dele para o calcanhar que você está varrendo, prendendo-o no chão antes da varrida.
 * **Por que é boa:** É uma queda de baixíssimo risco. Se errar, você continua em pé e seguro. Excelente para conectar com outras quedas (faz o Kouchi, ele reage, você entra o Seoi Nage).
 * **Erro Comum:** Tentar varrer a perna quando ela está sem peso (flutuando) ou quando está com peso demais travado. O *timing* exato é quando ele está apoiando o pé.
 * **Vídeo Sugerido:** [Kouchi Gari - Detalhes para Jiu Jitsu](https://www.youtube.com/watch?v=5Q5eXq8Z9_M)
-```
+
