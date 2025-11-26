@@ -1,10 +1,10 @@
-# Guia de Estudos: Saídas de Chave de Braço e Ombro (Exame Faixa Marrom)
+# 4o. Grau: Finalizações - Saída de Braço / Ombro (3)
 
 Este bloco cobre as defesas fundamentais contra os ataques articulares mais comuns. O foco é a **postura** e a **retirada do cotovelo** da linha de perigo.
 
 ---
 
-## 115. Defesa de Armlock da Guarda (Amassando/Stack)
+## 1. Defesa de Armlock da Guarda (Amassando/Stack)
 * **Como fazer:** Quando o oponente passa a perna sobre sua cabeça. Junte suas mãos (mão com mão ou segurando seu próprio bíceps) para ganhar tempo. Levante a perna do mesmo lado do braço atacado (base) e avance o joelho em direção ao quadril dele, empilhando o peso do seu corpo sobre o pescoço dele (*stack*).
 * **Detalhe:** Não puxe o braço para trás (cabo de guerra). Empurre seu corpo para frente. Ao amassar, tire a cabeça de dentro das pernas ou gire o cotovelo para o lado oposto da pressão para escapar.
 * **Por que é boa:** Usa a gravidade a seu favor e coloca muita pressão na cervical do oponente, obrigando-o a soltar o braço.
@@ -13,7 +13,7 @@ Este bloco cobre as defesas fundamentais contra os ataques articulares mais comu
 
 ---
 
-## 116. Defesa de Kimura (Contra-Kimura/Re-Kimura)
+## 2. Defesa de Kimura (Contra-Kimura/Re-Kimura)
 * **Como fazer:** Quando o oponente na guarda (ou meia) domina seu pulso e fecha o triângulo de mão. Antes que ele leve seu braço para as costas, segure a sua própria coxa ou a calça dele (por dentro). Se ele puxar, acompanhe o movimento e segure o pulso dele com sua mão livre, aplicando uma Kimura nele ou apenas travando a posição.
 * **Detalhe:** A "postura" é a chave. Levante o tronco e traga o cotovelo para perto da sua costela. Esconda a mão na parte interna da sua coxa ou faixa para matar a alavanca.
 * **Por que é boa:** Anula a rotação do ombro. Se a mão estiver colada no seu corpo, o ombro não gira.
@@ -22,7 +22,7 @@ Este bloco cobre as defesas fundamentais contra os ataques articulares mais comu
 
 ---
 
-## 117. Defesa de Americana do 100kg (Ponte e Cotovelo)
+## 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
 * **Como fazer:** O oponente no 100kg domina seu pulso e cotovelo. Antes dele baixar seu cotovelo para o lado da cintura, faça uma ponte explosiva para o lado oposto ao dele, esticando o braço atacado para cima da cabeça (como se fosse "perguntar" algo na escola).
 * **Detalhe:** Ao esticar o braço, você alinha o ombro e tira a pressão da rotação. Gire o corpo para ficar de quatro apoios ou repor a guarda imediatamente.
 * **Por que é boa:** Aproveita o momento em que o oponente foca no braço e esquece do peso no quadril.
@@ -31,7 +31,7 @@ Este bloco cobre as defesas fundamentais contra os ataques articulares mais comu
 
 ---
 
-## 118. Defesa de Omoplata (Rolamento/Cambalhota)
+## 4. Defesa de Omoplata (Rolamento/Cambalhota)
 * **Como fazer:** O oponente encaixa a omoplata e começa a subir. Não deixe ele "chapar" você no chão. Levante o quadril alto, dobre os joelhos e faça um rolamento (cambalhota) sobre o ombro que está livre (o de fora), saltando para o outro lado do corpo dele.
 * **Detalhe:** Ao cair do outro lado, puxe o oponente para você ou abrace a cabeça dele para não perder a posição. O rolamento deve ser diagonal.
 * **Por que é boa:** Zera a pressão no ombro instantaneamente e muitas vezes cai em posição de passar a guarda.
@@ -40,9 +40,8 @@ Este bloco cobre as defesas fundamentais contra os ataques articulares mais comu
 
 ---
 
-### Técnica de Reserva (Bônus)
 
-## 119. Defesa de Chave de Braço Reta (Giro do Polegar) - *Reserva*
+## 5. Defesa de Chave de Braço Reta (Giro do Polegar)
 * **Como fazer:** O oponente estica seu braço (no armlock ou chave reta). Gire o seu polegar para baixo (em direção ao chão ou perna do oponente) e "corra" com as pernas para o lado do polegar, girando o cotovelo para fora da linha de pressão.
 * **Detalhe:** O armlock só pega se o polegar estiver para cima (teto). Girar o polegar muda o ângulo do cotovelo. Chute a perna dele com a sua perna para tirar o gancho da cabeça.
 * **Por que é boa:** É a "saída de emergência" quando o braço já está esticado. Salva o braço no último segundo.
