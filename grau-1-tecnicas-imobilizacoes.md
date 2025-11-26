@@ -1,4 +1,4 @@
-# 1o. Grau: Técnicas - Imobilizações
+# 1o. Grau: Técnicas - Imobilizações (6)
 
 Este guia detalha as 6 imobilizações obrigatórias e 2 variações de reserva para o exame de graduação. O foco é demonstrar controle, pressão e evitar erros técnicos básicos.
 
@@ -58,7 +58,7 @@ Este guia detalha as 6 imobilizações obrigatórias e 2 variações de reserva 
 
 ---
 
-## 7. 100kg Invertido (Ushiro Kesa Gatame)
+## 7. 100kg Invertido
 * **Como fazer:** Do 100kg, gire o corpo olhando para os pés do oponente. Seu braço (que abraçava a cabeça) agora controla a axila dele.
 * **Detalhe:** Mantenha seu quadril baixo e pesado sobre o peito dele. É uma posição de transição clássica para montar.
 * **Por que é boa:** Desorienta o oponente que espera a pressão no rosto e expõe o braço distante para ataques.
