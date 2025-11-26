@@ -1,10 +1,10 @@
-# Guia de Estudos: Saída das Costas - Lado do Braço (Exame Faixa Marrom)
+# 4o. Grau: Técnicas - Saída das Costas (2)
 
 Este bloco cobre as técnicas de defesa quando você consegue cair para o "Lado Fraco" (onde o braço do oponente está embaixo da sua axila). É o caminho mais seguro de fuga.
 
 ---
 
-## 98. Saída Básica (Costas no Chão)
+## 1. Saída Básica (Costas no Chão)
 * **Como fazer:** Proteja o pescoço. Jogue o seu peso e o do oponente para o lado onde o braço dele está *embaixo* da sua axila (não o lado do braço que estrangula). Use as pernas para empurrar o chão e raspar suas costas no tatame até conseguir colocar a nuca e as escápulas no chão. Vire de frente para ele repondo a guarda.
 * **Detalhe:** O "pulo do gato" é o cotovelo. Assim que cair de lado, force seu cotovelo para dentro, raspando no chão, para impedir que ele te puxe de volta.
 * **Por que é boa:** Anula o Mata-Leão (o chão bloqueia o braço dele) e coloca você em posição de repor a meia-guarda ou fechada.
@@ -13,7 +13,7 @@ Este bloco cobre as técnicas de defesa quando você consegue cair para o "Lado 
 
 ---
 
-## 99. Saída com Ponte e Giro (Invertendo)
+## 2. Saída com Ponte e Giro (Invertendo)
 * **Como fazer:** Caia para o lado do braço (lado fraco). Se o oponente estiver muito "colado", faça uma ponte forte apoiando a cabeça no chão para criar espaço entre as suas costas e o peito dele. Gire a cabeça para dentro e suba o quadril, terminando por cima (na guarda dele) ou de joelhos.
 * **Detalhe:** Segure o braço dele acima da sua cabeça com as duas mãos para evitar que ele te acompanhe.
 * **Por que é boa:** Transforma uma defesa perigosa em uma posição de vantagem (top position/100kg).
@@ -22,9 +22,7 @@ Este bloco cobre as técnicas de defesa quando você consegue cair para o "Lado 
 
 ---
 
-### Técnica de Reserva (Bônus)
-
-## 99B. Saída do Triângulo de Corpo (Body Triangle) - *Reserva*
+## 3. Saída do Triângulo de Corpo
 * **Como fazer:** Se o oponente fechar o triângulo de corpo (cadeado na sua cintura). Identifique para qual lado está o pé dele (o pé que fecha o cadeado). Role o seu corpo para cima desse pé, colocando todo o seu peso sobre o tornozelo dele. Isso causa dor e obriga ele a abrir. Assim que abrir, execute a saída 98.
 * **Detalhe:** Nunca cruze os seus pés se você estiver nas costas (erro de ataque), mas na defesa, você deve explorar o pé do oponente que está "dando sopa".
 * **Por que é boa:** O triângulo de corpo é muito difícil de sair apenas com movimentação de quadril. Essa técnica ataca a estrutura do cadeado.
