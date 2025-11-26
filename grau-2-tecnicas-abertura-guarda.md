@@ -1,4 +1,4 @@
-# Guia de Estudos: Técnicas de Abertura de Guarda (Exame Faixa Marrom)
+# 2o. Grau: Técnicas - Abertura de Guarda (4)
 
 Este bloco cobre as 4 formas essenciais de abrir a guarda fechada. O foco na Faixa Marrom é a **postura inquebrável** e a capacidade de alternar entre abrir em pé e ajoelhado sem perder o equilíbrio.
 
