@@ -96,3 +96,11 @@ Este bloco expandido cobre 9 ataques essenciais: Botinhas, Joelhos, Mata-Leões 
 * **Vídeo Sugerido:** [Chave de Panturrilha - Variações e Ajustes](https://www.youtube.com/watch?v=MulLm3H6r7c)
 
 ---
+
+4 Chave de Tornozelo (pé)
+   1. Na guarda em pé, abaixa, envolve o pé com a faca da mão, pega no kimono e estica o tronco.
+   2. Na guarda em pé, empurra uma das pernas, entra o joelho, abraça o outro pé com a faca da mão, pé colado, cai de lado, joelho em joelho, pé no peito e estica o tronco.
+   3. Adversário nas costas, cruzou os pés, você fecha o triângulo nos pés dele e vai deitando para traś e empurrando com o quadril para cima.
+   4. Na guarda fechada, mão para frente, levanta quadril, sai andando para frente, estoura a guarda, abraça o pé com a faca da mão, pega no kimono, estica
+
+
