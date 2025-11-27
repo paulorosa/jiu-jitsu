@@ -37,3 +37,22 @@ Este bloco cobre os ataques de pescoço quando o oponente se fecha em tartaruga.
 * **Por que é boa:** Excelente controle de transição. Se não finalizar, você cai por cima ou nas costas.
 * **Erro Comum:** Não entrar o braço fundo o suficiente antes de rolar. A mão tem que tocar as costas dele ou o seu próprio bíceps com folga.
 * **Vídeo Sugerido:** [Anaconda Choke na Tartaruga - Detalhes Técnicos](https://www.youtube.com/watch?v=_eTRhmFd-1o)
+
+
+---
+
+2 Estrangulamentos de Quatro Apoios
+   1. Mata-Leão
+   2. Reloginho: põe cabeça no chão e sai rodando
+
+
+2 Estrangulamentos de Quatro Apoios
+   1. Mata-Leão
+   2. Reloginho
+
+4 Chave de Tornozelo (pé)
+    1) Na guarda em pé, abaixa, envolve o pé com a faca da mão, pega no Kimono e estica o trono.
+    2) Na guarda em pé, empurra uma das pernas, entra o joelho, abraça o outro pé com a faca da mão, pé colado, cai de lado, joelho com joelho, pé no peito e estica o tronco.
+    3) Adversário nas costas, cruzou os pés, você fecha o triângulo nos pés dele e vai deitando para trás e empurrando com o quadril para cima.
+    4) Na guarda fechada, mão para frente, levanta o quadril, sai andando para frente, estoura a guarda, abraça o pé com a faca da mão, pega o kimono, estica.
+
