@@ -46,3 +46,22 @@ Este bloco foca em ataques que aproveitam o desespero do oponente causado pela p
 * **Por que é boa:** É a "assinatura" da maldade na Faixa Marrom. Finaliza sem gastar energia e muitas vezes faz o oponente entregar o braço ou pescoço.
 * **Erro Comum:** Tentar fazer com o braço do oponente solto. O cotovelo precisa estar apoiado em algo (seu corpo ou o chão).
 * **Vídeo Sugerido:** [Mão de Vaca do Joelho na Barriga e 100kg](https://www.youtube.com/watch?v=4zWl4Fc2tfU)
+
+---
+
+(4) Finalizações com Joelho da Barriga a partir dos 100 Kg
+1. Uma mão na lapela - outra mão na lapela - puxa
+2. Uma mão invertida na lapela - Outra mão no ombro - Braço passando no pescoço
+3. Uma mão invertida na lapela - Outra mão pega no kimono - puxa por baixo do pescoço  - Braço passando no pescoço
+4. uma mão na lapela - tira joelho da barriga - abraça a costa do adversário - junta dois joelhos - Tomba para o lado com o braço passando no pescoço - como se fosse 100 kg invertido
+
+2 Cem Quilos c/ Joelho na Barriga
+Joelho na Barriga + armlock
+Americana
+Estrangulamento
+Evoluir para montada
+
+2 100 Kg c/ Joelho na Barriga
+   1. Arm-Lock após Fuga: dep
+   2. Estrangulamento após Fuga: Estrangulamento tradicional após fuga
+
