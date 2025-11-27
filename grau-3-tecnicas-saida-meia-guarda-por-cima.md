@@ -55,3 +55,20 @@ Este bloco cobre as 4 passagens obrigatórias do 3º Grau e 2 variações de res
 * **Por que é boa:** A meia profunda é perigosa para raspagens; saber estabilizar e passar é obrigatório na marrom.
 * **Erro Comum:** Ficar leve ou tentar puxar a perna presa com força bruta (ele vai te acompanhar e raspar).
 * **Vídeo Sugerido:** [Passagem e Defesa da Meia Guarda Profunda](https://www.youtube.com/watch?v=J0Mq7oPff-Y)
+
+---
+
+(4)  Saídas de meia-guarda (por cima)
+1. Levanta - Empurra com pé - Desce joelho - 100 kg
+2. Levanta - Empurra com pé - Desce joelho - Montada
+3. Mão na Lapela - pux para perto - Outra mão no calça joelho - sprawll - 100 kg
+4. Levanta joelho - vai para outro lado 100 kg invertido - pega no fundilho da calça - Outra mão no joelho - cambalhota para a diagonal - Vai para Finalização de costa
+
+2 Saídas da Meia Guarda por Cima (totózinho + montada, totózinho + 100 kg invertido)
+
+
+2 Saídas de Meia-Guarda por Cima
+   1. Caída no 100 kg: Com a esgrima ganha e abraçado a cabeça, cabeça no tatame, totózinho para cima, quadril para o alto, quebra o joelho para fora, empurra com o pé, sair do cadeado e cai no 100 kg.
+   2. Caída na Montada: Variação da anterior, mas quebra o joelho para dentro, encosta no tatame, totózinho, chuta o cadeado do oponente e cai na montada.
+
+
