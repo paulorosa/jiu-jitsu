@@ -47,3 +47,23 @@ Este bloco cobre as defesas fundamentais contra os ataques articulares mais comu
 * **Por que é boa:** É a "saída de emergência" quando o braço já está esticado. Salva o braço no último segundo.
 * **Erro Comum:** Girar para o lado errado (polegar para cima) ou esquecer de tirar a perna da frente do rosto (o que impede o giro do corpo).
 * **Vídeo Sugerido:** [Defesa de Chave Reta e Armlock (Giro do Polegar)](https://www.youtube.com/watch?v=vc-oOwj758M)
+
+
+---
+3 Saídas de Chave de Braço (saída de omoplata com cambalhota, saída de omoplata com pulo para outro lado, saída de arm-lock dobrando o braço)
+
+
+3 Saídas de Chave de Braço / Ombro
+   1. Estica braço na americana
+   2. Braço para baixo na americana esticada
+   3. Saída Arm-Lock completa
+
+
+3 Saídas de Chave de Braço / Ombro
+   1. Saída da Americana: estica braço.
+   2. Saída Americana esticada: braço para baixo.
+   3. Saída Arm-Lock completa
+
+
+   Defesa do arm lock repondo a guarda 
+
