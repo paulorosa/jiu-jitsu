@@ -94,9 +94,16 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
    1. Entrada Lendo Jornal: 
    2. Entrada Tradicional: 
-   3. Passagem de Meia-Guarda: 
+   3. Passagem de Meia-Guarda:
+   4. Passagem de guarda laço
+   5. girando roda caminhão
+   6. pega joelho e cai em cima no 100 kg
+   7. em pé + mão lapela + passa o pé
 
    1. Passagem da guarda aberta para o lado esquerdo fazendo 100 kg.
    2. Emborcada com a mão invertida perto do pescoço na lapela passando o braço por cima
    3. Raspagem da guarda aranha forçando a perna do oponente para o lado que você vai querer pisar, invertendo com o pé que você vai pisar nele, forçar soltar a mão, com a mão que está preso, puxar para o seu lado oposto.
+
+Passagem do 100 kg para a montada
+
 
