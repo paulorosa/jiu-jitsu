@@ -37,3 +37,20 @@ Este bloco foca em punir a defesa de pescoço do oponente. Quando ele sobe os br
 * **Por que é boa:** Deixa suas mãos livres para atacar o pescoço. Se ele defender o pescoço, o braço quebra. O dilema perfeito.
 * **Erro Comum:** Deixar o braço escorregar de dentro das pernas por falta de pressão nos adutores (coxas).
 * **Vídeo Sugerido:** [Como finalizar no Crucifixo (Braço e Pescoço)](https://www.youtube.com/watch?v=qPYzgeHWC4k)
+
+---
+1 Chave de Braço da Costa
+   1. Arm-Lock tradicional
+
+chave de braço a partir das costas
+
+- Chave de braço tradicional (Americana): Na posição das costas, você utiliza o controle do seu corpo para segurar o pulso do oponente e aplicar uma pressão em direção ao ombro dele, hiperestendendo o cotovelo.
+
+- Chave de braço invertida (Kimura): A partir das costas, você agarra o punho do oponente e coloca seu próprio braço por cima do braço dele, em vez de por baixo. Você então aplica uma alavanca, girando o ombro do oponente em direção às costas dele.
+
+- Chave de braço com gancho de perna (Triangle Armbar): A partir das costas, você envolve uma das pernas em torno do pescoço do oponente, criando um triângulo com as pernas. Com o outro braço, você segura o braço do oponente e aplica uma chave de braço enquanto continua a pressionar o triângulo.
+
+- Chave de braço com giro (Spinning Armbar): Nessa técnica, você agarra o braço do oponente enquanto está nas costas, mas, em vez de aplicar a chave de braço tradicional, gira o corpo para a frente, passando sobre o ombro dele e finalizando com uma chave de braço.
+
+
+
