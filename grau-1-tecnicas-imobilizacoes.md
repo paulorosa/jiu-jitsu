@@ -72,3 +72,19 @@ Este guia detalha as 6 imobilizações obrigatórias e 2 variações de reserva 
 * **Por que é boa:** Demonstra domínio técnico refinado, impedindo defesas de finalização e raspagens.
 * **Erro Comum:** Perder a base e o peso ao tentar pescar o braço, ficando leve em cima.
 * **Vídeo Sugerido:** [Crucifixo Partindo do 100kg](https://www.youtube.com/watch?v=O-67JUTmtFM)
+
+---
+
+4 Imobilizações (100 kg, montada,100 kg invertido, norte-sul)
+
+
+4 Imobilizações
+   1. 100 kg Tradicional: esgrimado, peso, cabeça abaixada no oponente, joelho dobrado, estica o outro. joelho quadril + ombro queixo.
+   2. 100 kg Invertido: cotovelo embaixo axila
+   3. 100 kg segurando Braço: mão esgrimada + leque invertido - guarda S mão por cima da cabeça, montada.
+   4. 100 kg Norte / Sul: duas mãos para fora
+
+
+
+
+
