@@ -57,3 +57,17 @@ Este bloco cobre os ataques articulares partindo da montada. O foco é a *estabi
 * **Vídeo Sugerido:** [Kimura na Montada - Detalhes](https://www.youtube.com/watch?v=Jz8qBmx6KJA)
 
 ---
+
+(4) Finalizações de Chave de Braço a partir da Montada
+1. Americana
+2. Americana extendida
+3. Segura um braço - Sobe - Cai - Levanta quadril com dedo para cima
+4. Levanta um joelho - Estende braço adversário 
+
+2 Chaves de Braço da Montada
+Americana (colocar os dois ganchos)
+Armlock da montada - na montada, com o braço direito,  pega o braço direito do oponente, levanta o pé  esquerdo,  senta e passa o pé direito por cima da cabeça do oponente.
+
+2 Chaves de Braço da Montada
+   1. Americana: (colocar os dois ganchos)
+   2. Levanta, Senta e Passa: Armlock da montada - na montada, com o braço direito,  pega o braço direito do oponente, levanta o pé  esquerdo,  senta e passa o pé direito por cima da cabeça do oponente.
