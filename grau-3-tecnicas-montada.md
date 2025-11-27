@@ -36,3 +36,12 @@ Armlock
 Americana
 Estrangulamento
 
+
+(3) Montadas
+1. A partir da Meia-guarda - Sobe e empurra joelho com pé - Montada
+2. A partir do 100 kg invertido - outra mão na faixa do adversário - puxa calça joelho - Montada
+3. Guarda em pé - Agarra joelho - Puxa para baixo - Montada
+4. Guarda Fechada - Raspagem Empurra Joelho - Montada
+5. Guarda Fechada - Raspagem Tesourinha
+
+
