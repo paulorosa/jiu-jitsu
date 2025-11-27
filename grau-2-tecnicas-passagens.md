@@ -4,7 +4,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 36. Toreando (Bullfighter Pass)
+## 1. Toreando
 * **Como fazer:** Faça pegadas na parte interna dos joelhos do oponente (ou bocas de calça). Mantenha os braços esticados e rígidos (*stiff arm*). Caminhe lateralmente para um lado, jogando as pernas do oponente para o outro. Avance o quadril para colar na lateral.
 * **Detalhe:** Não cruze seus próprios pés ao caminhar. Se o oponente acompanhar, finte para um lado e jogue as pernas dele para o outro (o "drible").
 * **Por que é boa:** É a passagem mais clássica de velocidade e reação, funcionando contra qualquer tipo de guarda aberta.
@@ -13,7 +13,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 37. Cruzando o Joelho (Knee Slice / Knee Cut)
+## 2. Cruzando o Joelho
 * **Como fazer:** Quando o oponente está com a guarda aberta ou meia-guarda. Entre o joelho entre as pernas dele, apontando para fora. Ganhe a esgrima (*underhook*) e abrace a cabeça ou gola. Deslize o joelho até o chão, "fatiando" a coxa do oponente.
 * **Detalhe:** Cole sua cabeça no chão ou no ombro do oponente para evitar que ele esgrime de volta. A outra perna (esticada) deve dar pressão nos dedos do pé.
 * **Por que é boa:** Uma das passagens mais difíceis de defender porque mistura pressão extrema com mobilidade.
@@ -22,7 +22,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 38. Emborcada (Stack Pass)
+## 3. Emborcada
 * **Como fazer:** Quando o oponente tenta armlock ou triângulo, ou na guarda aberta. Domine as duas golas ou calças, coloque o braço por baixo das pernas dele (*double under*) ou abrace o quadril. Levante o quadril do oponente do chão, jogando os joelhos dele na testa dele.
 * **Detalhe:** Use seu ombro na região lombar/glúteo do oponente para manter a pressão. Caminhe lateralmente sem aliviar o peso até passar.
 * **Por que é boa:** Neutraliza a flexibilidade do oponente e cansa muito a lombar e o pescoço dele.
@@ -31,7 +31,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 39. Leg Drag
+## 4. Leg Drag
 * **Como fazer:** Da guarda aberta, domine o tornozelo ou calça do oponente. Puxe a perna dele cruzando na frente do seu quadril (arrastando) e trave a coxa dele com o seu quadril/coxa. Avance para o controle lateral ou costas.
 * **Detalhe:** Você deve "matar" o quadril dele. Ao arrastar a perna, seu peito deve colar na coxa dele ou no quadril, impedindo que ele vire de frente para você.
 * **Por que é boa:** É a ponte perfeita entre a passagem de guarda e a pegada de costas. Muito moderna e eficiente.
@@ -40,7 +40,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 40. Over-Under Pass (Passagem Por Cima e Por Baixo)
+## 5. Over-Under Pass (Passagem Por Cima e Por Baixo)
 * **Como fazer:** Coloque um braço por baixo da perna do oponente (abraçando a coxa) e o outro por cima da outra perna (controle da calça ou canela). Pressione seu ombro na barriga/plexo dele. Estique as pernas em "tripé" e caminhe para o lado do braço que está por baixo.
 * **Detalhe:** O braço que está por cima deve travar a perna do oponente esticada para que ele não consiga fechar o triângulo ou repor.
 * **Por que é boa:** Passagem de pressão extrema, excelente para anular guardas flexíveis e meia-guarda.
@@ -49,7 +49,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 41. X-Pass (Passagem em X)
+## 6. X-Pass (Passagem em X)
 * **Como fazer:** Em pé, contra guarda aberta (De La Riva ou similar). Chute uma perna para trás para estourar o gancho e, simultaneamente, cruze a perna do oponente com a mão para o lado oposto (formando um X com seus braços/movimento). Avance o joelho na barriga instantaneamente.
 * **Detalhe:** É um movimento de "chuta e cruza". A explosão do chute para trás é o que gera a oportunidade de invadir o espaço.
 * **Por que é boa:** Muito rápida e plástica. Surpreende quem gosta de fazer guarda de gancho.
@@ -58,7 +58,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 42. Long Step Pass (Passada Longa)
+## 7. Long Step Pass (Passada Longa)
 * **Como fazer:** Estando na meia-guarda ou *combat base*. Abrace a cabeça do oponente e domine a manga ou braço dele. Dê um passo longo para trás e para o lado com a perna que estava livre, girando o quadril e caindo de lado, arrastando a perna presa.
 * **Detalhe:** O segredo é a "cabeçada" no peito do oponente para manter o peso enquanto o corpo gira para longe.
 * **Por que é boa:** Gera muita velocidade e força centrífuga, soltando a perna presa na meia-guarda quase que instantaneamente.
@@ -67,7 +67,7 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 43. Passagem de Guarda Borboleta (Amassando)
+## 8. Passagem de Guarda Borboleta (Amassando)
 * **Como fazer:** Aproxime-se do guardeiro sentado. Junte os joelhos dele com suas mãos ou abraçando por fora. Cole seu peito nos joelhos dele, achatando as pernas dele contra o chão ou para o lado. Caminhe para a lateral mantendo a pressão.
 * **Detalhe:** Se ele tiver ganchos fortes, use a cabeça ou ombro para dar pressão no peito dele, obrigando-o a deitar as costas no chão (matar a alavanca).
 * **Por que é boa:** Anula a raspagem de gancho antes mesmo dela começar.
@@ -76,16 +76,27 @@ Este bloco cobre as 8 passagens obrigatórias e 2 variações de reserva. O foco
 
 ---
 
-## 44. Passagem de Meia-Guarda (Esgrima e Slide)
+## 9. Passagem de Meia-Guarda (Esgrima e Slide)
 * **Como fazer:** Na meia-guarda, ganhe a esgrima e o controle da cabeça. Cole o queixo no chão. Deslize o joelho que está livre pelo chão em direção ao quadril do oponente para liberar o pé preso.
 * **Detalhe:** Use o pé livre para "empurrar" o joelho do oponente e ajudar a soltar seu pé preso.
 * **Por que é boa:** É o "arroz com feijão" bem feito. Fundamental para mostrar base sólida na Faixa Marrom.
 * **Erro Comum:** Levantar o quadril para tentar tirar o pé, perdendo o peso e sendo raspado.
 * **Vídeo Sugerido:** [Passagem de Meia Guarda Básica e Eficiente](https://www.youtube.com/watch?v=P7e8Ag1aPMA)
 
-## 45. Smash Pass (Passagem Dobrando)
+## 10. Passagem Dobrando
 * **Como fazer:** Contra guarda aberta. Avance dobrando as duas pernas do oponente para o mesmo lado (como se fosse fechar um livro). Abrace as pernas e o quadril, jogando seu peso sobre as coxas dele.
 * **Detalhe:** Use o seu peito para travar os joelhos dele contra o chão. Pule para o lado oposto das pernas (caminho livre) ou monte.
 * **Por que é boa:** Frustra o guardeiro flexível e coloca você em posição de montada fácil.
 * **Erro Comum:** Não colocar pressão suficiente no quadril, permitindo que ele reponha a guarda por baixo.
 * **Vídeo Sugerido:** [Smash Pass - Passagem Dobrando](https://www.youtube.com/watch?v=V21tQY8Q73g)
+
+---
+
+   1. Entrada Lendo Jornal: 
+   2. Entrada Tradicional: 
+   3. Passagem de Meia-Guarda: 
+
+   1. Passagem da guarda aberta para o lado esquerdo fazendo 100 kg.
+   2. Emborcada com a mão invertida perto do pescoço na lapela passando o braço por cima
+   3. Raspagem da guarda aranha forçando a perna do oponente para o lado que você vai querer pisar, invertendo com o pé que você vai pisar nele, forçar soltar a mão, com a mão que está preso, puxar para o seu lado oposto.
+
