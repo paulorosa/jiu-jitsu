@@ -14,7 +14,7 @@
 * **Detalhe:** A perna que não está presa deve "chutar" a axila do oponente para gerar o giro. É um movimento circular, não lateral.
 * **Por que é boa:** Anula a base do oponente ao prender o braço e a perna do mesmo lado.
 * **Erro Comum:** Não girar o suficiente e ficar "preso" embaixo do peso do oponente.
-* **Vídeo Sugerido:** [Raspagem Pêndulo - Passo a Passo](https://www.youtube.com/watch?v=OAC_XsbPiJ8) (trocar vídeo)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/lrGi4pwjptw
 
 ## 3. Raspagem de Quadril no Joelho (da Guarda Fechada)
 * **Como fazer:** Quando o oponente postura para trás na guarda fechada. Abra a guarda, apoie o cotovelo no chão e suba o quadril, abraçando o braço do oponente por cima. Gire o quadril jogando-o para o lado.
@@ -28,7 +28,7 @@
 * **Detalhe:** Traga o oponente para cima de você antes de cair de lado. Seu ombro deve colar no chão, não suas costas (fique de lado).
 * **Por que é boa:** A base da guarda sentada moderna. Funciona muito bem sem kimono também.
 * **Erro Comum:** Deitar de costas no chão (flat), perdendo a mobilidade e a força do gancho.
-* **Vídeo Sugerido:** [Raspagem de Gancho Básica e Eficiente](https://www.youtube.com/watch?v=M6ZJ2_2g7ro)
+* **Vídeo Sugerido:** https://www.youtube.com/watch?v=KyhHBMNWyiI
 * Raspagem de gancho segurando a faixa nas costas
 
 ## 5. Raspagem de Gancho Cruzada (da Guarda Borboleta)
@@ -36,42 +36,42 @@
 * **Detalhe:** Ao cruzar o braço dele, você mata a defesa de "postar a mão".
 * **Por que é boa:** Surpreende quem espera a raspagem para o lado da esgrima tradicional.
 * **Erro Comum:** Não recolher o braço do oponente o suficiente, permitindo que ele apoie o cotovelo.
-* **Vídeo Sugerido:** [Variações da Guarda Borboleta](https://www.youtube.com/watch?v=8fAubHONy3I)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/P8fPDftXEto
 
 ## 6. Raspagem com o Pé no Quadril (Tripé) (da Guarda Aberta)
 * **Como fazer:** Da guarda aberta contra oponente em pé. Coloque um pé no quadril e o outro fazendo um gancho atrás do joelho do oponente. Com a mão, segure o calcanhar da perna que está com o gancho. Empurre o quadril e puxe o calcanhar.
 * **Detalhe:** É um movimento de "empurra e puxa" simultâneo. O gancho atrás do joelho serve para recolher a perna dele.
 * **Por que é boa:** A raspagem mais segura da guarda aberta. Se ele defender, você volta para a guarda.
 * **Erro Comum:** Soltar o calcanhar antes dele cair, permitindo que ele dê um passo para trás e equilibre.
-* **Vídeo Sugerido:** (https://www.youtube.com/shorts/ZwqxUbHC3EA)
+* **Vídeo Sugerido:**  https://www.youtube.com/shorts/UQoMADtWTWo
 
 ## 7. Foice (da Guarda Fechada)
 * **Como fazer:** Variação do Tripod. Uma mão segura a manga cruzada, a outra o calcanhar. A perna livre faz um movimento de "foice" na axila ou pescoço do oponente, girando-o.
 * **Detalhe:** O pé na axila/ombro quebra a postura enquanto a mão no calcanhar tira a base.
 * **Por que é boa:** Gera muito desequilíbrio e já cai passando a guarda.
 * **Erro Comum:** Perder a pressão no pé que vai no ombro, deixando o oponente posturar.
-* **Vídeo Sugerido:** [Raspagem Tomahawk - Detalhes](https://www.youtube.com/watch?v=yltK4T8qNJo)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/2FSo_MuOA7I
 
 ## 8. Raspagem da Meia-Guarda
 * **Como fazer:** Na meia-guarda, esgrime o braço e domine a calça do oponente na perna oposta (a que está longe). Saia o quadril para o lado, fique de quatro apoios (dog fight) e gire puxando o joelho dele ou indo para as costas.
 * **Detalhe:** A "Coyotagem" (torção do quadril com o gancho da meia) ajuda a desequilibrar antes de subir.
 * **Por que é boa:** Clássica e funciona contra oponentes muito pesados.
 * **Erro Comum:** Aceitar a esgrima do oponente. Se ele te esgrimar, a raspagem morre.
-* **Vídeo Sugerido:** [Raspagem da Meia Guarda (Estilo Lucas Leite)](https://www.youtube.com/watch?v=fCcwBdQiZNY)
+* **Vídeo Sugerido:**  https://www.youtube.com/shorts/UkWFckP7bDY
 
 ## 9. Raspagem de Meia-Guarda Profunda
 * **Como fazer:** Entre embaixo do centro de gravidade do oponente (deep half). Coloque os ganchos por baixo das canelas dele ("garçom"). Balance para trás e para frente para desequilibrar e raspar para o lado ou para trás.
 * **Detalhe:** Esconda seu braço debaixo da perna dele para evitar kimuras e estrangulamentos.
 * **Por que é boa:** Anula completamente o peso do oponente e oferece múltiplas opções de saída (costas ou raspagem).
 * **Erro Comum:** Deixar o braço exposto ou não entrar o quadril fundo o suficiente.
-* **Vídeo Sugerido:** [Waiter Sweep da Meia Profunda](https://www.youtube.com/watch?v=1zZ_1zZ_1z0)
+* **Vídeo Sugerido:**  https://www.youtube.com/shorts/x9cH7J4xGCQ
 
 ## 10. Raspagem da Guarda Aranha (Tesourinha)
 * **Como fazer:** Com os dois pés nos bíceps (aranha), estique uma perna e flexione a outra, girando o oponente como um volante. Desça a perna esticada para o chão (cortando) enquanto carrega o peso dele sobre a perna flexionada.
 * **Detalhe:** O quadril deve sair para o lado da perna flexionada para criar o ângulo de alavanca.
 * **Por que é boa:** Controle total da distância e dos braços.
 * **Erro Comum:** Não manter a tensão nos bíceps, deixando o oponente "matar" as pernas.
-* **Vídeo Sugerido:** [Raspagem de Guarda Aranha Básica](https://www.youtube.com/watch?v=G9w1YtQYw6Y)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/7oaq8IOAuJU
 
 ## 11. Raspagem da Guarda De La Riva (Balão)
 * **Como fazer:** Com o gancho De La Riva encaixado, domine as duas mangas. Puxe o oponente para cima de você, esticando as pernas para elevá-lo (tomoe nage da guarda aberta). Gire-o para o lado ou jogue-o para trás.
@@ -85,28 +85,28 @@
 * **Detalhe:** A pegada na faixa ou na gola ajuda a quebrar a postura dele para trás.
 * **Por que é boa:** Abre o caminho para as costas, que é o objetivo máximo.
 * **Erro Comum:** Soltar a pegada da perna, permitindo que ele corra para as costas.
-* **Vídeo Sugerido:** [Conceitos Iniciais do Berimbolo e Raspagem](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/8r0DoVwzI0I
 
 ## 13. Raspagem de X-Guard (Levantada Técnica)
 * **Como fazer:** Com a guarda X encaixada (uma perna atrás do joelho, outra na virilha), estique as pernas afastando a base do oponente. Apoie a mão no chão, faça a levantada técnica mantendo a perna dele no ombro e derrube.
 * **Detalhe:** Mantenha a pressão constante nos ganchos para que ele não consiga colocar o pé no chão e recuperar a base.
 * **Por que é boa:** Controle absoluto da base de um oponente em pé.
 * **Erro Comum:** Tentar levantar sem afastar a base dele primeiro (ele vai pesar na sua cabeça).
-* **Vídeo Sugerido:** [Raspagem da Guarda X - Levantada Técnica](https://www.youtube.com/watch?v=RCyfWcdIeUo)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/BYvWMDY4uGI
 
 ## 14. Raspagem de Single Leg X (botinha)
 * **Como fazer:** Encaixe o Single Leg X (uma perna pinçando a coxa, pé no quadril). Eleve o quadril tirando o pé dele do chão. Torça o quadril e o joelho dele para fora (botinha grip) ou empurre para trás.
 * **Detalhe:** Aperte os joelhos. Se deixar frouxo, ele empurra sua perna e passa.
 * **Por que é boa:** É o ponto de partida para as chaves de pé da Faixa Marrom.
 * **Erro Comum:** Não controlar o joelho do oponente, permitindo que ele gire.
-* **Vídeo Sugerido:** [Raspagem Básica de Single Leg X](https://www.youtube.com/watch?v=yltK4T8qNJo)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/wFJ1DtUQM9s
 
 ## 15. Raspagem de Omoplata
 * **Como fazer:** Ataque a omoplata. Se o oponente defender posturando ou não bater, use o momento para sentar e "pedalar" as pernas, jogando-o para frente ou para o lado (invertendo).
 * **Detalhe:** Abrace a cintura dele para evitar que ele role.
 * **Por que é boa:** Transforma uma finalização falha em 2 pontos garantidos.
 * **Erro Comum:** Deixar o oponente pular sobre o seu corpo.
-* **Vídeo Sugerido:** (https://www.youtube.com/watch?v=YlOwDqwB838)
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/2rxppnSD0So
 
 ## 16. Raspagem de Guarda Laço
 * **Como fazer:** Faça a pegada laço (passando a perna por fora e por dentro do braço dele). Gire o corpo para o lado do laço, usando a canela para alavancar o oponente e capotá-lo.
