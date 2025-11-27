@@ -57,3 +57,17 @@ Este bloco cobre os 4 estrangulamentos obrigatórios e 2 variações de reserva.
 * **Vídeo Sugerido:** [Baseball Choke partindo da Guarda - A Armadilha](https://www.youtube.com/watch?v=OskcrdJvcxc)
 
 ---
+
+
+3 Estrangulamentos da Guarda
+   1. Tradicional: lapela na mão para baixo
+   2. Mão na Lapela, mão oposta no ombro por cima, puxa
+   3. Mão na Lapela, faz oponente olhar para o lado, segundo braço por cima pegando meu cotovelo, torce
+
+
+3 Estrangulamentos da Guarda
+   1. Tradicional: com uma mão pega na gola do oponente o máximo apertado no pescoço, com a outra mão paga a outra gola e empurra para baixo.
+   2. Mão na Lapela e Ombro: mão na Lapela para baixo, mão oposta no ombro por cima, puxa
+   3. Mão na Lapela e Cotovelo: mão na Lapela para baixo, faz oponente olhar para o lado, segundo braço por cima pegando meu cotovelo, torce
+
+
