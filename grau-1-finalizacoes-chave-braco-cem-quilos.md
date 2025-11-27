@@ -10,6 +10,7 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 * **Por que é boa:** É um ataque de força e pressão que não exige muita movimentação, mantendo o controle do 100kg.
 * **Erro Comum:** Levantar o cotovelo sem colar o punho do oponente no chão, ou deixar o braço dele esticado demais (longe do quadril).
 * **Vídeo Sugerido:** [Americana do 100kg - Detalhes de Ajuste](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
+cotovelo na orelha
 
 ---
 
@@ -20,6 +21,7 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 * **Erro Comum:** Tentar finalizar apenas com a força dos braços sem girar o tronco para a cabeça do oponente (Norte-Sul).
 * **Vídeo Sugerido:** [Kimura do 100kg - Passo a Passo](https://www.youtube.com/watch?v=Z8QeKq4z_X0)
 
+Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cima da cabeça.
 ---
 
 ## 3. Chave de Braço Girando
@@ -55,3 +57,12 @@ Este bloco foca no ataque aos membros superiores partindo do controle lateral. A
 * **Por que é boa:** É rápida, dolorosa e muitas vezes faz o oponente entregar o braço inteiro (Armlock) para aliviar a dor no punho.
 * **Erro Comum:** Tentar aplicar com o braço do oponente solto/flutuando.
 * **Vídeo Sugerido:** [Mão de Vaca no 100kg - Finalização Surpresa](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
+
+---
+
+Americana extendida
+ 2. Americana Estendida: quando oponenente estica braço para a defesa
+ . 100 kg invertido: envolve o braço, passa perna, estica pescoço.
+
+
+Americana nos 100 kg invertido
