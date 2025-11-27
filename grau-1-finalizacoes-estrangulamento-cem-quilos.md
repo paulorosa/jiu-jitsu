@@ -28,3 +28,21 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 * **Por que é boa:** Um dos golpes mais seguros do Jiu-Jitsu. Se ele defender, você ainda tem o domínio lateral ou montada.
 * **Erro Comum:** Apertar apenas o pescoço sem pressionar o braço do oponente contra a carótida dele.
 * **Vídeo Sugerido:** [Katagatame Perfeito - Detalhes de Pressão](https://www.youtube.com/watch?v=RCyfWcdIeUo)
+
+---
+ Estrangulamentos do 100 kg
+   1. Ezequiel: um braço por baixo do pescoço, outro braço pega na sua própria manga, faz a faca no oponente.
+   2. Tradicional: pegada nas duas golas.
+   3. Puxada no Ombro: tradicional, pega em uma gola, desce a cabeça, puxa o outro ombro.
+Finalizações de Estrangulamento a partir dos 100 kg
+Ezequiel
+Pegada na Gola
+A partir dos 100 kg invertido. A perna que está atrás, jogo para frente no pescoço do adversário. Estrangulo o pescoço. Dá para usar a outra mão, e fazer uma chave de braço.
+
+
+2 Finalizações de Estrangulamento a partir dos 100 kg
+Ezequiel
+Pegada na Gola
+A partir dos 100 kg invertido. A perna que está atrás, jogo para frente no pescoço do adversário. Estrangulo o pescoço. Dá para usar a outra mão, e fazer uma chave de braço.
+
+
