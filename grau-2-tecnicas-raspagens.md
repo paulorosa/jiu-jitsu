@@ -148,11 +148,65 @@ Este bloco cobre as 14 raspagens obrigatórias (Guarda Fechada, Aberta e Meia) e
 
 ---
 
+6 Raspagens (tesoura, tesoura chutando joelho, abnominal, puxada de calça e braço oposto, puxando 2 tornozelos, da guarda borboleta: trava braço do oponente embaixo do seu braço + esgrima o outro + cabeça em cima do queixo dele + cai para o lado que matou o braço + usa perna para ajudar a raspar)
+
 
   1. Tesoura: Mata a mão do lado que vai fazer a raspagem, a outra mão na gola, o pé do lado da raspagem no chão, o outro pé na axila do oponente, fazendo o gancho.
-   2. Tesoura Chutando o Joelho: Idêntico à tesoura normal, mas chuta o joelho da perna do lado da raspagem.
-   3. Abdominal: força o quadril. cotovelo no chão
-   4. Delariva: perna oposta lá embaixo.
+Raspagem 1: da Tesoura
+Raspagem 2: Pega a manga de um lado e pegada na calça da outra perna e faz força para virar.
+Raspagem 3: força no joelho
+Raspagem 4:
+Raspagem 5:
+Raspagem 6: cabeça na frente do oponente em direção à barriga
+
+   3. Tesoura Chutando o Joelho: Idêntico à tesoura normal, mas chuta o joelho da perna do lado da raspagem.
+   4. Abdominal: força o quadril. cotovelo no chão
+   5. Delariva: perna oposta lá embaixo.
+   6. Borboleta:
+   7. Puxando a Calça e Braço Oposto: levanta a perna.   
+
+
+
+
+   Guarda Laçada, pegada no joelho
+   Guarda Laçada, ir para o omoplata
+   Raspagem segurando o calcanhar
+
+
+
+
+6 Raspagens
+   1. Tesoura:
+   2. Tesoura Chutando o Joelho:
+   3. Abdominal:
+   4. Delariva:
    5. Borboleta:
-   6. Puxando a Calça e Braço Oposto: levanta a perna.   
+   6. Puxando a Calça e Braço Oposto:
+
+
+6 Raspagens
+   1. Tesoura:
+   2. Tesoura Chutando o Joelho:
+   3. Abdominal:
+   4. Delariva:
+   5. Borboleta:
+   6. Puxando a Calça e Braço Oposto:
+
+6 Raspagens
+   1. Tesoura:
+   2. Tesoura Chutando o Joelho:
+   3. Abdominal:
+   4. Delariva:
+   5. Borboleta:
+   6. Puxando a Calça e Braço Oposto:
+
+   Guarda Laçada, pegada no joelho
+   Guarda Laçada, ir para o omoplata
+   Raspagem segurando o calcanhar
+   Raspagem de gancho segurando a faixa nas costas
+   Tripé e Tripé com gancho
+   Arm Drag (mão na gola e mão no tríceps)
+   Raspagem de Meia-Guarda
+
+
 
