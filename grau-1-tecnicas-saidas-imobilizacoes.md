@@ -45,3 +45,25 @@ Este guia detalha as 4 saídas obrigatórias para o 1º Grau, mais uma técnica 
 * **Por que é boa:** É uma saída ofensiva. Em vez de apenas repor a guarda (neutro), você ataca as costas ou inverte (vantagem).
 * **Erro Comum:** Esgrimar e deixar a cabeça baixa/longe, permitindo que o oponente ataque o pescoço (guilhotina ou triângulo de mão).
 * **Vídeo Sugerido:** [Saída de 100kg Esgrimando e indo para as costas](https://www.youtube.com/watch?v=SZ8Ghq-bzno)
+
+---
+
+4 Saídas de Imobilização
+110 kg, joelho na barriga, montada
+100 kg - escorregada por baixo - 
+saida da montada - pega na barra da calça e coloca a perna do opnente para fazer meia guarda.
+saida de joelho na barriga - 
+1. saída do 100 quilos - Uma mão no pescoço, outra mão na axila do adversário.Fuga de Quadril. Levanta o quadril. Viva a perna para o ladro contrário, fazendo o oponente virar. Quando levantar o quadril, coloca o braço para cima e dobra, para virar o oponente.
+saída do 100 kg - levantar o quadri para fazer o giro para fora, jogar uma perna para dentro da outra e jogar. 
+
+
+4 Saídas de Imobilização (na montada: upa + reposição de guarda, na montada: segura braço com cotovelo + perna oposta empurra + giro, no joelho na barriga + meia-guarda)
+
+
+4 Saídas de Imobilização
+   1. Saída do 100 kg: mão por baixo, segura quadril, anda lateral, termina 4 apoios
+   2. Saída do 100 kg: macaquinho, mão lapela, fuga de quadril, entra joelho, repõe a guarda.
+   3. Saída do 100 kg - uma mão no pescoço, outra mão na axila do adversário. Fuga de Quadril. Levanta o quadril. Vira a perna para o lado contrário, fazendo o oponente virar. Quando levantar o quadril, coloca o braço para cima e dobra, para virar o oponente.
+   4. Saída do 100 kg - levantar o quadril para fazer o giro para fora, jogar uma perna para dentro da outra e jogar.
+
+
