@@ -54,3 +54,13 @@ Este bloco cobre as 4 formas essenciais de abrir a guarda fechada. O foco na Fai
    2. Cotovelo 1 Virilha: Postura, estica perna, empurra joelho oponente passa seu joelho fazendo gancho com o pé, gira para o 100kg.
    3. Levantado: Mata mão, fica em pé, pula dando totó, vai para o 100kg.
 
+Aberturas de Guarda
+Duas mãos na cintura e os dois cotovelos no meio da perna
+Levantar com a mão nas duas aberturas do kimono do oponente, fica pulando, força com 1 mão a perna do oponente até abrir e então passa a guarda.
+
+3 Aberturas de Guarda
+   1. Postura, cotovelo na virilha, emborca com as duas mãos, segura faixa com mão oposta na lapela, força até 100 kg.
+   2. Postura, estica perna, empurra joelho oponente passa seu joelho fazendo gancho com o pé, gira para o 100kg.
+   3. Mata mão, fica em pé, pula dando totó, vai para o 100kg.
+
+3 Aberturas de Guarda (duas virilhas, 1 virilha lateral, levantando empurrando com o braço que segura o kimono)
