@@ -22,7 +22,7 @@ Este bloco cobre as 4 formas essenciais de abrir a guarda fechada. O foco na Fai
 
 ---
 
-## 3. Abertura "Log Splitter" (Estourando o Cadeado)
+## 3. Abertura  (Estourando o Cadeado)
 * **Como fazer:** Domine as axilas ou bíceps do oponente para impedir que ele suba. Salte ficando de cócoras ou em pé, posicione seu joelho no meio das nádegas dele e desça seu peso sentando sobre o cadeado dele, forçando a abertura com a cunha do seu joelho.
 * **Detalhe:** É um movimento de explosão e precisão. Você usa o seu peso corporal caindo sobre o cadeado para rompê-lo instantaneamente.
 * **Por que é boa:** Surpreende o oponente e abre a guarda com violência, muitas vezes já permitindo a passagem cruzando o joelho na sequência.
@@ -40,9 +40,17 @@ Este bloco cobre as 4 formas essenciais de abrir a guarda fechada. O foco na Fai
 
 ---
 
-## 5. Abertura em Pé com Pressão no Joelho (Stiff Arm)
+## 5. Abertura em Pé com Pressão no Joelho
 * **Como fazer:** Após ficar em pé (postura), se a guarda não abrir sozinha, solte a manga do oponente e coloque a palma da sua mão (ou a faca da mão em "V") na parte interna do joelho dele. Trave seu cotovelo (braço esticado).
 * **Detalhe:** O segredo não é empurrar com o braço, mas sim travar o braço e **recuar a sua perna** (passo para trás) do mesmo lado. O seu esqueleto faz a força, não o seu tríceps.
 * **Por que é boa:** É a resposta imediata quando a postura sozinha falha. Funciona muito bem contra oponentes de pernas longas que tentam "escalar" a guarda.
 * **Erro Comum:** Dobrar o cotovelo ao empurrar (você perderá para a força da perna dele) ou olhar para a mão (quebrando a postura cervical).
 * **Vídeo Sugerido:** [Como abrir a guarda fechada empurrando o joelho](https://www.youtube.com/watch?v=G9w1YtQYw6Y)
+
+---
+
+3 Aberturas de Guarda
+   1. Cotovelo nas Virilhas: Postura, cotovelo na virilha, emborca com as duas mãos, segura faixa com mão oposta na lapela, força até 100 kg.
+   2. Cotovelo 1 Virilha: Postura, estica perna, empurra joelho oponente passa seu joelho fazendo gancho com o pé, gira para o 100kg.
+   3. Levantado: Mata mão, fica em pé, pula dando totó, vai para o 100kg.
+
