@@ -28,3 +28,10 @@ Este bloco cobre as técnicas de defesa quando você consegue cair para o "Lado 
 * **Por que é boa:** O triângulo de corpo é muito difícil de sair apenas com movimentação de quadril. Essa técnica ataca a estrutura do cadeado.
 * **Erro Comum:** Tentar empurrar o joelho dele com a mão. Role o corpo para o lado do pé que fecha a trava.
 * **Vídeo Sugerido:** [Como sair do Triângulo de Corpo (Body Triangle)](https://www.youtube.com/watch?v=H7GvR34yCj0)
+* 
+---
+2 Ida para as Costas
+   1. Delariva, troca pegada, puxa, chuta, fecha o seat belt.
+   2. da guarda, estoura pegada, joga braço para costa, fuga, acaba no Seat Belt.
+   3. Cinto de segurança e fechamento do correto das pernas na pegada de costas
+
