@@ -37,3 +37,16 @@ Este bloco foca em "abrir a concha" da tartaruga atacando as articulações supe
 * **Por que é boa:** Se o oponente defender o pescoço baixando o queixo, ele geralmente abre o cotovelo. É aí que você entra.
 * **Erro Comum:** Não isolar o ombro com a perna sobre a cabeça, permitindo que ele gire e tire o braço.
 * **Vídeo Sugerido:** [Armlock Invertido na Tartaruga](https://www.youtube.com/watch?v=JLxZGBVvQyU)
+
+---
+
+
+1 Chave de Braço de Quatro Apoios
+   1. Tradicional: Arm-Lock, Segura Braço, monta, cai.
+
+
+
+1 Chave de Braço de Quatro Apoios
+   1. Arm-Lock: Segura Braço, monta, cai.
+
+
