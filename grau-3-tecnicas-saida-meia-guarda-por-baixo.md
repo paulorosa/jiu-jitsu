@@ -46,3 +46,21 @@ Este bloco cobre as 3 saídas obrigatórias do 3º Grau e 2 variações de reser
 * **Por que é boa:** Transforma uma posição estática em uma guarda dinâmica de raspagens e chaves de perna.
 * **Erro Comum:** Tentar colocar os ganchos com as costas chapadas no chão. Sente-se para ganhar mobilidade.
 * **Vídeo Sugerido:** [Transição da Meia Guarda para Borboleta](https://www.youtube.com/watch?v=-poQfix-sHc)
+
+---
+(4) Saídas de meia-guarda (por baixo)
+1. Adversário posturado - Minha perna no ombro - Puxa para a guarda
+2. Upa para fazer esgrima - Saída de Quadril - Vai para Costas - Finalização de mata-leão
+3. Upa para fazer esgrima - Saída de Quadril - Vai para Costas - Finalização de mata-leão (Passar lapela por baixo)
+4. Meia-Guarda profunda
+
+
+2 Saídas de Meia-Guarda por Baixo
+   1. De lado, segurando o ombro e o braço do adversário, abre o cadeado, canela na cintura, pé no quadril e repõe a guarda.
+   2. Esgrimado, faz o upa para trás e segura a faixa do adversário, abraçando a cintura, corpo curvado, com um dos pés, abre o cadeado trazendo o pé, o outro desliza por baixo e trás o braço, vira no 4 apoios com a 1a. perna esticada.
+
+2 Saídas da Meia Guarda por Baixo (braço + ombro + reposição de guarda, upa + corpo curvado + abre cadeado + 4 apoios)
+
+
+
+
