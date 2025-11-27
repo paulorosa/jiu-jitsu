@@ -35,3 +35,16 @@ Este bloco cobre as técnicas de defesa quando você consegue cair para o "Lado 
    2. da guarda, estoura pegada, joga braço para costa, fuga, acaba no Seat Belt.
    3. Cinto de segurança e fechamento do correto das pernas na pegada de costas
 
+
+2 Saída das Costas
+   1. Sai do CintBelt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg.
+   2. Sai do estrangulamento puxa defendendo olha para o lado, puxa lapela oponente, deita ainda de lado, senta no pé.
+
+
+2 Saída das Costas
+   1. Sai do Seat Belt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg.
+   2. Sai do estrangulamento puxa defendendo olha para o lado, puxa lapela oponente, deita ainda de lado, senta no pé.
+
+
+
+
