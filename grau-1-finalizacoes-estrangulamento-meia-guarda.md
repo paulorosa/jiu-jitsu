@@ -21,3 +21,9 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 * **Vídeo Sugerido:** [Estrangulamento Rodado (Brabo Choke) da Meia Guarda](https://www.youtube.com/watch?v=O-67JUTmtFM)
 
 ---
+
+1 Estrangulamento da Meia Guarda
+   1. Ezequiel: por cima, aplica o tradicional.
+   2. Passagem Lapela: passando lapela, trocando a mão.
+
+
