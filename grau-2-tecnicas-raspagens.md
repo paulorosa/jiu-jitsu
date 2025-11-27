@@ -6,7 +6,7 @@
 * **Detalhe:** O segredo é tirar o peso dele dos calcanhares. Puxe-o até o peito dele encostar na sua canela antes de tesourar.
 * **Por que é boa:** Funciona contra oponentes de todos os tamanhos se o desequilíbrio for bem feito.
 * **Erro Comum:** Tentar chutar a perna do oponente enquanto o peso dele ainda está nos calcanhares (ele vira um pilar imóvel).
-* **Vídeo Sugerido:** [Raspagem Tesoura - Detalhes para não errar](https://www.youtube.com/watch?v=Z8QeKq4z_X0) (vídeo inexistente)
+* **Vídeo Sugerido:** https://www.youtube.com/watch?v=EpxvzLkEUw8
 * Raspagem da Tesoura: Mata a mão do lado que vai fazer a raspagem, a outra mão na gola, o pé do lado da raspagem no chão, o outro pé na axila do oponente, fazendo o gancho.
 
 ## 2. Pêndulo (da Guarda Fechada)
