@@ -37,3 +37,23 @@ Este bloco cobre as técnicas defensivas obrigatórias. Na Faixa Marrom, sair da
 * **Por que é boa:** Demonstra agressividade e conhecimento de leg locks, fundamental para a Faixa Marrom.
 * **Erro Comum:** Focar só na chave e esquecer de tirar o peso do oponente de cima, acabando finalizado enquanto tenta atacar.
 * **Vídeo Sugerido:** [Saída da Montada para Chave Reta de Pé](https://www.youtube.com/watch?v=Ktc0_Dli_mY)
+
+---
+
+* Saídas da Montada
+1. Upa com Supino aguarrando na faixa - Guarda Borboleta
+2. Upa com Supino aguarrando na faixa - Guarda Borboleta - Chama para Guarda 
+3. Empurra joelho - Vai para meia guarda
+4. Segura o braco - Pé no pé do adversário - Joga para o Lado
+
+
+2 Saídas da Montada
+Defesa de armlock
+Defesa de estrangulamento tradicional
+Defesa de americana
+
+2 Saídas da Montada (mata um braço + mata o pé + girando para o lado que mata a mão + reposição de guarda, levanta o pé e põe na meia guarda)
+
+   1. Barrigada e Coxas: Segura as duas mãos na faixa, barrigada para cima, recolhe o joelho, coloca nas coxas, recolhe e repõe a guarda. Supinando repondo guarda.
+   2. Cotovelo e Upa Diagonal: Mata um braço no cotovelo, mata um pé com seu pé, upa na diagonal de braço matado. Sainda pra meia
+
