@@ -25,3 +25,9 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 * **Vídeo Sugerido:** [Armlock partindo da Meia Guarda (Passo a Passo)](https://www.youtube.com/watch?v=7lYQZ_q0ZkQ)
 
 ---
+
+
+1 Chave de Braço da Meia Guarda
+   1. (Por Baixo) Kimura: saindo por de baixo, segura no ombro, estica a outra mão e segura punho, aplica a kimura.
+   2. (Por cima) Americana: 
+
