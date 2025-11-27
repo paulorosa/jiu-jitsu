@@ -49,3 +49,13 @@ Este bloco cobre os ataques de pescoço partindo da posição de domínio máxim
 
 ---
 
+(4) Finalizações de Estrangulamentos a partir da Montada
+1. Uma mão na lapela - Outra mão na lapela - Puxa as duas (Tradicional)
+2. Ezequiel
+3. Facão
+4. Puxa lapela - pega com outra mão - Outra mão no ombro e puxa.
+
+2 Estrangulamentos da Montada
+Ezequiel
+Estrangulamento Cruzado 
+
