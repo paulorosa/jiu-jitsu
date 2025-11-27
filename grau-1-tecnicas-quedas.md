@@ -104,3 +104,45 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Erro Comum:** Tentar varrer a perna quando ela está sem peso (flutuando) ou quando está com peso demais travado. O *timing* exato é quando ele está apoiando o pé.
 * **Vídeo Sugerido:** [Kouchi Gari - Detalhes para Jiu Jitsu](https://www.youtube.com/watch?v=5Q5eXq8Z9_M)
 
+---
+
+10 Quedas
+   1.  Single Leg: com um braço de distância do oponente, abaixa colocando um joelho a frente primeiro (cai com o joelho direito primeiro), com a cabeça na lateral do quadril do oponente, pega uma perna, coloca a perna de lado embaixo da axila, levanta, coloca a perna do lado, puxa o oponente e chute lateral.
+    2. Double Leg (Mãos Juntas): com um braço de distância, ajoelha com 1 Perna, a outra na lateral, junta as mãos, puxa e empurra com os ombros.
+    3. Baiana (Mãos nos Joelhos Separadas): Similar ao Double Leg, mas mãos apenas nos joelhos, empurra subindo.
+    4. Outi Gari (O Uchi Gari): Rasteira fazendo "O" para fora, perna direita sua no meio das pernas do oponente. esgruimado, puxa, entra com a perna, puxa com a perna e empurra.. Esgrimado, abraça as costas, vira e tomba. É um golpe de perna, parecido com o osotogari. Em vez do gancho ser por trás da perna do adversário, o gancho vai por dentro da perna do adversário. Você vai derrubar fazendo o gancho do na perna do lado em que você está segurando a gola.
+    5. Coti Gari (Ko Uchi Gari): Rasteira fazendo "C" para dentro. o memos do out gari, mas puxa a outra perna.
+    6. O Soto Gari: Rasteira por fora, pegando 1 pé apenas. Você segura a gola e a manga, avança o pé do lado que você está segurando a manga e, com o pé do lado que você está segurando a manga, você entra e dá um gancho por trás da perna do adversário, empurrando o adversário. avança com o pé esquerdo primeiro
+    7. O Soto Guruma: Rasteira por fora, pegando os dois pés. o mesmo que o anterior, só que puxa as duas pernas do oponente.
+    8. Ipon Seoi Nage: Esgrimado, levanta braço, soco no tríceps, vira de costas, agacha e tomba o oponente.
+    9. Koshi Guruma: Esgrimado (mão esquerda na manga do oponente e mão direita na lapela do oponente), pé direito avança na lateral do oponente, abraça o pescoço, vira o quadril de lado e tomba. 
+    10. O Goshi: a pegada é na faixa do oponente, mesma que a anterior.
+
+
+10 quedas
+Otigari
+Contigari
+osoto Gari (Grande Varrida para o lado)
+Ippon Seoi Nage
+Ogochi
+Koshi Guruma
+Single Leg
+Double Leg
+Baiana
+Kata Guruma
+
+5 Quedas (single leg, double leg, baiana, O Soto Gari, O Soto Guruma)
+
+10 Quedas
+    Single Leg: Pega uma perna, levanta, coloca a perna do lado, puxa e chute lateral.
+    Double Leg: Ajoelha (1 Perna), a outra na lateral, junta as mãos, puxa e empurra com os ombros.
+    Baiana: Similar ao Double Leg, mas mãos apenas nos joelhos, empurra subindo.
+    Otigari: Rasteira fazendo "O" para fora.
+    Cotigari: Rasteira fazendo "C" para dentro.
+    Osotogari: Rasteira por fora, pegando 1 pé apenas.
+    Osotoguruma: Rasteira por fora, pegando os dois pés.
+    Ipon Soyonague: Esgrimado, levanta braço, soco no tríceps, vira de costas, agacha e tomba o oponente.
+    Koshiguruma: Esgrimado, abraça o pescoço, vira e tomba.
+    Otigari: Esgrimado, abraça as costas, vira e tomba.
+    Kataguruma: Puxa para dar um passo a frente, ajoelha, abraça a perna, joga para as costas e tomba para a frente.
+
