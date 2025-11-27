@@ -57,3 +57,16 @@ Este bloco cobre as 4 finalizações de braço obrigatórias do 2º Grau e 2 var
 * **Vídeo Sugerido:** [Mão de Vaca na Guarda Fechada - Surpreenda](https://www.youtube.com/watch?v=fCcwBdQiZNY)
 
 ---
+
+3 Chaves de Braço da Guarda
+   1. Arm-Lock Invertido
+   2. Omoplata
+   3. Kimura
+
+   Triângulo
+   Arm-Lock
+
+3 Chaves de Braço da Guarda
+   1. Triângulo: Na guarda aranha, a perna esticada desliza para a cabeça do oponente, puxa o braço da outra perna para o lado da perna estica, faz a guarda na cabeça, com a mão segura na perna que está na cabeça, coloca a outra perna no quadril do adversário, vira o quadril ajustando o encaixe, levanta o quadril.
+   2. Omoplata: Na guarda aranha, puxa a mão do adversário que está na perna não esticada para dentro, a sua perna sobre este braço que é dobrado, sobe o quaril.
+   3. Kimura: passa o braço por trás e segura o punho dele e o seu também.
