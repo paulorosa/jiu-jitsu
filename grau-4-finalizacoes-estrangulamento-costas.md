@@ -37,3 +37,19 @@ Este bloco cobre os ataques de pescoço partindo do controle de costas. O foco �
 * **Por que é boa:** Surpreende o oponente que está focado em defender as golas e o mata-leão, esquecendo de defender o espaço atrás da nuca.
 * **Erro Comum:** Tentar fazer sem o ajuste justo da manga. Se a pegada estiver frouxa, a mão não chega na frente do pescoço.
 * **Vídeo Sugerido:** [Ezequiel das Costas com Roger Gracie](https://www.youtube.com/watch?v=TJHP70qreKg)
+
+---
+
+
+3 Estrangulamentos da Costa
+   1. Nas costas - tradicional
+   2. Nas costas - Mata-Leão
+   3. Nas costas - Arco-e-Flecha
+
+
+3 Estrangulamentos da Costa
+   1. Tradicional: nas costas do oponente, esgrimado, uma mão na lapela bem justo, a outra mão na outra lapela, puxa.
+   2. Mata-Leão: nas costas do oponente, um braço passa no pescoço do oponente, o outro braço faz o gancho do mata-leão.
+   3. Arco-e-Flecha: nas costas o oponente, uma mão na lapela, a outra mão faz uma pegada na barra da calça ainda com as pernas envoltas no oponente, estica.
+
+
