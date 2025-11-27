@@ -37,3 +37,17 @@ Este bloco cobre as defesas contra os ataques de pescoço mais comuns. O foco é
 * **Por que é boa:** Anula a alavanca da guilhotina e coloca você no 100kg ou finalização (Von Flue Choke).
 * **Erro Comum:** Tentar puxar a cabeça para fora enquanto está dentro da guarda. Você precisa sair da guarda para defender.
 * **Vídeo Sugerido:** [Defesa de Guilhotina (Passagem para o lado oposto)](https://www.youtube.com/watch?v=Tb0mPR7Cjjk)
+
+---
+
+3 Saídas de Triângulo / Estrangulamento
+   1. Saída no Triângulo: fica em pé, pisa no bíceps, senta, joga a perna do oponente para frente, vai pro 100 kg.
+   2. Saída Estrangulamento Costas
+   3. Saída Relógio, com mão dentro.
+
+3 Saídas de Triângulo / Estrangulamento
+   1. Saída Triângulo: fica em pé, pisa no bíceps, senta, joga a perna do oponente para frente, vai pro 100 kg.
+Uma fica em pé os dois pés nos bíceps, cai para trás e sobre jogando a perna para lado e entrando no 100kg.
+   2. Saída Estrangulamento Costas: quando você está de costa, pegada na manga direita do oponente, agarra braço esquerdo do oponente, cai para a esquerda, gira e sobe para a montada.
+Neste pega a lapela em cima, segura o braço, vira a cabeça para o lado e vai virando até soltar a perna de baixo. Depois com a mão oposta solto a perna de cima e sai no 100 kg.
+   3. Saída Relógio: com mão dentro. Segura o braço que abraça a perna oposta e vira para o lado que está com o braço preso (fazendo o adversário passar por cima de você)
