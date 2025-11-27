@@ -28,3 +28,21 @@ Este bloco cobre as 2 saídas obrigatórias e 1 variação de reserva. O foco é
 * **Por que é boa:** Evita a pontuação da montada (se ele estiver escorregando o joelho) e alivia a pressão nas costelas imediatamente.
 * **Erro Comum:** Girar muito lento ou deixar o pescoço exposto, permitindo que o oponente pegue as costas no meio do movimento.
 * **Vídeo Sugerido:** [Defesa de Joelho na Barriga indo para 4 apoios](https://www.youtube.com/watch?v=cO0RHPOdgwU)
+
+
+---
+
+(2) Saídas de Joelho no Barriga
+1. Duas mãos no joelho do adversário - Empurra para fora fazendo saída lateral - Guarda
+2. Uma mão no joelho - outra mão invertida no pé do adversário - Empurra - Levanta e vai para guarda.
+
+3. 1 Saída de Joelho na Barriga
+   1. Fuga, repõe na montada / 100 kg.
+
+1 Saída de Meia-Guarda por Cima
+1 Saída de Meia-Guarda por Baixo
+
+
+1 Saída de Joelho na Barriga
+   1. Duas Mãos no Joelho: duas mãos no joelho, vira de lado, empurra o joelho e sai com o quadril, volta e repõe a guarda.
+
