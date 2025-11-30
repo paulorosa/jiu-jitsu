@@ -1,18 +1,19 @@
-# 2o. Grau: Técnicas - Passagens (8)
+# 2o. Grau: Técnicas - 8 Passagens
 
 ## 1. Toreando
-* **Como fazer:** Faça pegadas na parte interna dos joelhos do oponente (ou bocas de calça). Mantenha os braços esticados e rígidos (*stiff arm*). Caminhe lateralmente para um lado, jogando as pernas do oponente para o outro. Avance o quadril para colar na lateral.
+* **Como fazer:** Faça pegadas na parte interna dos joelhos do oponente (ou bocas de calça). Mantenha os braços esticados e rígidos. Caminhe lateralmente para um lado, jogando as pernas do oponente para o outro. Avance o quadril para colar na lateral.
 * **Detalhe:** Não cruze seus próprios pés ao caminhar. Se o oponente acompanhar, finte para um lado e jogue as pernas dele para o outro (o "drible").
 * **Por que é boa:** É a passagem mais clássica de velocidade e reação, funcionando contra qualquer tipo de guarda aberta.
 * **Erro Comum:** Dobrar os braços e aproximar a cabeça, permitindo que o guardeiro faça pegadas na sua gola ou manobras de raspagem.
 * **Vídeo Sugerido:** [Passagem de Guarda Toreando - Detalhes Técnicos](https://www.youtube.com/watch?v=q_qkyeu_yQA)
 
 ## 2. Cruzando o Joelho
-* **Como fazer:** Quando o oponente está com a guarda aberta ou meia-guarda. Entre o joelho entre as pernas dele, apontando para fora. Ganhe a esgrima (*underhook*) e abrace a cabeça ou gola. Deslize o joelho até o chão, "fatiando" a coxa do oponente.
+* **Como fazer:** Quando o oponente está com a guarda aberta ou meia-guarda. Entre o joelho entre as pernas dele, apontando para fora. Ganhe a esgrima e abrace a cabeça ou gola. Deslize o joelho até o chão, "fatiando" a coxa do oponente.
 * **Detalhe:** Cole sua cabeça no chão ou no ombro do oponente para evitar que ele esgrime de volta. A outra perna (esticada) deve dar pressão nos dedos do pé.
 * **Por que é boa:** Uma das passagens mais difíceis de defender porque mistura pressão extrema com mobilidade.
 * **Erro Comum:** Esquecer a esgrima. Se você não ganhar a axila dele, ele vai para suas costas quando você passar o joelho.
 * **Vídeo Sugerido:** [Passagem Cruzando o Joelho - Detalhes Essenciais](https://www.youtube.com/watch?v=yltK4T8qNJo)
+
 
 ## 3. Emborcada
 * **Como fazer:** Quando o oponente tenta armlock ou triângulo, ou na guarda aberta. Domine as duas golas ou calças, coloque o braço por baixo das pernas dele (*double under*) ou abrace o quadril. Levante o quadril do oponente do chão, jogando os joelhos dele na testa dele.
@@ -36,14 +37,14 @@
 * **Erro Comum:** Deixar a cabeça no lado errado (lado da perna que está por cima), facilitando a guilhotina ou o triângulo invertido.
 * **Vídeo Sugerido:** [Passagem Over Under - Pressão Absoluta](https://www.youtube.com/watch?v=5yQ2X_z3z7o)
 
-## 6. X-Pass (Passagem em X)
+## 6. Passagem em X
 * **Como fazer:** Em pé, contra guarda aberta (De La Riva ou similar). Chute uma perna para trás para estourar o gancho e, simultaneamente, cruze a perna do oponente com a mão para o lado oposto (formando um X com seus braços/movimento). Avance o joelho na barriga instantaneamente.
 * **Detalhe:** É um movimento de "chuta e cruza". A explosão do chute para trás é o que gera a oportunidade de invadir o espaço.
 * **Por que é boa:** Muito rápida e plástica. Surpreende quem gosta de fazer guarda de gancho.
 * **Erro Comum:** Tentar cruzar a perna do oponente sem estourar a pegada dele primeiro.
 * **Vídeo Sugerido:** [X-Pass: A passagem mais rápida do Jiu-Jitsu](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
 
-## 7. Long Step Pass (Passada Longa)
+## 7. Passada Longa
 * **Como fazer:** Estando na meia-guarda ou *combat base*. Abrace a cabeça do oponente e domine a manga ou braço dele. Dê um passo longo para trás e para o lado com a perna que estava livre, girando o quadril e caindo de lado, arrastando a perna presa.
 * **Detalhe:** O segredo é a "cabeçada" no peito do oponente para manter o peso enquanto o corpo gira para longe.
 * **Por que é boa:** Gera muita velocidade e força centrífuga, soltando a perna presa na meia-guarda quase que instantaneamente.
@@ -73,21 +74,24 @@
 * **Erro Comum:** Não colocar pressão suficiente no quadril, permitindo que ele reponha a guarda por baixo.
 * **Vídeo Sugerido:** [Smash Pass - Passagem Dobrando](https://www.youtube.com/watch?v=V21tQY8Q73g)
 
----
 
-   1. Entrada Lendo Jornal: 
-   2. Entrada Tradicional:
-   3. Emborcada com a mão invertida perto do pescoço na lapela passando o braço por cima
+## Reserva . Emborcada com a mão invertida
+* **Como fazer:**Emborcada com a mão invertida perto do pescoço na lapela passando o braço por cima
+
+## Reserva . Passagem do 100 kg para a montada
+* **Como fazer:** ...
    4. Passagem do 100 kg para a montada
-   5. Passagem da guarda aberta para o lado esquerdo fazendo 100 kg.
-   6. Passagem de Meia-Guarda:
-   7. Passagem de guarda laço
-   8. girando roda caminhão
-   9. pega joelho e cai em cima no 100 kg
-   10. em pé + mão lapela + passa o pé
 
- 
-   3. Raspagem da guarda aranha forçando a perna do oponente para o lado que você vai querer pisar, invertendo com o pé que você vai pisar nele, forçar soltar a mão, com a mão que está preso, puxar para o seu lado oposto.
+## Reserva . Passagem da guarda aberta para o lado esquerdo fazendo 100 kg
+* **Como fazer:** ...
 
+## Reserva 2. Passagem de Meia-Guarda
+* **Como fazer:** 
+
+## Reserva 2. Passagem de guarda laço
+* **Como fazer:**   6. Passagem de Meia-Guarda:
+
+## Reserva 2. Girando roda caminhão
+* **Como fazer:** pega joelho e cai em cima no 100 kg, em pé + mão lapela + passa o pé
 
 
