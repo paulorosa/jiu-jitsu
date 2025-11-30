@@ -145,21 +145,21 @@
 ## ⬛ 4º GRAU: Especialização e Defesa Pessoal (30 Técnicas)
 
 ### Técnicas: 2 Idas para as Costas
-- [ ] 01. Pegada de Costas da Tartaruga
-- [ ] 02. Pegada de Costas do Armdrag
+- [ ] 01. Da Guarda Fechada
+- [ ] 02. Da Meia-Guarda
 
 ### Técnicas: 2 Saídas da Costas
 - [ ] 01. Saída das Costas (Para o lado do braço)
 - [ ] 02. Saída das Costas (Para o lado do pescoço)
 
 ### Finalizações:  1 Chave de Braço das Cosas
-- [ ] 01. 
+- [ ] 01. De Quatro Apoios
 
-### Finalizações:  4 Estrangulamentos das Costas
-- [ ] 01. 
-- [ ] 02. 
-- [ ] 03. 
-- [ ] 04. 
+### Finalizações: 4 Estrangulamentos das Costas
+- [ ] 01. Mata-leão
+- [ ] 02. Ezequiel
+- [ ] 03. Puxa 2 golas
+- [ ] 04. Arco e Flecha
 
 ### Finalizações: 1 Chave de Braço do Quatro Apoios  
 - [ ] 01. Inversão/Reposição da Tartaruga
