@@ -54,10 +54,10 @@
 ## 🟪 2º GRAU: O Jogo de Guarda (34 Técnicas)
 
 ### Técnicas: 4 Aberturas de Guarda
-- [ ] 01. Abertura em Pé (Postura)
-- [ ] 02. Abertura Ajoelhado
-- [ ] 03. Abertura Log Splitter
-- [ ] 04. Abertura Tozi (São Paulo Pass)
+- [ ] 01. Abertura em Pé (Postura Básica)
+- [ ] 02. Abertura Ajoelhado (Joelho no Cócix)
+- [ ] 03. Abertura (Estourando o Cadeado)
+- [ ] 04. Abertura Ammassando (São Paulo Pass)
 
 ### Técnicas: 8 Passagens de Guarda
 - [ ] 01. Toreando
