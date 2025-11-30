@@ -95,7 +95,7 @@
 - [ ] 01. Estrangulamento Cruzado
 - [ ] 02. Triângulo
 - [ ] 03. Guilhotina
-- [ ] 04. Loop Choke
+- [ ] 04. Ezequiel
 
 ----
 
@@ -133,8 +133,8 @@
 - [ ] 05. Triângulo de Mão da Montad
 
 ### Finalizações: 2 Estrangulamentos da Montada
-- [ ] 01.  
-- [ ] 02.  
+- [ ] 01.  Ezequiel
+- [ ] 02.  Kimono por volta da cabeça
 
 ### Finalizações: 2 Joelhos na Barriga dos 100 Kg
 - [ ] 01.  
