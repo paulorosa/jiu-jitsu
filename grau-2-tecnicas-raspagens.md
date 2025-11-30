@@ -116,3 +116,7 @@
 * **Vídeo Sugerido:** https://www.youtube.com/shorts/jlbc_HzM7Kw
 
 
+
+ 
+   3. Raspagem da guarda aranha forçando a perna do oponente para o lado que você vai querer pisar, invertendo com o pé que você vai pisar nele, forçar soltar a mão, com a mão que está preso, puxar para o seu lado oposto.
+
