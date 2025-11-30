@@ -1,10 +1,7 @@
-# 1o. Grau: Finalizações - Chave de Braço da Meia Guarda (3)
-Este guia detalha os estrangulamentos partindo da imobilização lateral e os ataques fundamentais quando se está passando a meia-guarda. O foco é o ajuste justo que elimina o espaço de defesa.
-
----
+# 1o. Grau: Finalizações - (3) Chaves de Braço da Meia-Guarda
 
 ## 1. Kimura da Meia-Guarda
-* **Como fazer:** Quando o oponente na meia-guarda tenta esgrimar ou abraçar sua cintura. Domine o punho dele, passe o outro braço por cima do ombro e feche o triângulo de mão (figura 4).
+* **Como fazer:** Quando o oponente na meia-guarda tenta esgrimar ou abraçar sua cintura. Domine o punho dele, passe o outro braço por cima do ombro e feche o triângulo de mão.
 * **Detalhe:** Use a perna livre para base ou para passar a guarda enquanto ataca. Gire o tronco dele de lado para expor o ombro.
 * **Por que é boa:** Serve como ataque e como contra-ataque para quem gosta de ir para as costas da meia.
 * **Erro Comum:** Perder a base ao atacar, sendo raspado para trás. Mantenha o peso nos quadris.
@@ -26,8 +23,10 @@ Este guia detalha os estrangulamentos partindo da imobilização lateral e os at
 
 ---
 
+## Reserva 1. Kimura (por baixo)
+* **Como fazesr:** saindo por de baixo, segura no ombro, estica a outra mão e segura punho, aplica a kimura.
+ 
+## Reserva 2. Ezequiel da Meia-Guarda (por cima)
 
-1 Chave de Braço da Meia Guarda
-   1. (Por Baixo) Kimura: saindo por de baixo, segura no ombro, estica a outra mão e segura punho, aplica a kimura.
-   2. (Por cima) Americana: 
+## Reserva 3. Americana
 
