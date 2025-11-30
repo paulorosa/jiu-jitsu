@@ -99,79 +99,98 @@
 
 ----
 
-## 🟫 3º GRAU: Transições e Dinâmica (19 Técnicas)
+## 🟫 3º GRAU: Transições e Dinâmica (23 Técnicas)
 
-### Técnicas de Montada
-- [ ] 66. Ida para a Montada (do 100kg)
-- [ ] 67. Ida para a Montada (da Meia-Guarda)
-- [ ] 68. Saída da Montada (Upa/Ponte)
-- [ ] 69. Saída da Montada (Cotovelo/Joelho)
-- [ ] 70. Saída da Montada (Pé com Pé)
+### Técnicas: 2 Idas para Montada
+- [ ] 01. Ida para a Montada (do 100kg)
+- [ ] 02. Ida para a Montada (da Meia-Guarda)
 
-### Saídas de Joelho na Barriga
-- [ ] 71. Reposição de Guarda
-- [ ] 72. Saída rodando para Single Leg
+### Técnicas: 3 Saídas da Montada
+- [ ] 01. Saída da Montada (Upa/Ponte)
+- [ ] 02. Saída da Montada (Cotovelo/Joelho)
+- [ ] 03. Saída da Montada (Pé com Pé)
 
-### Saídas da Meia-Guarda (Passando)
-- [ ] 73. Esgrima e Slide
-- [ ] 74. Backstep
-- [ ] 75. Passagem Invertendo o Quadril
-- [ ] 76. Passagem de Pressão (Abraçando a Cabeça)
+### Técnicas: 2 Saídas de Joelho na Barriga
+- [ ] 01. Reposição de Guarda
+- [ ] 02. Saída rodando para Single Leg
 
-### Saídas da Meia-Guarda (Por Baixo)
-- [ ] 77. Reposição para Guarda Fechada
-- [ ] 78. Ida para as Costas (Esgrima)
-- [ ] 79. Raspagem Dog Fight (Coyote)
+### Técnicas: 4 Saídas da Meia-Guarda (Por Cima)
+- [ ] 01. Esgrima e Slide
+- [ ] 02. Backstep
+- [ ] 03. Passagem Invertendo o Quadril
+- [ ] 04. Passagem de Pressão (Abraçando a Cabeça)
 
-### Finalizações da Montada (Bônus 3º Grau)
-- [ ] 80. Armlock da Montada
-- [ ] 81. Estrangulamento Cruzado da Montada
-- [ ] 82. Ezequiel da Montada
-- [ ] 83. Katagatame da Montada
-- [ ] 84. Triângulo de Mão da Montada
+### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)
+- [ ] 01. Reposição para Guarda Fechada
+- [ ] 02. Ida para as Costas (Esgrima)
+- [ ] 03. Raspagem Dog Fight (Coyote)
+
+### Finalizações: 5 Chaves de Braço da Montada
+- [ ] 01. Armlock da Montada
+- [ ] 02. Estrangulamento Cruzado da Montada
+- [ ] 03. Ezequiel da Montada
+- [ ] 04. Katagatame da Montada
+- [ ] 05. Triângulo de Mão da Montad
+
+### Finalizações: 2 Estrangulamentos da Montada
+- [ ] 01.  
+- [ ] 02.  
+
+### Finalizações: 2 Joelhos na Barriga dos 100 Kg
+- [ ] 01.  
+- [ ] 02.  
 
 ---
 
-## ⬛ 4º GRAU: Especialização e Defesa Pessoal (34 Técnicas)
+## ⬛ 4º GRAU: Especialização e Defesa Pessoal (30 Técnicas)
 
-### Chaves de Perna (Leg Locks)
-- [ ] 85. Botinha Reta (Straight Footlock)
-- [ ] 86. Chave de Panturrilha (Calf Slicer)
-- [ ] 87. Chave de Joelho (Kneebar)
-- [ ] 88. Toe Hold (Mata-Leão no Pé)
-- [ ] 89. Estima Lock
-- [ ] 90. Defesa de Botinha
-- [ ] 91. Defesa de Kneebar
-- [ ] 92. Defesa de Toe Hold
-- [ ] 93. Entrada de Leg Lock da Guarda 50/50
+### Técnicas: 2 Idas para as Costas
+- [ ] 01. Pegada de Costas da Tartaruga
+- [ ] 02. Pegada de Costas do Armdrag
 
-### Controle de Costas
-- [ ] 94. Pegada de Costas da Tartaruga
-- [ ] 95. Pegada de Costas do Armdrag
-- [ ] 96. Mata-Leão
-- [ ] 97. Estrangulamento Arco e Flecha (Bow and Arrow)
-- [ ] 98. Saída das Costas (Para o lado do braço)
-- [ ] 99. Saída das Costas (Para o lado do pescoço)
+### Técnicas: 2 Saídas da Costas
+- [ ] 01. Saída das Costas (Para o lado do braço)
+- [ ] 02. Saída das Costas (Para o lado do pescoço)
 
-### Tartaruga (Quatro Apoios)
-- [ ] 100. Capotagem (Reloginho)
-- [ ] 101. Estrangulamento Relógio
-- [ ] 102. Crucifixo
-- [ ] 103. Inversão/Reposição da Tartaruga (Sit out)
+### Finalizações:  1 Chave de Braço das Cosas
+- [ ] 01. 
 
-### Defesa Pessoal (Self Defense)
-- [ ] 104. Saída de Pegada no Pulso (Simples)
-- [ ] 105. Saída de Pegada no Pulso (Invertida)
-- [ ] 106. Defesa de Estrangulamento Frontal (Duas mãos)
-- [ ] 107. Defesa de Estrangulamento por Trás
-- [ ] 108. Defesa de Gravata Lateral (Headlock) no Chão
-- [ ] 109. Defesa de Gravata Lateral em Pé
-- [ ] 110. Defesa de Abraço de Urso (Pela frente)
-- [ ] 111. Defesa de Abraço de Urso (Por trás)
-- [ ] 112. Defesa de Guilhotina em Pé
-- [ ] 113. Defesa de Soco (Entrada de Baiana)
-- [ ] 114. Defesa de Chute Frontal (Pisão)
-- [ ] 115. Defesa de Paulada (Cima para baixo)
-- [ ] 116. Levantada Técnica (Base)
-- [ ] 117. Imobilização Policial (Mão de Vaca nas Costas)
-- [ ] 118. Defesa contra atacante armado (Simulação teórica/controle)
+### Finalizações:  4 Estrangulamentos das Costas
+- [ ] 01. 
+- [ ] 02. 
+- [ ] 03. 
+- [ ] 04. 
+
+### Finalizações: 1 Chave de Braço do Quatro Apoios  
+- [ ] 01. Inversão/Reposição da Tartaruga
+
+### Finalizações: 3 Estrangulamentos do Quatro Apoioos
+- [ ] 01. Capotagem (Reloginho)
+- [ ] 02. Estrangulamento Relógio
+- [ ] 03. Crucifixo
+
+### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
+- [ ] 01. Botinha Reta
+- [ ] 02. Chave de Panturrilha
+- [ ] 03. Chave de Joelho
+- [ ] 04. Mata-Leão no Pé
+- [ ] 05. Entrada de Leg Lock da Guarda 50/50
+- [ ] 06. 
+- [ ] 07. 
+- [ ] 08. 
+- [ ] 09. 
+
+###  Técnicas: 3 Saídas de Braço / Ombro
+- [ ] 01. 
+- [ ] 02. 
+- [ ] 03. 
+
+###  Técnicas: 3 Saídas de Triângulo / Estrangulamento
+- [ ] 01. 
+- [ ] 02. 
+- [ ] 03. 
+
+###  Técnicas: 2 Saídas de Chave de Perna
+- [ ] 01. 
+- [ ] 02. 
+
