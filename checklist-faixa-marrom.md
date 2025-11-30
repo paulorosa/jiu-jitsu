@@ -1,20 +1,33 @@
-# 🥋 Checklist Oficial: Exame de Faixa Marrom (118 Técnicas)
-
-Este documento agrupa todas as técnicas necessárias para o exame, divididas pelos 4 Graus de avaliação técnica.
-
----
+# 🥋 Checklist Exame de Faixa Marrom (118 Técnicas)
 
 ## 🟦 1º GRAU: Fundamentos e Domínio Lateral (31 Técnicas)
 
-### Quedas (Tachi-Waza)
-- [ ] 01. Baiana (Double Leg)
-- [ ] 02. Single Leg (Catada de Perna)
-- [ ] 03. O-Soto-Gari
+### Finalizações: 5 Chaves de Braço do 100kg
+- [ ] 1. Americana
+- [ ] 2. Americana Extendida (Chave de Braço Reta)
+- [ ] 3. Kimura Invertido (passando perna na cabeça)
+- [ ] 4. Armlock (pegando braço do oponente fugindo)
+- [ ] 5. Armlock Invertido (pega o outro braço
+
+### Finalizações: 3 Estrangulamentos do 100kg
+- [ ] 6. Enforcamento 2 Golas
+- [ ] 7. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
+- [ ] 8. Ezequiel
+
+### Finalizações: 3 Chaves de Braço da Meia-Guarda
+- [ ] 9. Kimura
+- [ ] 10. Americana
+- [ ] 11. Arm-Lock (passando a perna)
+
+### 8 Quedas
+- [ ] 01. Single Leg (Catada de Perna)
+- [ ] 02. Double Leg (Mãos Juntas)
+- [ ] 03. Baiana (Mãos Separadas)
 - [ ] 04. Ouchi-Gari
-- [ ] 05. Seoi-Nage
-- [ ] 06. De Ashi Harai (Rasteira)
-- [ ] 07. Tomoe Nage
-- [ ] 08. Sumi Gaeshi
+- [ ] 05. Couchi-Gari
+- [ ] 06. Osotogari
+- [ ] 07. Ostotoguruma
+- [ ] 08. Ipon Sue Nagi
 
 ### Imobilizações e Controle
 - [ ] 09. 100kg Tradicional
@@ -29,18 +42,6 @@ Este documento agrupa todas as técnicas necessárias para o exame, divididas pe
 - [ ] 16. Saída de Ponte (Upa no 100kg)
 - [ ] 17. Saída do Kesa Gatame
 - [ ] 18. Saída do Norte-Sul
-
-### Finalizações do 100kg (Braço)
-- [ ] 19. Americana
-- [ ] 20. Kimura
-- [ ] 21. Armlock Girando (Spinning Armbar)
-- [ ] 22. Armlock Invertido (Featherlock)
-- [ ] 23. Chave de Braço Reta
-
-### Finalizações do 100kg (Estrangulamento)
-- [ ] 24. Baseball Choke
-- [ ] 25. Estrangulamento Norte-Sul
-- [ ] 26. Katagatame
 
 ### Ataques da Meia-Guarda (Por Cima)
 - [ ] 27. Kimura da Meia-Guarda
