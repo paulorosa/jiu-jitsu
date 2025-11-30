@@ -1,25 +1,31 @@
 # 🥋 Checklist Exame de Faixa Marrom (118 Técnicas)
 
+----
+
 ## 🟦 1º GRAU: Fundamentos e Domínio Lateral (31 Técnicas)
 
 ### Finalizações: 5 Chaves de Braço do 100kg
-- [ ] 1. Americana
-- [ ] 2. Americana Extendida (Chave de Braço Reta)
-- [ ] 3. Kimura Invertido (passando perna na cabeça)
-- [ ] 4. Armlock (pegando braço do oponente fugindo)
-- [ ] 5. Armlock Invertido (pega o outro braço
+- [ ] 01. Americana
+- [ ] 02. Americana Extendida (Chave de Braço Reta)
+- [ ] 03. Kimura Invertido (passando perna na cabeça)
+- [ ] 04. Armlock (pegando braço do oponente fugindo)
+- [ ] 05. Armlock Invertido (pega o outro braço
 
 ### Finalizações: 3 Estrangulamentos do 100kg
-- [ ] 6. Enforcamento 2 Golas
-- [ ] 7. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
-- [ ] 8. Ezequiel
+- [ ] 06. Enforcamento 2 Golas
+- [ ] 07. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
+- [ ] 08. Ezequiel
 
 ### Finalizações: 3 Chaves de Braço da Meia-Guarda
-- [ ] 9. Kimura
-- [ ] 10. Americana
-- [ ] 11. Arm-Lock (passando a perna)
+- [ ] 01. Kimura
+- [ ] 02. Americana
+- [ ] 03. Arm-Lock (passando a perna)
 
-### 8 Quedas
+### Finalizações: 2 Estrangulamentos da Meia-Guarda
+- [ ] 01. Ezequiel
+- [ ] 02. Ezequiel Crossface
+
+### Técnicas: 8 Quedas
 - [ ] 01. Single Leg (Catada de Perna)
 - [ ] 02. Double Leg (Mãos Juntas)
 - [ ] 03. Baiana (Mãos Separadas)
@@ -29,76 +35,69 @@
 - [ ] 07. Ostotoguruma
 - [ ] 08. Ipon Sue Nagi
 
-### Imobilizações e Controle
-- [ ] 09. 100kg Tradicional
-- [ ] 10. 100kg Variação (Esgrima/Quadril)
-- [ ] 11. Kesa Gatame
-- [ ] 12. Norte-Sul
-- [ ] 13. Joelho na Barriga
-- [ ] 14. Montada (Estabilização)
+### Técnicas: 6 Imobilizações
+- [ ] 01. 100kg Tradicional
+- [ ] 02. 100kg Variação (Esgrima/Quadril)
+- [ ] 03. Kesa Gatame
+- [ ] 04. Norte-Sul
+- [ ] 05. Joelho na Barriga
+- [ ] 06. Montada (Estabilização)
 
-### Saídas de Imobilização (Defesa)
-- [ ] 15. Reposição de 100kg (Cotovelo/Joelho)
-- [ ] 16. Saída de Ponte (Upa no 100kg)
-- [ ] 17. Saída do Kesa Gatame
-- [ ] 18. Saída do Norte-Sul
-
-### Ataques da Meia-Guarda (Por Cima)
-- [ ] 27. Kimura da Meia-Guarda
-- [ ] 28. Americana da Meia-Guarda
-- [ ] 29. Armlock da Meia-Guarda
-- [ ] 30. Ezequiel da Meia-Guarda
-- [ ] 31. Brabo Choke
+### Técnicas: 4 Saídas de Imobilização
+- [ ] 01. Reposição de 100kg (Cotovelo/Joelho)
+- [ ] 02. Saída de Ponte (Upa no 100kg)
+- [ ] 03. Saída do Kesa Gatame
+- [ ] 04. Saída do Norte-Sul
 
 ---
 
 ## 🟪 2º GRAU: O Jogo de Guarda (34 Técnicas)
 
-### Aberturas de Guarda
-- [ ] 32. Abertura em Pé (Postura)
-- [ ] 33. Abertura Ajoelhado
-- [ ] 34. Abertura Log Splitter
-- [ ] 35. Abertura Tozi (São Paulo Pass)
+### Técnicas: 4 Aberturas de Guarda
+- [ ] 01. Abertura em Pé (Postura)
+- [ ] 02. Abertura Ajoelhado
+- [ ] 03. Abertura Log Splitter
+- [ ] 04. Abertura Tozi (São Paulo Pass)
 
-### Passagens de Guarda
-- [ ] 36. Toreando
-- [ ] 37. Cruzando o Joelho (Knee Slice)
-- [ ] 38. Emborcada (Stack Pass)
-- [ ] 39. Leg Drag
-- [ ] 40. Over-Under Pass
-- [ ] 41. X-Pass
-- [ ] 42. Long Step Pass
-- [ ] 43. Passagem de Borboleta (Amassando)
+### Técnicas: 8 Passagens de Guarda
+- [ ] 01. Toreando
+- [ ] 02. Cruzando o Joelho (Knee Slice)
+- [ ] 03. Emborcada (Stack Pass)
+- [ ] 04. Leg Drag
+- [ ] 05. Over-Under Pass
+- [ ] 06. X-Pass
+- [ ] 07. Long Step Pass
+- [ ] 08. Passagem de Borboleta (Amassando)
 
-### Raspagens
-- [ ] 44. Tesoura
-- [ ] 45. Pêndulo (Flower Sweep)
-- [ ] 46. Raspagem de Quadril (Hip Bump)
-- [ ] 47. Borboleta Simples
-- [ ] 48. Borboleta Cruzada
-- [ ] 49. Tripod Sweep
-- [ ] 50. Tomahawk
-- [ ] 51. Meia-Guarda Old School (Lucas Leite)
-- [ ] 52. Meia-Guarda Profunda (Waiter Sweep)
-- [ ] 53. Aranha (Tesourinha)
-- [ ] 54. De La Riva (Balão)
-- [ ] 55. De La Riva (Sentando/Berimbolo)
-- [ ] 56. X-Guard (Levantada Técnica)
-- [ ] 57. Single Leg X
+### Técnicas: 14 Raspagens
+- [ ] 01. Tesoura
+- [ ] 02. Pêndulo (Flower Sweep)
+- [ ] 03. Raspagem de Quadril (Hip Bump)
+- [ ] 04. Borboleta Simples
+- [ ] 05. Borboleta Cruzada
+- [ ] 06. Tripod Sweep
+- [ ] 07. Tomahawk
+- [ ] 08. Meia-Guarda Old School (Lucas Leite)
+- [ ] 09. Meia-Guarda Profunda (Waiter Sweep)
+- [ ] 10. Aranha (Tesourinha)
+- [ ] 11. De La Riva (Balão)
+- [ ] 12. De La Riva (Sentando/Berimbolo)
+- [ ] 13. X-Guard (Levantada Técnica)
+- [ ] 14. Single Leg X
 
-### Finalizações da Guarda (Braço)
-- [ ] 58. Armlock da Guarda Fechada
-- [ ] 59. Kimura da Guarda Fechada
-- [ ] 60. Omoplata
-- [ ] 61. Armlock da Guarda Aranha
+### Finalizações: 4 Chaves de Braço da Guarda
+- [ ] 01. Armlock da Guarda Fechada
+- [ ] 02. Kimura da Guarda Fechada
+- [ ] 03. Omoplata
+- [ ] 04. Armlock da Guarda Aranha
 
-### Finalizações da Guarda (Estrangulamento)
-- [ ] 62. Estrangulamento Cruzado
-- [ ] 63. Triângulo
-- [ ] 64. Guilhotina
-- [ ] 65. Loop Choke
+### Finalizações: 4 Estrangulamentos da Guarda
+- [ ] 01. Estrangulamento Cruzado
+- [ ] 02. Triângulo
+- [ ] 03. Guilhotina
+- [ ] 04. Loop Choke
 
----
+----
 
 ## 🟫 3º GRAU: Transições e Dinâmica (19 Técnicas)
 
