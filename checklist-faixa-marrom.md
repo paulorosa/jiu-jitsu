@@ -190,7 +190,7 @@
 - [ ] 02. Saída de Triângulo Encaixado (Emborcada)
 - [ ] 03. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
-###  Técnicas: 2 Saídas de Chave de Perna
+###  Técnicas: 2 Saídas de Chave de Perna [teste](grau-4-tecnicas-saida-chave-perna.md)
 - [ ] 01. Defesa de Botinha Reta
 - [ ] 02. Defesa de Chave de Joelho
 
