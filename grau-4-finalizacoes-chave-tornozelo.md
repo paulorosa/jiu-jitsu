@@ -20,7 +20,7 @@
 
 ### Chaves de Joelho
 
-## 3. Chave de Joelho Reto (Top Spin / Passando)
+## 3. Chave de Joelho Reto (Passando)
 [Image of kneebar jiu jitsu technique leverage]
 * **Como fazer:** Quando o oponente está na meia-guarda por baixo. Dê um passo para trás (backstep) girando o corpo 180 graus. Encaixe a perna dele entre as suas, sente-se e abrace o tornozelo dele contra seu peito, estendendo o quadril.
 * **Detalhe:** O dedão do pé do oponente deve estar apontado para o seu umbigo. Se o pé girar, o joelho sai da linha de pressão.
@@ -28,7 +28,7 @@
 * **Erro Comum:** Deixar espaço entre a sua virilha e o joelho dele (perde o ponto de apoio/fulcro).
 * **Vídeo Sugerido:** [Kneebar partindo da Meia Guarda (Giro)](https://www.youtube.com/watch?v=gX-MVs8-ONo)
 
-## 4. Chave de Joelho da Tartaruga (Victor Roll)
+## 4. Chave de Joelho dos Quatro Apoios
 * **Como fazer:** O oponente está em quatro apoios. Coloque o seu pé no espaço entre o joelho e o cotovelo dele. Gire por cima do ombro (rolamento), pescando a perna dele com as suas pernas. Estique o corpo finalizando no joelho.
 * **Detalhe:** O giro deve ser rápido e justo. Use a inércia do rolamento para esticar a perna dele antes que ele perceba.
 * **Por que é boa:** Surpreende o oponente que está focado apenas em defender o pescoço.
@@ -66,19 +66,22 @@
 * **Erro Comum:** Deixar o quadril frouxo ou permitir que o oponente dobre o joelho (o que mata a alavanca).
 * **Vídeo Sugerido:** [Chave de Joelho (Leg Lock) - Passo a Passo](https://www.youtube.com/watch?v=gX-MVs8-ONo)
 
-## 9. Mata-Leão no Pé (Toe Hold)
+
+## 9. Chave de Panturrilha (Calf Slicer)
+* **Como fazer:** Com a perna do oponente dobrada, insira sua canela ou antebraço na dobra do joelho dele (atrás da perna). Puxe o pé dele em direção ao glúteo, usando sua canela como "quebra-nozes" para comprimir o músculo da panturrilha contra o osso.
+* **Detalhe:** Geralmente aplicada a partir da defesa de costas (quando ele cruza os pés errado), da meia-guarda ou do *Truck*. O cadeado nas pernas ("triângulo") ajuda a manter a pressão.
+* **Por que é boa:** Muito dolorosa e eficiente para obrigar o oponente a se mover ou bater por compressão muscular.
+* **Erro Comum:** Não encaixar o osso da canela fundo o suficiente na dobra do joelho. Se ficar raso, não pressiona o músculo.
+* **Vídeo Sugerido:** [Chave de Panturrilha - Variações e Ajustes](https://www.youtube.com/watch?v=MulLm3H6r7c)
+
+
+## 10. Mata-Leão no Pé (Toe Hold)
 * **Como fazer:** Segure a ponta do pé do oponente com uma mão (dedo mindinho no dedo mindinho dele). Passe o outro braço por baixo da canela dele e segure seu próprio pulso (Figura 4 / Kimura grip). Torça o pé dele em direção à nádega, flexionando o tornozelo lateralmente.
 * **Detalhe:** Cole o tornozelo dele no seu peito para ter base. A força vem da rotação do seu tronco, não apenas dos braços.
 * **Por que é boa:** Funciona contra oponentes que defendem bem a botinha reta e abrem espaço para a torção.
 * **Erro Comum:** Segurar no meio do pé em vez de na ponta dos dedos (perde a alavanca) ou esquecer de travar a perna dele com as suas.
 * **Vídeo Sugerido:** [Mata Leão no Pé - Detalhes Técnicos](https://www.youtube.com/watch?v=_6FlMrX2u1A)
 
-## 10. Chave de Panturrilha (Calf Slicer)
-* **Como fazer:** Com a perna do oponente dobrada, insira sua canela ou antebraço na dobra do joelho dele (atrás da perna). Puxe o pé dele em direção ao glúteo, usando sua canela como "quebra-nozes" para comprimir o músculo da panturrilha contra o osso.
-* **Detalhe:** Geralmente aplicada a partir da defesa de costas (quando ele cruza os pés errado), da meia-guarda ou do *Truck*. O cadeado nas pernas ("triângulo") ajuda a manter a pressão.
-* **Por que é boa:** Muito dolorosa e eficiente para obrigar o oponente a se mover ou bater por compressão muscular.
-* **Erro Comum:** Não encaixar o osso da canela fundo o suficiente na dobra do joelho. Se ficar raso, não pressiona o músculo.
-* **Vídeo Sugerido:** [Chave de Panturrilha - Variações e Ajustes](https://www.youtube.com/watch?v=MulLm3H6r7c)
 
 ---
 
