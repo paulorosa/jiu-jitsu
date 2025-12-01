@@ -1,6 +1,8 @@
 # 1o. Grau: Finalizações - 5 Chaves de Braço dos 100 Kg
 
 Vídeo: (https://www.youtube.com/shorts/v4XvMGQHYCo)
+Vídeo: (https://www.youtube.com/shorts/mbkMP8NhcKQ)
+
 
 ## 1. Americana (Chave de Braço Dobrado)
 * **Como fazer:** Isole o braço distante do oponente, prendendo o punho dele no chão com a sua mão (braço em ângulo de 90º). Passe seu outro braço por baixo do tríceps dele e segure seu próprio punho (Figura 4).
