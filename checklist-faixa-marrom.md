@@ -12,9 +12,9 @@
 - [ ] 05. Armlock Invertido (pega o outro braço
 
 ### Finalizações: 3 Estrangulamentos do 100kg
-- [ ] 06. Enforcamento 2 Golas
-- [ ] 07. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
-- [ ] 08. Ezequiel
+- [ ] 01. Enforcamento 2 Golas
+- [ ] 02. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
+- [ ] 03. Ezequiel
 
 ### Finalizações: 3 Chaves de Braço da Meia-Guarda
 - [ ] 01. Kimura
@@ -170,15 +170,15 @@
 - [ ] 03. Crucifixo
 
 ### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
-- [ ] 01. Botinha Reta
-- [ ] 02. Chave de Panturrilha
-- [ ] 03. Chave de Joelho
-- [ ] 04. Mata-Leão no Pé
-- [ ] 05. Entrada de Leg Lock da Guarda 50/50
-- [ ] 06. 
-- [ ] 07. 
-- [ ] 08. 
-- [ ] 09. 
+- [ ] 01. Botinha Reta (Pé no Quadril - Básica)
+- [ ] 02. Botinha da Guarda 50/50
+- [ ] 03. Chave de Joelho Reto (Passando)
+- [ ] 04. Chave de Joelho dos Quatro Apoios
+- [ ] 05. Mata-Leão da Guarda De La Riva (Por Cima)
+- [ ] 06. Mata-Leão Rolando
+- [ ] 07. Chave de Tornozelo (Botinha Reta)
+- [ ] 08. Mata-Leão no Pé
+- [ ] 09. Chave de Panturrilha
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
 - [ ] 01. Defesa de Armlock da Guarda (Amassando)
