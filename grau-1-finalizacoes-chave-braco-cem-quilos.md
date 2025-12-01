@@ -1,8 +1,6 @@
-# 1o. Grau: Finalizações - Chave de Braço dos 100 Kg (5)
+# 1o. Grau: Finalizações - 5 Chaves de Braço dos 100 Kg
 
-Este bloco foca no ataque aos membros superiores partindo do controle lateral. A chave aqui é a distribuição de peso para evitar que o oponente gire enquanto você ataca.
-
----
+Vídeo: (https://www.youtube.com/shorts/v4XvMGQHYCo)
 
 ## 1. Americana (Chave de Braço Dobrado)
 * **Como fazer:** Isole o braço distante do oponente, prendendo o punho dele no chão com a sua mão (braço em ângulo de 90º). Passe seu outro braço por baixo do tríceps dele e segure seu próprio punho (Figura 4).
