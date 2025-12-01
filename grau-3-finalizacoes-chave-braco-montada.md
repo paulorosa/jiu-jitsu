@@ -1,8 +1,4 @@
-# 3o. Grau: Finalizações - Chave de Braço da Montada (5)
-
-Este bloco cobre os ataques articulares partindo da montada. O foco é a *estabilização prévia* (S-Mount) e o *isolamento* do membro antes da extensão.
-
----
+# 3o. Grau: Finalizações - 5 Chaves de Braço da Montada
 
 ## 1. Armlock Clássico da Montada
 * **Como fazer:** Domine o braço do oponente cruzando-o sobre seu peito. Avance o joelho do lado oposto até a altura da orelha dele e levante a outra perna (pé no chão), criando o "S-Mount". Sente-se sobre o ombro dele, passe a perna por cima da cabeça e caia para trás, apertando os joelhos.
