@@ -137,8 +137,8 @@
 - [ ] 02.  Kimono por volta da cabeça
 
 ### Finalizações: 2 Joelhos na Barriga dos 100 Kg
-- [ ] 01.  
-- [ ] 02.  
+- [ ] 01. Armlock do Joelho na Barriga (Girando)
+- [ ] 02. Estrangulamento Cruzado 
 
 ---
 
@@ -181,16 +181,16 @@
 - [ ] 09. 
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
-- [ ] 01. 
-- [ ] 02. 
-- [ ] 03. 
+- [ ] 01. Defesa de Armlock da Guarda (Amassando)
+- [ ] 02. Defesa de Kimura (Contra-Kimura/Re-Kimura)
+- [ ] 03. Defesa de Americana do 100kg (Ponte e Cotovelo)
 
 ###  Técnicas: 3 Saídas de Triângulo / Estrangulamento
-- [ ] 01. 
-- [ ] 02. 
-- [ ] 03. 
+- [ ] 01. Defesa de Triângulo (Postura e Cotovelo)
+- [ ] 02. Saída de Triângulo Encaixado (Emborcada)
+- [ ] 03. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
 ###  Técnicas: 2 Saídas de Chave de Perna
-- [ ] 01. 
-- [ ] 02. 
+- [ ] 01. Defesa de Botinha Reta
+- [ ] 02. Defesa de Chave de Joelho
 
