@@ -29,11 +29,11 @@
 - [ ] 01. Single Leg (Catada de Perna)
 - [ ] 02. Double Leg (Mãos Juntas)
 - [ ] 03. Baiana (Mãos Separadas)
-- [ ] 04. Ouchi-Gari
-- [ ] 05. Couchi-Gari
-- [ ] 06. Osotogari
-- [ ] 07. Ostotoguruma
-- [ ] 08. Ipon Sue Nagi
+- [ ] 04. Ouchi-Gari (Grancho por dentro - perna direita)
+- [ ] 05. Couchi-Gari (perna para dentro - perna esquerda)
+- [ ] 06. Osotogari (gancho para fora - rasteira 1 perna)
+- [ ] 07. Ostotoguruma (gancho para fora - rasteira 2 pernas)
+- [ ] 08. Ipon Seoi-Nage (Queda de Ombro)
 
 ### Técnicas: 6 Imobilizações
 - [ ] 01. 100kg Tradicional
