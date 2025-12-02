@@ -44,10 +44,10 @@
 - [ ] 06. Norte-Sul (2 Braços)
 
 ### Técnicas: 4 Saídas de Imobilização
-- [ ] 01. Reposição de 100kg (Cotovelo/Joelho)
+- [ ] 01. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
 - [ ] 02. Saída de Ponte (Upa no 100kg)
-- [ ] 03. Saída do Kesa Gatame
-- [ ] 04. Saída do Norte-Sul
+- [ ] 03. Saída da Montada (Girada do oponente)
+- [ ] 04. Saída da Montada (Empurra joelho, repõe meia-guarda)
 
 ---
 
