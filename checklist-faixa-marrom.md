@@ -36,12 +36,12 @@
 - [ ] 08. Ipon Seoi-Nage (Queda de Ombro)
 
 ### Técnicas: 6 Imobilizações
-- [ ] 01. 100kg Tradicional
-- [ ] 02. 100kg Variação (Esgrima/Quadril)
-- [ ] 03. Kesa Gatame
+- [ ] 01. 100kg Tradicional (Controle Lateral)
+- [ ] 02. 100kg Invertido
+- [ ] 03. 100kg Variação (Esgrima Invertida/Quadril)
 - [ ] 04. Norte-Sul
-- [ ] 05. Joelho na Barriga
-- [ ] 06. Montada (Estabilização)
+- [ ] 05. Norte-Sul (1 Braço)
+- [ ] 06. Norte-Sul (2 Braços)
 
 ### Técnicas: 4 Saídas de Imobilização
 - [ ] 01. Reposição de 100kg (Cotovelo/Joelho)
