@@ -57,7 +57,7 @@
 - [ ] 01. Abertura em Pé (Postura Básica)
 - [ ] 02. Abertura Ajoelhado (Joelho no Cócix)
 - [ ] 03. Abertura (Estourando o Cadeado)
-- [ ] 04. Abertura Ammassando (São Paulo Pass)
+- [ ] 04. Abertura em Pé (Levantando empurrando com o braço que segura o kimono)
 
 ### Técnicas: 8 Passagens de Guarda
 - [ ] 01. Toreando
