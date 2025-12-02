@@ -84,7 +84,7 @@
 - [ ] 12. De La Riva (Sentando/Berimbolo)
 - [ ] 13. X-Guard (Levantada Técnica)
 - [ ] 14. Single Leg X
-
+ 
 ### Finalizações: 4 Chaves de Braço da Guarda
 - [ ] 01. Armlock da Guarda Fechada
 - [ ] 02. Kimura da Guarda Fechada
