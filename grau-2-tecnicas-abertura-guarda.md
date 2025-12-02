@@ -1,5 +1,7 @@
 # 2o. Grau: Técnicas - 4 Aberturas de Guarda
 
+* Vídeo: (https://www.youtube.com/shorts/gxkvYZ_1mJc)
+* Vídeo: Abertura de Guarda em Pé (https://www.youtube.com/shorts/nmpbvrMIxzU)
 
 ## 1. Abertura em Pé (Postura Básica)
 * **Como fazer:** Domine as duas lapelas do oponente com uma mão (no centro do peito) e a manga do oponente com a outra. Levante-se primeiro com a perna do lado da manga dominada, depois a outra. Fique em base (joelhos flexionados, coluna reta). Empurre o joelho do oponente para baixo com a mão livre ou recue o quadril para estourar.
@@ -8,15 +10,12 @@
 * **Erro Comum:** Olhar para os pés do oponente ao subir (quebra a postura) ou deixar o peso nos calcanhares (toma a raspagem "tustão" ou de quadril).
 * **Vídeo Sugerido:** [Como abrir a guarda fechada em pé com segurança](https://www.youtube.com/watch?v=G9w1YtQYw6Y)
 
-
-
 ## 2. Abertura Ajoelhado (Joelho no Cóccix)
 * **Como fazer:** Domine as lapelas e controle o quadril do oponente (mãos na faixa ou calça). Posicione o seu joelho exatamente no centro do cóccix (bunda) do oponente. Estique a outra perna para trás, longe, e arqueie as costas para trás, criando uma tensão insuportável no cadeado.
 * **Detalhe:** Os cotovelos devem estar fechados "por dentro" das coxas do oponente o tempo todo. Se abrir o cotovelo, você toma armlock ou triângulo.
 * **Por que é boa:** Excelente para cadenciar a luta e frustrar o oponente, mantendo uma base sólida e baixa.
 * **Erro Comum:** Colocar o joelho fora do centro (o oponente roda o quadril) ou olhar para baixo ao fazer força para trás.
 * **Vídeo Sugerido:** [Abertura de Guarda Ajoelhado - Detalhes de Pressão](https://www.youtube.com/watch?v=5yQ2X_z3z7o)
-
 
 ## 3. Abertura  (Estourando o Cadeado)
 * **Como fazer:** Domine as axilas ou bíceps do oponente para impedir que ele suba. Salte ficando de cócoras ou em pé, posicione seu joelho no meio das nádegas dele e desça seu peso sentando sobre o cadeado dele, forçando a abertura com a cunha do seu joelho.
@@ -25,13 +24,8 @@
 * **Erro Comum:** Perder o equilíbrio lateral ao sentar ou não controlar os braços do oponente, permitindo que ele suba junto com você.
 * **Vídeo Sugerido:** [Log Splitter Pass - Abrindo a guarda na pressão](https://www.youtube.com/watch?v=8tJj4y5y5y0)
 
-
-## 4. Abertura "Tozi" ou Amassando (São Paulo Pass)
-* **Como fazer:** Ao invés de se afastar, você "mergulha" no oponente. Abrace o braço dele por baixo das costas (underhook), trave o outro braço dele contra o chão e caminhe lateralmente, jogando todo o seu peso sobre o peito dele enquanto sua perna força a abertura do cadeado.
-* **Detalhe:** O segredo é a "quebra" do quadril. Você deve torcer o tronco do oponente para um lado e caminhar para o outro, tirando a força das pernas dele.
-* **Por que é boa:** A arma secreta contra guardeiros de pernas longas e flexíveis que não abrem com postura. É uma abertura de pura pressão e desconforto.
-* **Erro Comum:** Deixar o oponente ganhar a esgrima ou "subir" para as suas costas enquanto você tenta amassar. Mantenha-se baixo e pesado.
-* **Vídeo Sugerido:** [Passagem Tozi / São Paulo Pass - Detalhes completos](https://www.youtube.com/watch?v=1zZ_1zZ_1z0)
+## Reserva 4. Abertura em Pé (Levantando empurrando com o braço que segura o kimono)
+* **Como fazer:**  
 
 ---
 
@@ -48,14 +42,17 @@
 ## Reserva 3. Cotovelo 1 Virilha
 * **Como fazer:**  Postura, estica perna, empurra joelho oponente passa seu joelho fazendo gancho com o pé, gira para o 100kg.
 
-## Reserva 4. levantando empurrando com o braço que segura o kimono
-* **Como fazer:**  
-
 ## Reserva 5.
 * **Como fazer:**  Duas mãos na cintura e os dois cotovelos no meio da perna
 
 ## Reserva 6. 
 * **Como fazer:**  Levantar com a mão nas duas aberturas do kimono do oponente, fica pulando, força com 1 mão a perna do oponente até abrir e então passa a guarda.
 
-
+## Reserva 7. Abertura "Tozi" ou Amassando (São Paulo Pass)
+* **Como fazer:** Ao invés de se afastar, você "mergulha" no oponente. Abrace o braço dele por baixo das costas (underhook), trave o outro braço dele contra o chão e caminhe lateralmente, jogando todo o seu peso sobre o peito dele enquanto sua perna força a abertura do cadeado.
+* **Detalhe:** O segredo é a "quebra" do quadril. Você deve torcer o tronco do oponente para um lado e caminhar para o outro, tirando a força das pernas dele.
+* **Por que é boa:** A arma secreta contra guardeiros de pernas longas e flexíveis que não abrem com postura. É uma abertura de pura pressão e desconforto.
+* **Erro Comum:** Deixar o oponente ganhar a esgrima ou "subir" para as suas costas enquanto você tenta amassar. Mantenha-se baixo e pesado.
+* 
+* **Vídeo Sugerido:** [Passagem Tozi / São Paulo Pass - Detalhes completos](https://www.youtube.com/watch?v=1zZ_1zZ_1z0)
 
