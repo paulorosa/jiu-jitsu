@@ -1,8 +1,25 @@
 # 3o. Grau: Técnicas - 4 Saídas da Meia Guarda (por cima)
 
-Vídeo: (https://www.youtube.com/watch?v=JbZloIFxlc0)
-Vídeo: (https://www.youtube.com/shorts/8eCVr-7G6qI)
+* Vídeo: (https://www.youtube.com/watch?v=JbZloIFxlc0)
+* Vídeo: (https://www.youtube.com/shorts/8eCVr-7G6qI)
 
+
+## 1. Joelho para fora
+* **Como fazer:**
+
+
+## 2. Joelho para Montada
+* **Como fazer:**
+
+
+## 3. Joelho com mão no ombro
+* **Como fazer:**
+
+
+## 4. Joelho Ivertido
+* **Como fazer:**
+
+---
 ## 1. Esgrima e Slide
 * **Como fazer:** Na meia-guarda, ganhe a esgrima (braço por baixo da axila do oponente) e abrace a cabeça (*crossface*). Cole o queixo no ombro dele. Deslize o joelho que está "livre" (o de fora, ou o que conseguiu sair) cruzando em direção ao chão, enquanto o outro pé empurra o joelho dele para liberar a ponta do pé preso.
 * **Detalhe:** O detalhe invisível é a "cabeçada" no chão ou no ombro. Se você levantar a cabeça, ele recupera a esgrima. Use o pé livre para "chutar" a perna dele e soltar o gancho.
