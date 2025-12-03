@@ -92,10 +92,10 @@
 - [ ] 04. Armlock da Guarda Aranha
 
 ### Finalizações: 4 Estrangulamentos da Guarda
-- [ ] 01. Estrangulamento Cruzado
-- [ ] 02. Triângulo
-- [ ] 03. Guilhotina
-- [ ] 04. Ezequiel
+- [ ] 01. Estrangulamento Cruzado (Tradicional)
+- [ ] 02. Mão na Lapela e Ombro
+- [ ] 03. Mão na Lapela e Cotovelo
+- [ ] 04. Amassa-Pão
 
 ----
 
