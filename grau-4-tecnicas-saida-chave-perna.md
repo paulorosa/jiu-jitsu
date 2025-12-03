@@ -1,5 +1,9 @@
 # 4o. Grau: Técnicas - 2 Saídas de Chave de Perna
 
+Defesa de tornozelo
+Defesa de joelho
+
+
 ## 1. Defesa de Botinha Reta
 * **Como fazer:** Quando o oponente encaixa a botinha e cai para trás. Imediatamente, "calce a bota" (empurre o pé para o fundo da axila dele) para aliviar a pressão no tornozelo. Segure a gola dele com as duas mãos e puxe-o para você, impedindo que ele estenda o corpo. Suba, pisando no chão com o pé atacado, e coloque o peso sobre a perna dele para desmanchar a guarda.
 * **Detalhe:** Se ele girar para a barriga para baixo, você *precisa* acompanhar o giro e subir, senão a pressão quebra o pé. Use o pé livre para pisar no quadril dele e empurrar, tirando a pressão.
