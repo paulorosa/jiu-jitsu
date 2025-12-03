@@ -5,6 +5,17 @@
 * Vídeo: (https://www.youtube.com/shorts/Ch84gvmG4wQ)
 * Vídeo: (https://www.youtube.com/shorts/1wKi3Krdb_A)
 
+
+
+Saídas de 100kg.
+https://www.youtube.com/watch?v=1Iab1zMjeZo
+levantar quadril, esticar braços, passa perna por baixo da outra, e sai.
+ponteou, entrou
+braço por baixo do quadril dele, e passar por baixo
+
+
+
+
 ## 1. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
 * **Como fazer:** Faça o "bloqueio" (frame) com os antebraços: um no pescoço do oponente e outro no quadril. Faça uma ponte para criar espaço, fuja o quadril e entre o joelho mais próximo do oponente entre os dois corpos.
 * **Detalhe:** Não empurre o oponente com a força dos braços. Use a estrutura óssea (antebraço rígido) para manter a distância e fuja o quadril explosivamente para criar o "buraco" onde o joelho vai entrar.
