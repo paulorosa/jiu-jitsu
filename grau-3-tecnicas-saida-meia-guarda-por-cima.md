@@ -3,6 +3,11 @@
 * Vídeo: (https://www.youtube.com/watch?v=JbZloIFxlc0)
 * Vídeo: (https://www.youtube.com/shorts/8eCVr-7G6qI)
 
+Passagem de joelho
+Passagem de perna
+Passagem com pressão
+Passagem de pé
+
 
 ## 1. Joelho para fora
 * **Como fazer:**
