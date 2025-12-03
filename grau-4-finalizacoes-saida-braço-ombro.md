@@ -1,5 +1,9 @@
 # 4o. Grau: Técnicas - 3 Saídas de Braço / Ombro
 
+Defesa de chave de braço clássica
+Defesa de chave de braço de ombro
+Defesa de triângulo
+
 ## 1. Defesa de Armlock da Guarda (Amassando)
 * **Como fazer:** Quando o oponente passa a perna sobre sua cabeça. Junte suas mãos (mão com mão ou segurando seu próprio bíceps) para ganhar tempo. Levante a perna do mesmo lado do braço atacado (base) e avance o joelho em direção ao quadril dele, empilhando o peso do seu corpo sobre o pescoço dele (*stack*).
 * **Detalhe:** Não puxe o braço para trás (cabo de guerra). Empurre seu corpo para frente. Ao amassar, tire a cabeça de dentro das pernas ou gire o cotovelo para o lado oposto da pressão para escapar.
