@@ -1,5 +1,11 @@
 # 4o. Grau: Técnicas - 3 Saídas de Triângulo / Estrangulamento
 
+Defesa de chave de braço clássica
+Defesa de chave de braço de ombro
+Defesa de triângulo
+
+
+
 ## 1. Defesa de Triângulo (Postura e Cotovelo)
 * **Como fazer:** Quando o oponente cruza as pernas mas ainda não fechou o cadeado. Imediatamente, coloque os dois joelhos debaixo das costas dele (para evitar que ele deite e te traga para baixo). Levante a cabeça (olhe para o teto) e esconda o cotovelo do braço preso atrás do joelho dele, forçando a abertura das pernas.
 * **Detalhe:** Não tente tirar a cabeça puxando para trás. Empurre o seu corpo para frente e para cima (postura de "cobrinha"), usando os joelhos nas costas dele como macaco hidráulico.
