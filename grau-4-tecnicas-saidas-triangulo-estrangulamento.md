@@ -4,6 +4,7 @@ Defesa de chave de braço clássica
 Defesa de chave de braço de ombro
 Defesa de triângulo
 
+3 Saídas de Estrangulamento (do triângulo + pisada no bíceps + queda, das costas segurando lapela, reloginho + segura com cotovelo + pegada na perna interna + virada + ida 100 kg)
 
 
 ## 1. Defesa de Triângulo (Postura e Cotovelo)
