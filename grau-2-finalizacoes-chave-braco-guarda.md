@@ -4,6 +4,10 @@
 2. 2 braços
 3. omoplata
 4. armlock normal
+Chave de braço
+Estrangulamento com as lapelas
+Triângulo
+Estrangulamento de gogoplata
 
 
 ## 1. Armlock Clássico da Guarda Fechada
