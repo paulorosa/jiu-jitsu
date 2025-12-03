@@ -1,4 +1,10 @@
-# 2o. Grau: Técnicas - Raspagens (14)
+# 2o. Grau: Técnicas - 14 Raspagens
+
+1. pega no calcanhar da calça
+2. guarda profunda
+3. 2 joelhos para trás e empura
+4. raspagem balão
+5. raspagem leandro lo - prende 2 pernas e 2 braços
 
 
 ## 1. Tesoura (da Guarda Fechada)
@@ -67,7 +73,7 @@
 * **Vídeo Sugerido:**  https://www.youtube.com/shorts/x9cH7J4xGCQ
 
 ## 10. Raspagem da Guarda Aranha (Tesourinha)
-* **Como fazer:** Com os dois pés nos bíceps (aranha), estique uma perna e flexione a outra, girando o oponente como um volante. Desça a perna esticada para o chão (cortando) enquanto carrega o peso dele sobre a perna flexionada.
+* **Como fazer:** Com os dois pés nos bíceps (aranha), estique uma perna e flexione a outra, girando o oponente como um volante. Desça a perna esticada para o chão (cortando) enquanto carrega o peso dele sobre a perna flexionada. Raspagem da guarda aranha forçando a perna do oponente para o lado que você vai querer pisar, invertendo com o pé que você vai pisar nele, forçar soltar a mão, com a mão que está preso, puxar para o seu lado oposto.
 * **Detalhe:** O quadril deve sair para o lado da perna flexionada para criar o ângulo de alavanca.
 * **Por que é boa:** Controle total da distância e dos braços.
 * **Erro Comum:** Não manter a tensão nos bíceps, deixando o oponente "matar" as pernas.
@@ -87,36 +93,32 @@
 * **Erro Comum:** Soltar a pegada da perna, permitindo que ele corra para as costas.
 * **Vídeo Sugerido:** https://www.youtube.com/shorts/8r0DoVwzI0I
 
-## 13. Raspagem de X-Guard (Levantada Técnica)
+## 13. Raspagem de Guarda X (Levantada Técnica)
 * **Como fazer:** Com a guarda X encaixada (uma perna atrás do joelho, outra na virilha), estique as pernas afastando a base do oponente. Apoie a mão no chão, faça a levantada técnica mantendo a perna dele no ombro e derrube.
 * **Detalhe:** Mantenha a pressão constante nos ganchos para que ele não consiga colocar o pé no chão e recuperar a base.
 * **Por que é boa:** Controle absoluto da base de um oponente em pé.
 * **Erro Comum:** Tentar levantar sem afastar a base dele primeiro (ele vai pesar na sua cabeça).
 * **Vídeo Sugerido:** https://www.youtube.com/shorts/BYvWMDY4uGI
 
-## 14. Raspagem de Single Leg X (botinha)
-* **Como fazer:** Encaixe o Single Leg X (uma perna pinçando a coxa, pé no quadril). Eleve o quadril tirando o pé dele do chão. Torça o quadril e o joelho dele para fora (botinha grip) ou empurre para trás.
-* **Detalhe:** Aperte os joelhos. Se deixar frouxo, ele empurra sua perna e passa.
-* **Por que é boa:** É o ponto de partida para as chaves de pé da Faixa Marrom.
-* **Erro Comum:** Não controlar o joelho do oponente, permitindo que ele gire.
-* **Vídeo Sugerido:** https://www.youtube.com/shorts/wFJ1DtUQM9s
-
-## 15. Raspagem de Omoplata
-* **Como fazer:** Ataque a omoplata. Se o oponente defender posturando ou não bater, use o momento para sentar e "pedalar" as pernas, jogando-o para frente ou para o lado (invertendo).
-* **Detalhe:** Abrace a cintura dele para evitar que ele role.
-* **Por que é boa:** Transforma uma finalização falha em 2 pontos garantidos.
-* **Erro Comum:** Deixar o oponente pular sobre o seu corpo.
-* **Vídeo Sugerido:** https://www.youtube.com/shorts/2rxppnSD0So
-
-## 16. Raspagem de Guarda Laço
+## 14. Raspagem de Guarda Laço
 * **Como fazer:** Faça a pegada laço (passando a perna por fora e por dentro do braço dele). Gire o corpo para o lado do laço, usando a canela para alavancar o oponente e capotá-lo.
 * **Detalhe:** A pegada da outra mão na calça do oponente potencializa o giro.
 * **Por que é boa:** Trava um lado inteiro do oponente, dificultando muito a defesa.
 * **Erro Comum:** Deixar o laço frouxo ("mão de alface"), perdendo o controle do braço.
 * **Vídeo Sugerido:** https://www.youtube.com/shorts/jlbc_HzM7Kw
 
+---
 
+## Reserva 1. Raspagem de Omoplata
+* **Como fazer:** Ataque a omoplata. Se o oponente defender posturando ou não bater, use o momento para sentar e "pedalar" as pernas, jogando-o para frente ou para o lado (invertendo).
+* **Detalhe:** Abrace a cintura dele para evitar que ele role.
+* **Por que é boa:** Transforma uma finalização falha em 2 pontos garantidos.
+* **Erro Comum:** Deixar o oponente pular sobre o seu corpo.
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/2rxppnSD0So
 
- 
-   3. Raspagem da guarda aranha forçando a perna do oponente para o lado que você vai querer pisar, invertendo com o pé que você vai pisar nele, forçar soltar a mão, com a mão que está preso, puxar para o seu lado oposto.
-
+## Reserva 2. Raspagem de Single Leg X (botinha)
+* **Como fazer:** Encaixe o Single Leg X (uma perna pinçando a coxa, pé no quadril). Eleve o quadril tirando o pé dele do chão. Torça o quadril e o joelho dele para fora (botinha grip) ou empurre para trás.
+* **Detalhe:** Aperte os joelhos. Se deixar frouxo, ele empurra sua perna e passa.
+* **Por que é boa:** É o ponto de partida para as chaves de pé da Faixa Marrom.
+* **Erro Comum:** Não controlar o joelho do oponente, permitindo que ele gire.
+* **Vídeo Sugerido:** https://www.youtube.com/shorts/wFJ1DtUQM9s
