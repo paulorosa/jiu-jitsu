@@ -115,10 +115,10 @@
 - [ ] 02. Saída rodando para Single Leg
 
 ### Técnicas: 4 Saídas da Meia-Guarda (Por Cima)
-- [ ] 01. Esgrima e Slide   
-- [ ] 02. Backstep
-- [ ] 03. Passagem Invertendo o Quadril
-- [ ] 04. Passagem de Pressão (Abraçando a Cabeça)
+- [ ] 01. Joelho para fora   
+- [ ] 02. Joelho para Montada
+- [ ] 03. Joelho com mão no ombro
+- [ ] 04. Joelho Ivertido
 
 ### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)
 - [ ] 01. Reposição para Guarda Fechada
