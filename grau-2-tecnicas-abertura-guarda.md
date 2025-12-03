@@ -56,3 +56,10 @@
 * 
 * **Vídeo Sugerido:** [Passagem Tozi / São Paulo Pass - Detalhes completos](https://www.youtube.com/watch?v=1zZ_1zZ_1z0)
 
+
+Abertura de guarda: 4
+Abertura em pé
+Abertura de joelhos
+Abertura com pressão no joelho
+Abertura com pressão no quadril.
+
