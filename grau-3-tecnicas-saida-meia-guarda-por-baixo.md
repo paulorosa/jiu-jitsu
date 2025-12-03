@@ -1,6 +1,21 @@
 # 3o. Grau: Técnicas - 3 Saídas da Meia Guarda (por baixo)
 
-Vídeo: [Cinco Raspagens Simples da Meia Guarda](https://www.youtube.com/watch?v=1yGCZmF9ros)
+* Vídeo: [Cinco Raspagens Simples da Meia Guarda](https://www.youtube.com/watch?v=1yGCZmF9ros)
+
+
+## 1. Reposição para Guarda Fechada
+* **Como fazer:** vai para guarda fechada
+
+## 2. Reposção para Quatro apoios
+* **Como fazer:** vai para o quatro apoios
+
+
+## 3. Reposição para Montada
+* **Como fazer:** vai para a montada
+
+
+---
+
 ## 1. Reposição para Guarda Fechada
 * **Como fazer:** Quando o oponente está pressionando na meia-guarda. Faça o escudo de joelho (Knee Shield) para criar distância. Bloqueie o ombro e bíceps dele com as mãos. Faça uma fuga de quadril explosiva para longe, liberando o joelho de baixo. Recolha a perna de baixo passando-a em volta da cintura do oponente e feche a guarda.
 * **Detalhe:** Não tente puxar a perna de baixo sem fugir o quadril primeiro. O espaço criado pelo quadril é o que permite o joelho passar.
