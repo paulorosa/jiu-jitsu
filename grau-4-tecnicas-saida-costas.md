@@ -1,5 +1,8 @@
 # 4o. Grau: Técnicas - 2 Saídas das Costas
 
+Saída para a guarda
+Saída para o quatro apoios
+
 ## 1. Saída Básica (Costas no Chão)
 * **Como fazer:** Proteja o pescoço. Jogue o seu peso e o do oponente para o lado onde o braço dele está *embaixo* da sua axila (não o lado do braço que estrangula). Use as pernas para empurrar o chão e raspar suas costas no tatame até conseguir colocar a nuca e as escápulas no chão. Vire de frente para ele repondo a guarda.
 * **Detalhe:** O "pulo do gato" é o cotovelo. Assim que cair de lado, force seu cotovelo para dentro, raspando no chão, para impedir que ele te puxe de volta.
