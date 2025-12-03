@@ -86,10 +86,10 @@
 - [ ] 14. Single Leg X
  
 ### Finalizações: 4 Chaves de Braço da Guarda
-- [ ] 01. Armlock da Guarda Fechada
+- [ ] 01. Armlock Clássico da Guarda Fechada
 - [ ] 02. Kimura da Guarda Fechada
 - [ ] 03. Omoplata
-- [ ] 04. Armlock da Guarda Aranha
+- [ ] 04. Chave de Braço Reta da Guarda (2 Braços / 2 Pernas)
 
 ### Finalizações: 4 Estrangulamentos da Guarda
 - [ ] 01. Estrangulamento Cruzado (Tradicional)
