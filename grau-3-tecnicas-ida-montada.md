@@ -3,6 +3,11 @@
 Transição da guarda fechada para a montada
 Transição do 100 kg para a montada
 
+2 Idas para Montada
+   1. 100 kg Invertido (empurra): Nos 100 kg invertido, com as pernas em S para imobilização, e antebraço segurando o quadril, se estiver lendo jornal, empurra e sobre para a montada.
+   2. 100 kg Invertido (puxa): Variação da 1, mas ao invés de lendo o jornal, está normal, ou jornal ao contrário, aí puxa e sobre para montada.
+
+
 
 ## 1. Ida para a Montada (do 100kg)
 * **Como fazer:** Do 100kg, controle o braço do oponente (empurrando para baixo ou isolando acima da cabeça). Troque a base para a posição de "Kesa Gatame invertido" ou use o joelho na barriga como transição. Deslize o joelho transversalmente sobre o abdômen do oponente até o pé tocar o chão do outro lado.
