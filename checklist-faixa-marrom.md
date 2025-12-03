@@ -60,14 +60,14 @@
 - [ ] 04. Abertura em Pé (Levantando empurrando com o braço que segura o kimono)
 
 ### Técnicas: 8 Passagens de Guarda
-- [ ] 01. Toreando
-- [ ] 02. Cruzando o Joelho (Knee Slice)
-- [ ] 03. Emborcada (Stack Pass)
-- [ ] 04. Leg Drag
-- [ ] 05. Over-Under Pass
-- [ ] 06. X-Pass
-- [ ] 07. Long Step Pass
-- [ ] 08. Passagem de Borboleta (Amassando)
+- [ ] 01. Guarda Fechada (puxando 1 perna)
+- [ ] 02. Volante Caminhão
+- [ ] 03. Guarda-Aranha (Ponto Morto)
+- [ ] 04. Guarda-Aranha (1 Perna)
+- [ ] 05. Emborcada
+- [ ] 06. Toreando
+- [ ] 07. Cruzando o Joelho
+- [ ] 08. Passagem de Meia-Guarda (Esgrima e Slide)
 
 ### Técnicas: 14 Raspagens
 - [ ] 01. Tesoura
