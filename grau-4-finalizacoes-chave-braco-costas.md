@@ -1,8 +1,8 @@
-# 4o. Grau: Finalizações - Chave de Braço das Costas (1)
+# 4o. Grau: Finalizações - 1 Chave de Braço das Costas
 
-Este bloco foca em punir a defesa de pescoço do oponente. Quando ele sobe os braços para proteger a garganta, ele entrega a extensão do cotovelo.
+Chave de braço
+Estrangulamento mata-leão
 
----
 
 ## 1. Armlock das Costas (Transição Giratória)
 * **Como fazer:** Com os ganchos colocados e o cinto de segurança (*seatbelt*). Quando o oponente defende a gola, domine o punho dele com a mão que estava por baixo da axila. Passe a perna do mesmo lado por cima do ombro/cabeça dele. Empurre o rosto dele, tire o gancho oposto e estique o corpo, finalizando no braço.
@@ -11,8 +11,6 @@ Este bloco foca em punir a defesa de pescoço do oponente. Quando ele sobe os br
 * **Erro Comum:** Soltar o cinto de segurança antes de passar a perna na cabeça (o oponente gira e foge).
 * **Vídeo Sugerido:** [Armlock partindo das Costas - Detalhes de Ajuste](https://www.youtube.com/watch?v=W3NNAFsdRsg)
 
----
-
 ## 2. Kimura das Costas
 * **Como fazer:** Se o oponente cair para o "lado fraco" (lado da axila) para defender. Solte o cinto de segurança e feche a pegada de Kimura (figura 4) no braço de cima dele. Use essa pegada para controlá-lo, ou rompa a pegada dele levando a mão dele para as costas (policial).
 * **Detalhe:** Use a "pegada de macaco" (sem polegar). Se ele for muito forte, use a Kimura para girar e cair montado ou pegar o armlock, em vez de finalizar na força bruta.
@@ -20,7 +18,6 @@ Este bloco foca em punir a defesa de pescoço do oponente. Quando ele sobe os br
 * **Erro Comum:** Tentar finalizar sem quebrar a postura do oponente ou sem isolar o corpo dele.
 * **Vídeo Sugerido:** [Kimura das Costas e Transições](https://www.youtube.com/watch?v=_wjqL3KZZhQ)
 
----
 
 ## 3. Chave de Braço Reta (Armlock Reto das Costas)
 * **Como fazer:** O oponente cruza os braços na frente do peito para defender o mata-leão. Abrace o braço dele que está por cima (o mais exposto). Junte suas mãos (mão com mão) pressionando o cotovelo dele contra seu peito e puxe.
@@ -29,7 +26,6 @@ Este bloco foca em punir a defesa de pescoço do oponente. Quando ele sobe os br
 * **Erro Comum:** Não ajustar o quadril para criar ângulo. Se ficar reto nas costas, a alavanca é fraca.
 * **Vídeo Sugerido:** [Chave de Braço Reta partindo das Costas](https://www.youtube.com/watch?v=soI87qBseUQ)
 
----
 
 ## 4. Armlock do Crucifixo
 * **Como fazer:** Quando você ataca a tartaruga e consegue prender um braço do oponente entre suas pernas e dominar o outro com os braços (posição de Crucifixo). Estique as pernas para isolar o braço preso, criando uma chave de braço reta ou americana invertida usando apenas as pernas e o quadril.
