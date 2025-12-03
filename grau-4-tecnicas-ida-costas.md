@@ -1,5 +1,8 @@
 # 4o. Grau: Técnicas - 2 Idas para as Costas
 
+Ida para as costas da guarda
+Ida para as costas do quatro apoios
+
 
 ## 1. Ida para as Costas da Meia-Guarda (para 4 Apoios)
 * **Como fazer:**
