@@ -109,4 +109,13 @@
 * **Vídeo Sugerido:** 
 
 
+Passagens: 6
+Passagem por cima (com as duas pernas)
+Passagem por baixo do braço
+Passagem com joelho na barriga
+Passagem de perna
+Passagem com pressão
+Passagem de pé.
+
+
 
