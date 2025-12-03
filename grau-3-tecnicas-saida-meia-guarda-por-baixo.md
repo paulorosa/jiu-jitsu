@@ -2,6 +2,10 @@
 
 * Vídeo: [Cinco Raspagens Simples da Meia Guarda](https://www.youtube.com/watch?v=1yGCZmF9ros)
 
+Raspagem de perna
+Raspagem de gancho
+Raspagem de joelho
+
 
 ## 1. Reposição para Guarda Fechada
 * **Como fazer:** vai para guarda fechada
