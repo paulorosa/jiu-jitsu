@@ -8,6 +8,8 @@
 Saída para a guarda
 Saída para o 100 kg
 
+1 saída do 100 kg com joelho na barriga (mão para baixo + fuga quadril + termina em quatro apoios, mão no pescoço + mão na axila, + fuga + levanta braço + vira)
+
 
 ## 1. Saída Empurrando o Joelho e Repondo Guarda
 * **Como fazer:** O oponente coloca o joelho. Imediatamente, coloque a mão mais próxima do quadril dele no joelho dele (fazendo uma concha) e a outra mão no tornozelo ou calça. Faça uma fuga de quadril explosiva para longe dele, estique os braços criando espaço e entre o seu joelho entre vocês dois.
