@@ -1,5 +1,10 @@
 # 3o. Grau: Finalizações - 5 Chaves de Braço da Montada
 
+Chave de braço americana
+Chave de braço clássica
+Estrangulamento Ezekiel
+
+
 ## 1. Armlock Clássico da Montada
 * **Como fazer:** Domine o braço do oponente cruzando-o sobre seu peito. Avance o joelho do lado oposto até a altura da orelha dele e levante a outra perna (pé no chão), criando o "S-Mount". Sente-se sobre o ombro dele, passe a perna por cima da cabeça e caia para trás, apertando os joelhos.
 * **Detalhe:** O "S-Mount" (Montada em S) é o segredo. Ele trava o ombro do oponente e impede que ele gire. Não caia para trás antes de passar a perna sobre o rosto.
