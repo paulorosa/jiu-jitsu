@@ -5,7 +5,7 @@
 * Vídeo: (https://www.youtube.com/watch?v=cO0RHPOdgwU)
 * Vídeo: (https://www.youtube.com/watch?v=HBfl_Tut6D8)
 
-## 1. 100kg Tradicional (Controle Lateral)
+## 1. 100kg Tradicional (Controle Lateral / Abraçando Pescoço)
 * **Como fazer:** Peito com peito, joelhos afastados para base. O braço próximo à cabeça abraça o pescoço (*crossface*) e o outro braço domina embaixo da axila oposta (esgrima) ou segura a faixa/calça. esgrimado, peso, cabeça abaixada no oponente, joelho dobrado, estica o outro. joelho quadril + ombro queixo.
 * **Detalhe:** A pressão não vem só do peso morto, vem dos dedos dos pés "vivos" no tatame, empurrando seu peito contra o rosto do oponente.
 * **Por que é boa:** Anula a reposição de guarda e cansa o oponente pela pressão constante no diafragma e queixo.
@@ -69,3 +69,43 @@
 * **Por que é boa:** Demonstra domínio técnico refinado, impedindo defesas de finalização e raspagens.
 * **Erro Comum:** Perder a base e o peso ao tentar pescar o braço, ficando leve em cima.
 * **Vídeo Sugerido:** [Crucifixo Partindo do 100kg](https://www.youtube.com/watch?v=O-67JUTmtFM)
+
+
+100kg Tradicional (Controle Lateral):
+Peito com peito, abraçando a cabeça e dominando o braço oposto (esgrima).
+100kg Variação (Esgrima Invertida/Quadril):
+Trocando a base, bloqueando o quadril do adversário ou abraçando o braço de dentro para impedir a reposição.
+Kesa Gatame (Imobilização de Judô):
+Lateral, segurando o pescoço e o braço do oponente, com as pernas abertas em base (uma à frente e outra atrás) e a costela pressionando o peito dele.
+Norte-Sul:
+Peito com peito, mas invertido (cabeça com cabeça ou peito na cara), controlando os braços ou a faixa do adversário por cima dos ombros.
+Joelho na Barriga:
+Considerada uma posição de domínio pontuável (2 pontos), conta como imobilização no exame devido ao alto controle. O joelho oposto não pode tocar o solo.
+Montada
+A posição clássica de superioridade (4 pontos). Joelhos no chão ou pé e joelho no chão, estabilizado sobre o tronco do adversário.
+100kg Invertido (Ushiro Kesa Gatame)
+É uma variação da lateral onde você muda a frente do seu corpo.
+Como fazer: Estando no 100kg tradicional, em vez de olhar para a cabeça do oponente, você gira o corpo e olha para as pernas dele.
+Detalhe: O seu braço que estava abraçando a cabeça passa a controlar a axila/braço do oponente, e o seu quadril cola nas costelas dele.
+Por que é boa: É a posição clássica para defender a reposição de guarda ou atacar com kimuras.
+8. 100kg com Braço Preso (Crucifixo Lateral)
+É uma demonstração de controle superior, muito bem vista para a Faixa Marrom.
+Como fazer: Estando no 100kg, use a sua perna (a que está mais próxima do quadril do oponente) para "pescar" e prender o braço dele que está sobrando no chão. Ou use o seu braço para prender o braço dele debaixo da sua axila.
+Visual: Você isola um dos braços do oponente usando suas pernas ou quimono, deixando-o com um braço a menos para defender.
+Por que é boa: Mostra que você não está apenas segurando, mas anulando as armas de defesa dele.
+
+Imobilizações: 6
+100 kg
+Cruzado, Montada
+Quatro Apoios
+Joelho na barriga
+Costas
+
+
+100kg Tradicional (Abraçando pescoço)
+100kg Variação (Esgrima invertida)
+Kesa Gatame (Lateral de Judô)
+Controle Norte-Sul (69)
+Estabilização Joelho na Barriga
+Estabilização Montada
+
