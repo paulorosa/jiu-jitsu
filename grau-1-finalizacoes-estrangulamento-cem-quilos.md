@@ -2,14 +2,18 @@
 
 ## 1. Ezequiel
 * **Como fazer:** um braço por baixo do pescoço, outro braço pega na sua própria manga, faz a faca no oponente.
+* https://www.youtube.com/shorts/VTiH80i3Q5M
 
 ## 2. Enforcamento 2 Golas (Tradicional)
 * **Como fazer:** pegada nas duas golas.
 
 ## 3. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
 * **Como fazer:** tradicional, pega em uma gola, desce a cabeça, puxa o outro ombro.
+https://www.youtube.com/shorts/F1nGCDVbQYw
 
 ---
+
+https://www.youtube.com/shorts/F1nGCDVbQYw
 
 
 ## Reserva 1. Estrangulamento de Beisebol
