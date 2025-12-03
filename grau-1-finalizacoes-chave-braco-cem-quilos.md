@@ -4,6 +4,7 @@
 * Vídeo: (https://www.youtube.com/shorts/mbkMP8NhcKQ)
 * Vídeo: (https://www.youtube.com/watch?v=LGBd05T8rKQ)
 
+https://www.youtube.com/shorts/AxNTGXpy5fg
 
 ## 1. Americana (Chave de Braço Dobrado)
 * **Como fazer:** Isole o braço distante do oponente, prendendo o punho dele no chão com a sua mão (braço em ângulo de 90º). Passe seu outro braço por baixo do tríceps dele e segure seu próprio punho (Figura 4).
