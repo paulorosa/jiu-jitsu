@@ -1,8 +1,8 @@
-# 4o. Grau: Finalizações - Chave de Braço do Quatro Apoios (1)
+# 4o. Grau: Finalizações - 1 Chave de Braço do Quatro Apoios
 
-Este bloco foca em "abrir a concha" da tartaruga atacando as articulações superiores. O segredo é usar o peso do corpo para isolar o membro antes de aplicar a força.
+Chave de braço
+Estrangulamento
 
----
 
 ## 1. Crucifixo (Chave de Braço/Americana)
 * **Como fazer:** Estando na lateral ou sobre as costas (tartaruga), use sua perna para "pescar" o braço do oponente que está próximo a você. Domine o outro braço dele com a mão. Role para o lado, ficando de costas no chão, com os braços do oponente abertos em cruz (um preso nas suas pernas, outro nos seus braços).
@@ -11,7 +11,6 @@ Este bloco foca em "abrir a concha" da tartaruga atacando as articulações supe
 * **Erro Comum:** Deixar o braço "pescado" escapar por não manter a pressão constante com a coxa/adutor.
 * **Vídeo Sugerido:** [Crucifixo: Entradas e Finalizações](https://www.youtube.com/watch?v=qPYzgeHWC4k)
 
----
 
 ## 2. Omoplata (Rolando)
 * **Como fazer:** O oponente está fechado. Domine a cintura dele com um braço para evitar que ele pule. Com a mão livre, domine o braço mais próximo (tríceps). Passe sua perna por cima desse braço/ombro. Faça um rolamento de frente (cambalhota) sobre o seu ombro que está longe do oponente, levando-o junto.
