@@ -1,7 +1,7 @@
 # 1o. Grau: Finalizações - 5 Chaves de Braço dos 100 Kg
 
-Vídeo: (https://www.youtube.com/shorts/v4XvMGQHYCo)
-Vídeo: (https://www.youtube.com/shorts/mbkMP8NhcKQ)
+* Vídeo: (https://www.youtube.com/shorts/v4XvMGQHYCo)
+* Vídeo: (https://www.youtube.com/shorts/mbkMP8NhcKQ)
 
 
 ## 1. Americana (Chave de Braço Dobrado)
@@ -12,17 +12,12 @@ Vídeo: (https://www.youtube.com/shorts/mbkMP8NhcKQ)
 * **Vídeo Sugerido:** [Americana do 100kg - Detalhes de Ajuste](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
 cotovelo na orelha
 
----
-
 ## 2. Kimura (Chave de Ombro Invertida)
-* **Como fazer:** Domine o punho do oponente (braço distante). Passe seu outro braço por cima do ombro e por baixo do tríceps dele, fechando a Figura 4 no seu próprio punho.
+* **Como fazer:** Domine o punho do oponente (braço distante). Passe seu outro braço por cima do ombro e por baixo do tríceps dele, fechando a Figura 4 no seu próprio punho. Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cima da cabeça.
 * **Detalhe:** Use a pegada de macaco (sem o polegar). Gire seu corpo para a posição Norte-Sul para ganhar alavanca e afastar o braço dele do corpo.
 * **Por que é boa:** Além de finalizar, é uma excelente posição de controle ("Kimura Trap") que permite pegar as costas se ele defender.
 * **Erro Comum:** Tentar finalizar apenas com a força dos braços sem girar o tronco para a cabeça do oponente (Norte-Sul).
 * **Vídeo Sugerido:** [Kimura do 100kg - Passo a Passo](https://www.youtube.com/watch?v=Z8QeKq4z_X0)
-
-Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cima da cabeça.
----
 
 ## 3. Chave de Braço Girando
 * **Como fazer:** O oponente empurra seu pescoço ou peito. Domine o braço dele. Coloque o joelho na barriga ou apenas levante a base, passe a perna por cima da cabeça dele e gire o corpo para o outro lado, caindo com o braço esticado.
@@ -31,8 +26,6 @@ Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cim
 * **Erro Comum:** Deixar espaço entre a sua virilha e o ombro do oponente ao girar. O quadril tem que estar colado.
 * **Vídeo Sugerido:** [Armlock do 100kg Girando (Passo a Passo)](https://www.youtube.com/watch?v=7lYQZ_q0ZkQ)
 
----
-
 ## 4. Armlock Invertido
 * **Como fazer:** Isole o braço do oponente (braço mais próximo de você) prendendo-o entre as suas pernas ou axila. Passe a perna de cima sobre a cabeça dele e a de baixo sob o ombro.
 * **Detalhe:** É uma finalização "curta". Você não precisa cair para trás. Apenas aperte os joelhos e projete o quadril para frente.
@@ -40,7 +33,6 @@ Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cim
 * **Erro Comum:** Não isolar o ombro do oponente do chão, permitindo que ele gire o braço e alivie a pressão.
 * **Vídeo Sugerido:** [Armlock Invertido partindo do 100kg](https://www.youtube.com/watch?v=JLxZGBVvQyU)
 
----
 
 ## 5. Chave de Braço Reta
 * **Como fazer:** Domine o braço distante do oponente como se fosse uma Americana, mas ele estica o braço. Coloque o braço dele debaixo da sua axila ou sobre o seu ombro, com o cotovelo virado para cima.
@@ -51,18 +43,15 @@ Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cim
 
 ---
 
-## 6. Mão de Vaca
+## Reserva 1. Mão de Vaca
 * **Como fazer:** Quando o oponente coloca a mão no seu peito ou ombro para defender o 100kg. Prenda o cotovelo dele contra seu corpo, segure a palma da mão dele e pressione os dedos em direção ao antebraço dele.
 * **Detalhe:** O cotovelo dele *precisa* estar imobilizado (no chão ou no seu peito), senão a força dissipa.
 * **Por que é boa:** É rápida, dolorosa e muitas vezes faz o oponente entregar o braço inteiro (Armlock) para aliviar a dor no punho.
 * **Erro Comum:** Tentar aplicar com o braço do oponente solto/flutuando.
 * **Vídeo Sugerido:** [Mão de Vaca no 100kg - Finalização Surpresa](https://www.youtube.com/watch?v=OAC_XsbPiJ8)
 
----
+## Reserva 2. Americana Estendida
+* **Como fazer:** quando oponenente estica braço para a defesa
 
-Americana extendida
- 2. Americana Estendida: quando oponenente estica braço para a defesa
- . 100 kg invertido: envolve o braço, passa perna, estica pescoço.
-
-
-Americana nos 100 kg invertido
+## Reserva 2. 100 kg invertido
+* **Como fazer:** envolve o braço, passa perna, estica pescoço.
