@@ -122,8 +122,8 @@
 
 ### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)
 - [ ] 01. Reposição para Guarda Fechada
-- [ ] 02. Ida para as Costas (Esgrima)
-- [ ] 03. Raspagem Dog Fight (Coyote)
+- [ ] 02. Reposição para Guarda Fechada
+- [ ] 03. Reposição para Guarda Fechada
 
 ### Finalizações: 5 Chaves de Braço da Montada
 - [ ] 01. Armlock da Montada
