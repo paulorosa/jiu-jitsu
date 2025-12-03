@@ -1,4 +1,4 @@
-# 1o. Grau: Finalizações - (3) Chaves de Braço da Meia-Guarda
+# 1o. Grau: Finalizações - 3 Chaves de Braço da Meia-Guarda
 
 ## 1. Kimura da Meia-Guarda
 * **Como fazer:** Quando o oponente na meia-guarda tenta esgrimar ou abraçar sua cintura. Domine o punho dele, passe o outro braço por cima do ombro e feche o triângulo de mão.
