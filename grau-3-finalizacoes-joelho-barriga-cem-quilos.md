@@ -1,5 +1,8 @@
 # 3o. Grau: Finalizações - 2 Joelhos na Barriga dos 100 Kg
 
+Transição do 100 kg para o joelho na barriga
+Transição da guarda para o joelho na barriga
+
 
 ## 1. Armlock do Joelho na Barriga (Girando)
 * **Como fazer:** Quando o oponente empurra seu joelho com a mão do braço distante. Domine esse braço puxando-o para cima. Avance o joelho que estava na barriga para o peito dele, pise com a outra perna na axila ou sobre a cabeça, e gire o corpo para sentar, levando o braço.
