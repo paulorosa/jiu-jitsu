@@ -1,8 +1,9 @@
-# 3o. Grau: Finalizações - Estrangulamento da Montada (2)
+# 3o. Grau: Finalizações - 2 Estrangulamentos da Montada
 
-Este bloco cobre os ataques de pescoço partindo da posição de domínio máximo. O foco é a *progressão de pressão* e o uso da cabeça como ponto de apoio (quinta base).
+Chave de braço americana
+Chave de braço clássica
+Estrangulamento Ezekiel
 
----
 
 ## 1. Estrangulamento Cruzado (Cross Choke)
 * **Como fazer:** Abra a gola do oponente. Entre a primeira mão funda (quatro dedos fora, dedão dentro) até tocar a etiqueta/nuca. A segunda mão entra *por baixo* da primeira (palma com palma) ou por cima (agarrando o ombro/pano). Cole sua testa no chão acima da cabeça dele e projete seu peso para frente, fechando os cotovelos.
