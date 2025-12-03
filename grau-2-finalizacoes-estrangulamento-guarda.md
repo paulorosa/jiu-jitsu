@@ -1,6 +1,9 @@
 # 2o. Grau: Finalizações - 4 Estrangulamentos da Guarda
 
 * Vídeo: ()
+Chave de braço invertida
+Chave de braço omoplata
+Estrangulamento da aranha, 
 
 
 ## 1. Estrangulamento Cruzado (Tradicional)
