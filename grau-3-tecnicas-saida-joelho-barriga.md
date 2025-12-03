@@ -1,9 +1,13 @@
 # 3o. Grau: Técnicas - 2 Saídas de Joelho na Barriga
 
-Vídeo: (https://www.youtube.com/shorts/vPBwxNCuUwE)
-Vídeo: (https://www.youtube.com/shorts/I9TSyMnH-jI)
-Vídeo: (https://www.youtube.com/shorts/WOhWbxlN1Nw)
-Vídeo: [3 saídas de Joelho na barriga](https://www.youtube.com/shorts/23yNVyw6fNA)
+* Vídeo: (https://www.youtube.com/shorts/vPBwxNCuUwE)
+* Vídeo: (https://www.youtube.com/shorts/I9TSyMnH-jI)
+* Vídeo: (https://www.youtube.com/shorts/WOhWbxlN1Nw)
+* Vídeo: [3 saídas de Joelho na barriga](https://www.youtube.com/shorts/23yNVyw6fNA)
+
+Saída para a guarda
+Saída para o 100 kg
+
 
 ## 1. Saída Empurrando o Joelho e Repondo Guarda
 * **Como fazer:** O oponente coloca o joelho. Imediatamente, coloque a mão mais próxima do quadril dele no joelho dele (fazendo uma concha) e a outra mão no tornozelo ou calça. Faça uma fuga de quadril explosiva para longe dele, estique os braços criando espaço e entre o seu joelho entre vocês dois.
