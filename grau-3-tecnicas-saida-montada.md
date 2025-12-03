@@ -1,7 +1,12 @@
 # 3o. Grau: Técnicas - 3 Saídas da Montada
 
-Vídeo: [4 saídas da montada](https://www.youtube.com/watch?v=QD0RYPdawiA)
-Vídeo: [NUNCA MAIS CAIA NA MONTADA APRENDA ESSAS 4 SAIDAS - FEUBJJ](https://www.youtube.com/watch?v=W7Ht9DXgTK8)
+* Vídeo: [4 saídas da montada](https://www.youtube.com/watch?v=QD0RYPdawiA)
+* Vídeo: [NUNCA MAIS CAIA NA MONTADA APRENDA ESSAS 4 SAIDAS - FEUBJJ](https://www.youtube.com/watch?v=W7Ht9DXgTK8)
+
+Saída de braço
+Saída de quadril
+Saída de perna
+
 
 ## 1.Upa (Ponte)
 * **Como fazer:** Quando o oponente está com o peso alto ou posturado. Prenda um braço dele (segurando o punho e o tríceps/pano na altura do cotovelo) e prenda o pé dele do mesmo lado com o seu pé. Faça uma ponte explosiva para o lado do braço preso, girando o oponente.
