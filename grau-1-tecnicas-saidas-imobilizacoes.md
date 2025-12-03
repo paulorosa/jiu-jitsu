@@ -76,3 +76,10 @@
 
 ## Reserva 10. saída do 100 quilos
 * **Como fazer:** uma mão no pescoço, outra mão na axila do adversário. Fuga de Quadril. Levanta o quadril. Vira a perna para o lado contrário, fazendo o oponente virar. Quando levantar o quadril, coloca o braço para cima e dobra, para virar o oponente.
+
+* Saídas de imobilizações: 4
+Escape do 100 kg para a guarda
+Escape da montada
+Escape do joelho na barriga
+Escape das costas
+
