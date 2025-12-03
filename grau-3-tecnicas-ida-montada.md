@@ -1,5 +1,9 @@
 # 3o. Grau: Técnicas - 2 Idas para Montada
 
+Transição da guarda fechada para a montada
+Transição do 100 kg para a montada
+
+
 ## 1. Ida para a Montada (do 100kg)
 * **Como fazer:** Do 100kg, controle o braço do oponente (empurrando para baixo ou isolando acima da cabeça). Troque a base para a posição de "Kesa Gatame invertido" ou use o joelho na barriga como transição. Deslize o joelho transversalmente sobre o abdômen do oponente até o pé tocar o chão do outro lado.
 * **Detalhe:** Use a mão para "limpar" o caminho, empurrando o joelho do oponente para baixo se ele tentar repor a guarda. O segredo é não levantar o quadril; deslize como se estivesse "limpando o tatame" com o joelho.
