@@ -70,20 +70,20 @@
 - [ ] 08. Passagem de Meia-Guarda (Esgrima e Slide)
 
 ### Técnicas: 14 Raspagens
-- [ ] 01. Tesoura
-- [ ] 02. Pêndulo (Flower Sweep)
-- [ ] 03. Raspagem de Quadril (Hip Bump)
-- [ ] 04. Borboleta Simples
-- [ ] 05. Borboleta Cruzada
-- [ ] 06. Tripod Sweep
-- [ ] 07. Tomahawk
-- [ ] 08. Meia-Guarda Old School (Lucas Leite)
-- [ ] 09. Meia-Guarda Profunda (Waiter Sweep)
-- [ ] 10. Aranha (Tesourinha)
-- [ ] 11. De La Riva (Balão)
-- [ ] 12. De La Riva (Sentando/Berimbolo)
-- [ ] 13. X-Guard (Levantada Técnica)
-- [ ] 14. Single Leg X
+- [ ] 01. Tesoura (da Guarda Fechada)
+- [ ] 02. Pêndulo (da Guarda Fechada)
+- [ ] 03. Raspagem de Quadril no Joelho (da Guarda Fechada)
+- [ ] 04. Raspagem de Gancho (da Guarda Fechada)
+- [ ] 05. Raspagem de Gancho Cruzada (da Guarda Borboleta)
+- [ ] 06. Raspagem com o Pé no Quadril (Tripé) (da Guarda Aberta)
+- [ ] 07. Foice (da Guarda Fechada)
+- [ ] 08. Raspagem da Meia-Guarda
+- [ ] 09. Raspagem de Meia-Guarda Profunda
+- [ ] 10. Raspagem da Guarda Aranha (Tesourinha)
+- [ ] 11. Raspagem da Guarda De La Riva (Balão)
+- [ ] 12. Raspagem da Guarda De La Riva (Sentando / Berimbolo Setup)
+- [ ] 13. Raspagem de Guarda X (Levantada Técnica)
+- [ ] 14. Raspagem de Guarda Laço
  
 ### Finalizações: 4 Chaves de Braço da Guarda
 - [ ] 01. Armlock Clássico da Guarda Fechada
