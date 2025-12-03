@@ -1,5 +1,9 @@
 # 4o. Grau: Finalizações - 9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
 
+Chave de tornozelo
+Joelho reto
+Mata leão no pé
+Panturrilha
 
 ### Chaves de Tornozelo (Botinha)
 
