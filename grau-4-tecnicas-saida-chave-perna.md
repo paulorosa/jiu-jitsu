@@ -10,6 +10,8 @@ Defesa de joelho
 1 Saída de Chave de Tornozelo
    1. Senta no Joelho e Montada: Segura Lapela quando for cair com o tornozelo,anda, senta no joelho, vai para a montada.
 
+1 Saída da Chave de Tornozelo (puxa gola + senta + joelho + levanta + montada)
+
 
 
 
