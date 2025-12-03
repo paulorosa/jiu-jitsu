@@ -1,20 +1,4 @@
-# 1o. Grau: Técnicas - Quedas (8)
-
-Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na Faixa Marrom é demonstrar o *Kuzushi* (desequilíbrio) antes da entrada e o controle na aterrissagem.
-
----
-1-Baiana 
-2-Single Leg
-3-Double Leg
-4-osotogari
-5-O-Soto-Guruma
-6-O-Uchi-Gari
-7-Ko-Uchi-Gari:
-8-Ashi-Barai
----
-
-
-
+# 1o. Grau: Técnicas - 8 Quedas
 
 ## 1. Baiana (Double Leg)
 * **Como fazer:** Mude de nível (abaixe o quadril), dê um passo de penetração profundo entre as pernas do oponente. Abrace as duas pernas (atrás dos joelhos ou coxas) mantendo a cabeça na lateral da cintura.
@@ -22,8 +6,8 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Por que é boa:** É uma queda de alta porcentagem que, quando bem executada, coloca você direto na passagem de guarda, anulando as pernas do oponente.
 * **Erro Comum:** Olhar para o chão na entrada (cabeça baixa), o que entrega o pescoço para uma guilhotina fácil.
 * **Vídeo Sugerido:** [Double Leg - Detalhes da Baiana no Jiu Jitsu](https://www.youtube.com/watch?v=5IF1X_u-7Zk)
-
----
+A "Baiana" é uma queda popular no jiu-jitsu, adaptada do wrestling. Ela consiste em abaixar o nível do corpo para agarrar as pernas do oponente e usar a força do seu quadril para levantá-lo e derrubá-lo para trás. É uma técnica muito eficaz para quem quer levar a luta para o chão de forma explosiva.
+(https://www.youtube.com/watch?v=mkB62uB6njo)
 
 ## 2. Single Leg (Catada de Perna)
 * **Como fazer:** Desequilibre o oponente ou aproveite um passo dele para capturar uma das pernas. Prenda a perna dele entre as suas coxas. Mantenha a cabeça colada no peito ou costela dele.
@@ -31,8 +15,8 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Por que é boa:** Mais segura que a baiana, pois você se expõe menos e pode desistir do ataque sem ficar por baixo se algo der errado.
 * **Erro Comum:** Deixar a perna do oponente solta entre as suas pernas, permitindo que ele pule e defenda o equilíbrio. Aperte os joelhos!
 * **Vídeo Sugerido:** [Single Leg: Queda básica para faixa branca](https://www.youtube.com/watch?v=O3wV-GUYTlQ)
-
----
+O Single-leg é uma das quedas mais fundamentais e versáteis do wrestling e do jiu-jitsu. A técnica envolve "mergulhar" para capturar uma das pernas do oponente, mantendo a cabeça e o ombro em uma posição que impede que ele se defenda com um "sprawl" (queda do quadril).
+(https://www.youtube.com/watch?v=O3wV-GUYTlQ)
 
 ## 3. O-Soto-Gari (Grande Segada Externa)
 * **Como fazer:** Faça pegada de gola e manga. Dê um passo profundo com a perna de apoio ao lado do pé do oponente (quase ombro com ombro). A perna de ataque passa "rasgando" o ar e bate na panturrilha/coxa dele.
@@ -40,26 +24,34 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Por que é boa:** Queda clássica de força e impacto, difícil de defender se o desequilíbrio inicial for bom.
 * **Erro Comum:** Tentar "chutar" a perna do oponente sem desequilibrá-lo primeiro. Você precisa colocar o peso dele na perna que será varrida.
 * **Vídeo Sugerido:** [O SOTO GARI: A queda mais clássica do JUDÔ adaptada para o JIU JITSU](https://www.youtube.com/watch?v=QNYXkvtTz-g)
+De origem do judô, o O-Soto-Gari é uma queda de perna que se baseia em desequilíbrio e timing. A técnica consiste em atacar a perna de apoio do oponente por fora, usando a sua própria perna para "ceifar" a dele. É uma queda muito eficiente quando o oponente está com o peso na perna.
+(https://www.youtube.com/watch?v=gTQz9jm8kU0)
 
----
-
-## 4. Ouchi-Gari (Grande Segada Interna)
+## 4. Ouchi-Gari (Grande Ceifada por Dentro)
 * **Como fazer:** Abra os braços (movimento de abrir leque) para trazer o peso dele para os calcanhares. Entre com sua perna por dentro das pernas dele e faça um gancho com a panturrilha atrás da perna dele.
 * **Detalhe:** Desenhe um círculo no chão com o dedão do pé que ataca ("ganchinho") enquanto empurra o oponente na diagonal para trás.
 * **Por que é boa:** Funciona muito bem quando o oponente abre as pernas para defender outras quedas.
 * **Erro Comum:** Não empurrar o oponente. Se você só enganchar a perna sem empurrar, ele não cai.
 * **Vídeo Sugerido:** [Ouchi Gari - Queda de Jiu Jitsu e Judô](https://www.youtube.com/watch?v=JLxZGBVvQyU)
+O O-Uchi-Gari é uma queda que utiliza uma variação da "ceifada" para atacar a perna de dentro do oponente, derrubando-o para trás. O movimento consiste em usar a sua perna para enganchar a perna dele por dentro, enquanto empurra a parte superior do corpo para trás.
+(https://www.youtube.com/watch?v=e-CtiY2RLwA)
 
----
 
-## 5. Seoi-Nage (Queda de Ombro)
+## 5. Kouchi Gari (Pequena Segada Interna)
+* **Como fazer:** Faça o oponente abrir a base (forçando um passo para trás). Com a sola do seu pé, faça um gancho por dentro do calcanhar do pé da frente dele, puxando-o na sua direção ("colherada"), enquanto empurra o peito dele para trás.
+* **Detalhe:** O movimento de mão é de "soco" no ombro/peito para transferir o peso dele para o calcanhar que você está varrendo, prendendo-o no chão antes da varrida.
+* **Por que é boa:** É uma queda de baixíssimo risco. Se errar, você continua em pé e seguro. Excelente para conectar com outras quedas (faz o Kouchi, ele reage, você entra o Seoi Nage).
+* **Erro Comum:** Tentar varrer a perna quando ela está sem peso (flutuando) ou quando está com peso demais travado. O *timing* exato é quando ele está apoiando o pé.
+* **Vídeo Sugerido:** [Kouchi Gari - Detalhes para Jiu Jitsu](https://www.youtube.com/watch?v=5Q5eXq8Z9_M)
+Diferente do O-Uchi-Gari, o Ko-Uchi-Gari é uma queda mais sutil, que exige timing e precisão. Você ataca a parte interna do calcanhar do oponente com a sua própria perna, desequilibrando-o. É uma queda excelente para surpreender o adversário.
+(https://www.youtube.com/watch?v=r6nyjiCJojI)(https://www.youtube.com/watch?v=p855be6jaJw)
+
+## 6. Seoi-Nage (Queda de Ombro)
 * **Como fazer:** Puxe o oponente para a ponta dos pés (Kuzushi). Gire o corpo dando as costas para ele, flexionando os joelhos para ficar com o quadril abaixo do dele. Encaixe o braço dele no seu ombro.
 * **Detalhe:** Você deve "sumir" da frente dele, entrando embaixo do centro de gravidade. Estenda as pernas para elevá-lo antes de puxar as mangas para baixo.
 * **Por que é boa:** Utiliza a força e o peso do oponente contra ele mesmo. Excelente contra adversários mais pesados que empurram para frente.
 * **Erro Comum:** Deixar as pernas esticadas na entrada. Se o seu quadril não estiver mais baixo que o dele, você não conseguirá alavanca para projetar.
 * **Vídeo Sugerido:** [Ippon Seoi Nage - Queda de Ombro para Jiu Jitsu](https://www.youtube.com/watch?v=KyQJjZzXNbg)
-
----
 
 ## 6. De Ashi Harai (Rasteira Lateral/Varrita)
 * **Como fazer:** Espere o oponente dar um passo (lateral ou para frente). Exatamente antes dele apoiar o peso totalmente no pé, varra a lateral do tornozelo dele com a sola do seu pé (em forma de colher).
@@ -67,8 +59,9 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Por que é boa:** É uma queda de baixo risco e alto retorno. Gasta pouca energia e derruba o oponente "de maduro".
 * **Erro Comum:** Tentar varrer um pé que já está com o peso do corpo apoiado (pé plantado). É impossível mover um pilar fixo com o pé.
 * **Vídeo Sugerido:** [De Ashi Barai - Aprenda o tempo certo da rasteira](https://www.youtube.com/watch?v=2Zz_Rz_Xy0Y)
+O Ashi-Barai é uma técnica de judô que se concentra em varrer o pé do oponente enquanto ele está em movimento. A chave para a execução perfeita é o timing; você deve varrer o pé dele no momento em que ele não está apoiando o peso sobre ele.
+(http://www.youtube.com/watch?v=5wLubAATeP8)
 
----
 
 ## 7. Tomoe Nage (Balão / Sacrifício)
 * **Como fazer:** Pegada firme de gola e manga. Coloque um pé na cintura/quadril do oponente e sente-se no calcanhar da sua outra perna, puxando-o para cima de você.
@@ -77,7 +70,6 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Erro Comum:** "Chutar" o oponente para longe ao invés de trazê-lo para cima do seu centro de gravidade.
 * **Vídeo Sugerido:** [Tomoe Nage - O Balão do Jiu Jitsu](https://www.youtube.com/watch?v=7lYQZ_q0ZkQ)
 
----
 
 ## 8. Sumi Gaeshi (Sacrifício Borboleta)
 * **Como fazer:** Faça uma pegada na gola profunda ou abrace as costas por cima (over the back). Entre com um gancho "borboleta" por dentro da coxa dele. Sente-se trazendo o peso dele e gire-o por cima do seu ombro.
@@ -86,8 +78,6 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Erro Comum:** Deixar o oponente "amassar" suas pernas. Você precisa manter a tensão nos ganchos e trazê-lo para cima de você.
 * **Vídeo Sugerido:** [Sumi Gaeshi - Queda de Sacrifício Eficiente](https://www.youtube.com/watch?v=_tXG_JqZ_t0)
 
----
-
 ## 9. Uchi Mata (Arremesso de Coxa Interna)
 * **Como fazer:** Com pegada de gola e manga (ou gola alta nas costas), dê um passo de entrada cruzando entre as pernas do oponente e gire o corpo encaixando o quadril. A sua perna entra no meio das pernas dele e chuta para o alto, levantando a coxa interna dele.
 * **Detalhe:** A rotação da cabeça é o segredo. Olhe para onde você quer jogar o oponente (para o chão/lado), girando o tronco. A perna funciona como um pêndulo para alavancar o peso.
@@ -95,14 +85,10 @@ Este guia detalha as 8 quedas obrigatórias para o 1º Grau do exame. O foco na 
 * **Erro Comum:** Tentar levantar o oponente só com a força da perna sem ter feito o desequilíbrio (*Kuzushi*) com as mãos primeiro. Você acaba "chutando o ar" e dando as costas.
 * **Vídeo Sugerido:** [Uchi Mata - Aprenda os detalhes dessa queda](https://www.youtube.com/watch?v=8ZtqQq2Z8Xs)
 
----
+## 9. O-Soto-Guruma (Grande Roda por Fora)
+* **Detalhe:** Parecido com o O-Soto-Gari, o O-Soto-Guruma é uma técnica que derruba o oponente sobre o seu próprio corpo, como se fosse uma roda. Em vez de ceifar apenas uma perna, você usa a sua perna como um ponto de apoio para girar e projetar o oponente sobre as duas pernas dele.
+(https://www.youtube.com/watch?v=dQ6myVHEiwo&t=7s)
 
-## 10. Kouchi Gari (Pequena Segada Interna)
-* **Como fazer:** Faça o oponente abrir a base (forçando um passo para trás). Com a sola do seu pé, faça um gancho por dentro do calcanhar do pé da frente dele, puxando-o na sua direção ("colherada"), enquanto empurra o peito dele para trás.
-* **Detalhe:** O movimento de mão é de "soco" no ombro/peito para transferir o peso dele para o calcanhar que você está varrendo, prendendo-o no chão antes da varrida.
-* **Por que é boa:** É uma queda de baixíssimo risco. Se errar, você continua em pé e seguro. Excelente para conectar com outras quedas (faz o Kouchi, ele reage, você entra o Seoi Nage).
-* **Erro Comum:** Tentar varrer a perna quando ela está sem peso (flutuando) ou quando está com peso demais travado. O *timing* exato é quando ele está apoiando o pé.
-* **Vídeo Sugerido:** [Kouchi Gari - Detalhes para Jiu Jitsu](https://www.youtube.com/watch?v=5Q5eXq8Z9_M)
 
 ---
 
