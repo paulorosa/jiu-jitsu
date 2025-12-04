@@ -23,7 +23,7 @@
 
 ### Finalizações: 2 Estrangulamentos da Meia-Guarda
 - [ ] 01. Ezequiel
-- [ ] 02. Ezequiel Crossface
+- [ ] 02. Ezequiel Crossface ou (Estrangulamento Rodado (Lapela Oponente))
 
 ### Técnicas: 8 Quedas
 - [ ] 01. Single Leg (Catada de Perna)
