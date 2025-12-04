@@ -12,9 +12,9 @@
 - [ ] 05. Armlock Invertido (pega o outro braço
 
 ### Finalizações: 3 Estrangulamentos do 100kg
-- [ ] 01. Enforcamento 2 Golas
-- [ ] 02. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
-- [ ] 03. Ezequiel
+- [ ] 01. Ezequiel
+- [ ] 02. Enforcamento 2 Golas
+- [ ] 03. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
 
 ### Finalizações: 3 Chaves de Braço da Meia-Guarda
 - [ ] 01. Kimura
