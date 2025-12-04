@@ -4,11 +4,11 @@
 * **Como fazer:** Desequilibre o oponente ou aproveite um passo dele para capturar uma das pernas. Prenda a perna dele entre as suas coxas. Mantenha a cabeça colada no peito ou costela dele. Cabeça por dentro é mais seguro no Jiu-Jitsu para evitar guilhotina. Faça o desequilíbrio ou tire a pegada de gola do oponente para expor a perna. Avançe e capture uma das pernas. Prenda a pernda dele entre as suas coxas (pinçando os joelhos) para evitar que ele fuja. Mantenha a cabeça (por dentro) colocada no peito ou cotovelo dele. Finalização 1: "girar o volante" - afaste a perna dele do corpo dele e gire o tronco para baixo e para trás, fazendo-o perder a base. 
 * **Vídeo:** [Single Leg: Queda básica para faixa branca](https://www.youtube.com/watch?v=O3wV-GUYTlQ)
 
-## 2. Double Leg (Mãos Juntas)
+## 2. Double Leg (Mãos Juntas) (Joga para Lado)
 * **Como fazer:**  
 * **Vídeo:**  
 
-## 3. Baiana (Mãos Separadas)
+## 3. Baiana (Mãos Separadas) (empurra)
 * **Como fazer:** Mude de nível (abaixe o quadril), dê um passo de penetração profundo entre as pernas do oponente. Abrace as duas pernas (atrás dos joelhos ou coxas) mantendo a cabeça na lateral da cintura. Não tente levantar o oponente apenas com as costas; empurre com o ombro na cintura dele para o lado, enquanto puxa as pernas para você, "cortando" o caminho.
 * **Vídeo:** (https://www.youtube.com/watch?v=mkB62uB6njo)
 
@@ -99,4 +99,5 @@ O Ashi-Barai é uma técnica de judô que se concentra em varrer o pé do oponen
 * **Koshiguruma**: Esgrimado, abraça o pescoço, vira e tomba.
 * **Otigari**: Esgrimado, abraça as costas, vira e tomba.
 * **Kataguruma**: Puxa para dar um passo a frente, ajoelha, abraça a perna, joga para as costas e tomba para a frente.
-
+* **Katagatame**: braço para cima e pega no joelho
+* **Ashibarai**: rasteira
