@@ -1,51 +1,16 @@
 # 4o. Grau: Técnicas - 2 Saídas das Costas
 
-Saída para a guarda
-Saída para o quatro apoios
+* Vídeo: [3 SAÍDAS DA PEGADA DE COSTAS](https://www.youtube.com/shorts/3W7I9xrSQfw)
 
-1 Saída da costa (saída do estrangulamento com mão oposta na lapela + levantada, mais giro para tirar a perna + com a outra mão tira o outro pé + ida para o 100kg)
-
-
-
-## 1. Saída Básica (Costas no Chão)
-* **Como fazer:** Proteja o pescoço. Jogue o seu peso e o do oponente para o lado onde o braço dele está *embaixo* da sua axila (não o lado do braço que estrangula). Use as pernas para empurrar o chão e raspar suas costas no tatame até conseguir colocar a nuca e as escápulas no chão. Vire de frente para ele repondo a guarda.
-* **Detalhe:** O "pulo do gato" é o cotovelo. Assim que cair de lado, force seu cotovelo para dentro, raspando no chão, para impedir que ele te puxe de volta.
-* **Por que é boa:** Anula o Mata-Leão (o chão bloqueia o braço dele) e coloca você em posição de repor a meia-guarda ou fechada.
-* **Erro Comum:** Tentar virar de frente antes de colocar as costas no chão. Se você girar enquanto ele ainda está "mochilado", ele monta.
-* **Vídeo Sugerido:** [Saída das Costas caindo para o lado certo](https://www.youtube.com/watch?v=Ag44vXyOMHo)
+## 1. Saída Básica (Costas no Chão) (Saída para a guarda)
+* **Como fazer:** Proteja o pescoço. Jogue o seu peso e o do oponente para o lado onde o braço dele está *embaixo* da sua axila (não o lado do braço que estrangula). Use as pernas para empurrar o chão e raspar suas costas no tatame até conseguir colocar a nuca e as escápulas no chão. Vire de frente para ele repondo a guarda. Sai do Seat Belt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg. (saída do estrangulamento com mão oposta na lapela + levantada, mais giro para tirar a perna + com a outra mão tira o outro pé + ida para o 100kg)
+* **Vídeo Sugerido:** (https://www.youtube.com/shorts/MpzGHsRiUcM) (https://www.youtube.com/shorts/flt9MWePig0)
 
 ## 2. Saída com Ponte e Giro (Invertendo)
-* **Como fazer:** Caia para o lado do braço (lado fraco). Se o oponente estiver muito "colado", faça uma ponte forte apoiando a cabeça no chão para criar espaço entre as suas costas e o peito dele. Gire a cabeça para dentro e suba o quadril, terminando por cima (na guarda dele) ou de joelhos.
-* **Detalhe:** Segure o braço dele acima da sua cabeça com as duas mãos para evitar que ele te acompanhe.
-* **Por que é boa:** Transforma uma defesa perigosa em uma posição de vantagem (top position/100kg).
-* **Erro Comum:** Fazer a ponte muito baixa. Você precisa "escorregar" para baixo para que a cabeça dele saia de trás da sua nuca.
-* **Vídeo Sugerido:** [Defesa de Costas com Ponte e Giro](https://www.youtube.com/watch?v=yr14qpB7eyE)
-
----
-
-## Reserva 1. Saída do Triângulo de Corpo
-* **Como fazer:** Se o oponente fechar o triângulo de corpo (cadeado na sua cintura). Identifique para qual lado está o pé dele (o pé que fecha o cadeado). Role o seu corpo para cima desse pé, colocando todo o seu peso sobre o tornozelo dele. Isso causa dor e obriga ele a abrir. Assim que abrir, execute a saída 98.
-* **Detalhe:** Nunca cruze os seus pés se você estiver nas costas (erro de ataque), mas na defesa, você deve explorar o pé do oponente que está "dando sopa".
-* **Por que é boa:** O triângulo de corpo é muito difícil de sair apenas com movimentação de quadril. Essa técnica ataca a estrutura do cadeado.
-* **Erro Comum:** Tentar empurrar o joelho dele com a mão. Role o corpo para o lado do pé que fecha a trava.
-* **Vídeo Sugerido:** [Como sair do Triângulo de Corpo (Body Triangle)](https://www.youtube.com/watch?v=H7GvR34yCj0)
+* **Como fazer:** Caia para o lado do braço (lado fraco). Se o oponente estiver muito "colado", faça uma ponte forte apoiando a cabeça no chão para criar espaço entre as suas costas e o peito dele. Gire a cabeça para dentro e suba o quadril, terminando por cima (na guarda dele) ou de joelhos. Sai do estrangulamento puxa defendendo olha para o lado, puxa lapela oponente, deita ainda de lado, senta no pé.
+* **Vídeo Sugerido:** (https://www.youtube.com/shorts/h1ayG5PZ210)
 
 
----
-2 Ida para as Costas
-   1. Delariva, troca pegada, puxa, chuta, fecha o seat belt.
-   2. da guarda, estoura pegada, joga braço para costa, fuga, acaba no Seat Belt.
-   3. Cinto de segurança e fechamento do correto das pernas na pegada de costas
-
-
-2 Saída das Costas
-   1. Sai do CintBelt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg.
-   2. Sai do estrangulamento puxa defendendo olha para o lado, puxa lapela oponente, deita ainda de lado, senta no pé.
-
-
-2 Saída das Costas
-   1. Sai do Seat Belt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg.
-   2. Sai do estrangulamento puxa defendendo olha para o lado, puxa lapela oponente, deita ainda de lado, senta no pé.
 
 
 
