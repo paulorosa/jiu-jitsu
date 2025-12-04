@@ -145,8 +145,8 @@
 ## ⬛ 4º GRAU: Especialização e Defesa Pessoal (30 Técnicas)
 
 ### Técnicas: 2 Idas para as Costas
-- [ ] 01. Ida para as Costas da Meia-Guarda (para 4 Apoios)
-- [ ] 02. Ida para as Costas da Meia-Guarda (cai sentado)
+- [ ] 01. Ida para as Costas da Meia-Guarda (4 Apoios)
+- [ ] 02. Ida para as Costas da Meia-Guarda (Cadeira)
 
 ### Técnicas: 2 Saídas da Costas
 - [ ] 01. Saída das Costas (Para o lado do braço)
