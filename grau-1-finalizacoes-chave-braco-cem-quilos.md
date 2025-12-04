@@ -15,31 +15,22 @@
 * **Vídeo:** 
 
 ## 3. Kimura (Chave de Ombro Invertida)
-* **Como fazer:** Domine o punho do oponente (braço distante). Passe seu outro braço por cima do ombro e por baixo do tríceps dele, fechando a Figura 4 no seu próprio punho. Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cima da cabeça.
-* **Detalhe:** Use a pegada de macaco (sem o polegar). Gire seu corpo para a posição Norte-Sul para ganhar alavanca e afastar o braço dele do corpo.
+* **Como fazer:** Domine o punho do oponente (braço distante). Passe seu outro braço por cima do ombro e por baixo do tríceps dele, fechando a Figura 4 no seu próprio punho. Kimura: passa a perna, tomba, joga para o outro cotovelo. Passando perna por cima da cabeça. Use a pegada de macaco (sem o polegar). Gire seu corpo para a posição Norte-Sul para ganhar alavanca e afastar o braço dele do corpo.
 * **Vídeo:**
 
 ## 4. Chave de Braço (Armlock) Girando (Chave de Braço/Ombro Reta)
-* **Como fazer:** O oponente empurra seu pescoço ou peito. Domine o braço dele. Coloque o joelho na barriga ou apenas levante a base, passe a perna por cima da cabeça dele e gire o corpo para o outro lado, caindo com o braço esticado.
-* **Detalhe:** O joelho que estava no quadril serve de pivô. Ao passar a perna na cabeça, "raspe" a panturrilha no rosto dele para evitar que ele suba.
-* **Por que é boa:** Pune o adversário que estica os braços para defender a pressão do 100kg.
-* **Erro Comum:** Deixar espaço entre a sua virilha e o ombro do oponente ao girar. O quadril tem que estar colado.
+* **Como fazer:** O oponente empurra seu pescoço ou peito. Domine o braço dele. Coloque o joelho na barriga ou apenas levante a base, passe a perna por cima da cabeça dele e gire o corpo para o outro lado, caindo com o braço esticado. O joelho que estava no quadril serve de pivô. Ao passar a perna na cabeça, "raspe" a panturrilha no rosto dele para evitar que ele suba.
 * **Vídeo:** (https://www.youtube.com/shorts/sEF-YGY9Wag)
 
 ## 5. Chave de Braço (Armlock) Invertido
-* **Como fazer:** Isole o braço do oponente (braço mais próximo de você) prendendo-o entre as suas pernas ou axila. Passe a perna de cima sobre a cabeça dele e a de baixo sob o ombro. Pega o outro braço.
-* **Detalhe:** É uma finalização "curta". Você não precisa cair para trás. Apenas aperte os joelhos e projete o quadril para frente.
-* **Por que é boa:** Surpreende o oponente que está preocupado em defender o lado oposto e não espera um ataque no braço "escondido".
-* **Erro Comum:** Não isolar o ombro do oponente do chão, permitindo que ele gire o braço e alivie a pressão.
-* **Vídeo Sugerido:** [Armlock Invertido partindo do 100kg](https://www.youtube.com/watch?v=JLxZGBVvQyU)
+* **Como fazer:** Isole o braço do oponente (braço mais próximo de você) prendendo-o entre as suas pernas ou axila. Passe a perna de cima sobre a cabeça dele e a de baixo sob o ombro. Pega o outro braço. É uma finalização "curta". Você não precisa cair para trás. Apenas aperte os joelhos e projete o quadril para frente.
+* **Vídeo:** 
 
 ---
 
 ## Reserva 1. 100 kg invertido
 * **Como fazer:** envolve o braço, passa perna, estica pescoço.
 * **Vídeo:** 
-
-
 
 ## Reserva 1. Mão de Vaca
 * **Como fazer:** Quando o oponente coloca a mão no seu peito ou ombro para defender o 100kg. Prenda o cotovelo dele contra seu corpo, segure a palma da mão dele e pressione os dedos em direção ao antebraço dele. O cotovelo dele *precisa* estar imobilizado (no chão ou no seu peito), senão a força dissipa.
