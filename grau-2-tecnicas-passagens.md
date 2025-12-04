@@ -1,5 +1,8 @@
 # 2o. Grau: Técnicas - 8 Passagens
 
+* Vídeo: [20 Passagens de Guarda Eficientes](https://www.youtube.com/watch?v=FbEKyrd98j0)
+
+
 ## 1. Guarda Fechada (puxando 1 perna)
 * **Como fazer:** 
 
