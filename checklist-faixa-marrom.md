@@ -89,7 +89,7 @@
 - [ ] 01. Armlock Clássico da Guarda Fechada
 - [ ] 02. Kimura da Guarda Fechada
 - [ ] 03. Omoplata
-- [ ] 04. Chave de Braço Reta da Guarda (2 Braços / 2 Pernas)
+- [ ] 04. Chave de Braço Duplo da Guarda
 
 ### Finalizações: 4 Estrangulamentos da Guarda
 - [ ] 01. Estrangulamento Cruzado (Tradicional)
