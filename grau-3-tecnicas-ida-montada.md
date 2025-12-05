@@ -1,11 +1,10 @@
 # 3o. Grau: Técnicas - 2 Idas para Montada
 
-Transição da guarda fechada para a montada
-Transição do 100 kg para a montada
+1. invertida
+2. invertida pega no calcanhar (quando é giro, segura as duas, quando é no meio segura)
 
-2 Idas para Montada
-   1. 100 kg Invertido (empurra): Nos 100 kg invertido, com as pernas em S para imobilização, e antebraço segurando o quadril, se estiver lendo jornal, empurra e sobre para a montada.
-   2. 100 kg Invertido (puxa): Variação da 1, mas ao invés de lendo o jornal, está normal, ou jornal ao contrário, aí puxa e sobre para montada.
+1. 100 kg Invertido (empurra): Nos 100 kg invertido, com as pernas em S para imobilização, e antebraço segurando o quadril, se estiver lendo jornal, empurra e sobre para a montada.
+2. 100 kg Invertido (puxa): Variação da 1, mas ao invés de lendo o jornal, está normal, ou jornal ao contrário, aí puxa e sobre para montada.
 
 
 
