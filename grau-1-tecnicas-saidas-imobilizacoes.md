@@ -7,42 +7,22 @@
 
 
 
-Saídas de 100kg.
-https://www.youtube.com/watch?v=1Iab1zMjeZo
-levantar quadril, esticar braços, passa perna por baixo da outra, e sai.
-ponteou, entrou
-braço por baixo do quadril dele, e passar por baixo
-
-
-
-
 ## 1. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
-* **Como fazer:** Faça o "bloqueio" (frame) com os antebraços: um no pescoço do oponente e outro no quadril. Faça uma ponte para criar espaço, fuja o quadril e entre o joelho mais próximo do oponente entre os dois corpos.
-* **Detalhe:** Não empurre o oponente com a força dos braços. Use a estrutura óssea (antebraço rígido) para manter a distância e fuja o quadril explosivamente para criar o "buraco" onde o joelho vai entrar.
-* **Por que é boa:** É a saída mais técnica e segura, pois ecoloca você na guarda (posição de ataque) sem gastar muita energia.
-* **Erro Comum:** Tentar abraçar o oponente (aceitar a esgrima) ou empurrar o peito dele com a mão (arrisca tomar armlock).
-* **Vídeo Sugerido:** [Saída de 100kg Repondo a Guarda - Detalhes Invisíveis](https://www.youtube.com/watch?v=P7e8Ag1aPMA)
+* **Como fazer:** Faça o "bloqueio" (frame) com os antebraços: um no pescoço do oponente e outro no quadril. Faça uma ponte para criar espaço, fuja o quadril e entre o joelho mais próximo do oponente entre os dois corpos. Não empurre o oponente com a força dos braços. Use a estrutura óssea (antebraço rígido) para manter a distância e fuja o quadril explosivamente para criar o "buraco" onde o joelho vai entrar.
+* **Vídeo:** [Saída de 100kg Repondo a Guarda - Detalhes Invisíveis](https://www.youtube.com/watch?v=P7e8Ag1aPMA)
 
 ## 2. Saída de Ponte (Upa no 100kg)
 * **Como fazer:** Quando o oponente coloca todo o peso no controle lateral (abraçando a cabeça) e deixa o quadril leve ou muito alto. Domine o braço que abraça sua cabeça, prenda o braço dele junto ao seu corpo, faça uma ponte explosiva "olhando" para o lado oposto e capote o adversário.
 * **Detalhe:** A ponte não é para cima, é para o lado (diagonal). Cole sua orelha no ombro dele para evitar que ele tire o braço.
-* **Por que é boa:** Pune o adversário que coloca pressão excessiva sem base, invertendo a posição de desvantagem para vantagem total (cai por cima/montado).
-* **Erro Comum:** Tentar fazer a ponte sem travar o braço de apoio do adversário (ele vai postar a mão e não vai virar).
-* **Vídeo Sugerido:** [Como capotar (inverter) no 100kg](https://www.youtube.com/watch?v=21DW70e9lTM)
+* **Vídeo:** [Como capotar (inverter) no 100kg](https://www.youtube.com/watch?v=21DW70e9lTM)
 
 ## 3. Saída da Montada (Girada do oponente)
 * **Como fazer:** segura braço com cotovelo + perna oposta empurra + giro, jogar uma perna para dentro da outra e jogar. 
-* **Detalhe:** 
-* **Por que é boa:** 
-* **Erro Comum:** 
-* **Vídeo Sugerido:** 
+* **Vídeo:** 
 
 ## 4. Saída da Montada (Empurra joelho, repõe meia-guarda)
 * **Como fazer:** pega na barra da calça e coloca a perna do opnente para fazer meia guarda.
-* **Detalhe:** 
-* **Por que é boa:** 
-* **Erro Comum:** 
-* **Vídeo Sugerido:** 
+* **Vídeo:** 
 
 ---
 
@@ -93,4 +73,16 @@ Escape do 100 kg para a guarda
 Escape da montada
 Escape do joelho na barriga
 Escape das costas
+
+
+
+
+
+Saídas de 100kg.
+https://www.youtube.com/watch?v=1Iab1zMjeZo
+levantar quadril, esticar braços, passa perna por baixo da outra, e sai.
+ponteou, entrou
+braço por baixo do quadril dele, e passar por baixo
+
+
 
