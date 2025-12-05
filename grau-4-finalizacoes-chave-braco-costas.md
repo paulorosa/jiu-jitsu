@@ -1,5 +1,7 @@
 # 4o. Grau: Finalizações - 1 Chave de Braço das Costas
 
+* de quatro apoios
+* sentado (empurrar pescoço)
 Chave de braço
 Estrangulamento mata-leão
 
