@@ -77,7 +77,7 @@
 - [ ] 05. Raspagem de Gancho Cruzada (da Guarda Borboleta)
 - [ ] 06. Raspagem com o Pé no Quadril (Tripé) (da Guarda Aberta)
 - [ ] 07. Foice (da Guarda Fechada)
-- [ ] 08. Raspagem da Meia-Guarda
+- [ ] 08. Raspagem da Meia-Guarda (empurrando o joelho, igual guarda fechada)
 - [ ] 09. Raspagem de Meia-Guarda Profunda
 - [ ] 10. Raspagem da Guarda Aranha (Tesourinha)
 - [ ] 11. Raspagem da Guarda De La Riva (Balão)
@@ -92,7 +92,7 @@
 - [ ] 04. Chave de Braço Duplo da Guarda
 
 ### Finalizações: 4 Estrangulamentos da Guarda
-- [ ] 01. Estrangulamento Cruzado (Tradicional)
+- [ ] 01. Estrangulamento Cruzado (Tradicional) (e com lapela)
 - [ ] 02. Mão na Lapela e Ombro
 - [ ] 03. Mão na Lapela e Cotovelo
 - [ ] 04. Amassa-Pão
