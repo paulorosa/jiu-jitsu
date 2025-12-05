@@ -102,11 +102,11 @@
 ## 🟫 3º GRAU: Transições e Dinâmica (23 Técnicas)
 
 ### Técnicas: 2 Idas para Montada
-- [ ] 01. Ida para a Montada (do 100kg)
+- [ ] 01. Ida para a Montada (do 100kg) (invertido)
 - [ ] 02. Ida para a Montada (da Meia-Guarda)
 
 ### Técnicas: 3 Saídas da Montada
-- [ ] 01. Saída da Montada (Upa/Ponte)
+- [ ] 01. Saída da Montada (Upa/Ponte) (pega 2 pernas, levantae vai guarda borboleta)
 - [ ] 02. Saída da Montada (Cotovelo/Joelho)
 - [ ] 03. Saída da Montada (Pé com Pé)
 
@@ -145,14 +145,14 @@
 ## ⬛ 4º GRAU: Especialização e Defesa Pessoal (30 Técnicas)
 
 ### Técnicas: 2 Idas para as Costas
-- [ ] 01. Ida para as Costas da Meia-Guarda (4 Apoios)
-- [ ] 02. Ida para as Costas da Meia-Guarda (Cadeira)
+- [ ] 01. Ida para as Costas da Meia-Guarda (ou guarda fechada) (4 Apoios)
+- [ ] 02. Ida para as Costas da Meia-Guarda (ou guarda fechada) (Cadeira)
 
 ### Técnicas: 2 Saídas da Costas
 - [ ] 01. Saída das Costas (Para o lado do braço)
 - [ ] 02. Saída das Costas (Para o lado do pescoço)
 
-### Finalizações:  1 Chave de Braço das Cosas
+### Finalizações: 1 Chave de Braço das Costas
 - [ ] 01. De Quatro Apoios
 
 ### Finalizações: 4 Estrangulamentos das Costas
