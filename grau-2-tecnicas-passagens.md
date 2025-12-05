@@ -1,8 +1,5 @@
 # 2o. Grau: Técnicas - 8 Passagens
 
-* Vídeo: [20 Passagens de Guarda Eficientes](https://www.youtube.com/watch?v=FbEKyrd98j0)
-
-
 ## 1. Guarda Fechada (puxando 1 perna)
 * **Como fazer:** 
 
@@ -119,6 +116,44 @@ Passagem com joelho na barriga
 Passagem de perna
 Passagem com pressão
 Passagem de pé.
+
+---
+
+* Vídeo: [20 Passagens de Guarda Eficientes](https://www.youtube.com/watch?v=FbEKyrd98j0)
+
+1. **Abertura da Guarda Fechada 1**: Domina 1 braço; segura kimono no meio com a outra mão; sobe do mesmo lado; cadeirinha; com o outro braço, empurraa outra perna e coloca o joelho no chão; e já vai para os 100kg.
+2. **Abertura da Guarda Fechada 2**: Pegada na faixa ou quadril; cotovelo no meio das coxas; empurra para trás e sai na meia-guarda.
+3. **Aberturda da Guarda Fechada 3**: Aperta axilas; trava na axila; empurra para trás; sobe; sai da axila; passa a faixa e vai para trás.
+4. **Abertura da Guarda Fechada 4**: Esgrima e caminha lado oposto; Esgrima; caminha para lado oposto; empurra perna; trava no meio da perna; voltar para a posição e consegue passar.
+5. **Passagem da Guarda Aranha 1**: Ponto Morto.
+6. **Passagem da Guarda Aranha 2**: Esticado 1 lado.
+7. **Passagem da Guarda Aranha 3**: Para trás e emborca. 
+8. **Guarda Laço 1**: Aperta o joelho para o outro lado.
+9. **Guarda Laço 2**: Faz força do ombro no joelho; vai para o mesmo lado.
+10. **Guarda Laço 3**: Desfazer a guarda laço.
+11. **Guarda De La Riva 1**: Tira a pegada na gola; aperta o outro joelho; bate o outro pé para sair.
+12. **Guarda De La Riva 2**: Estoura pegada; quanso segurar o tornozelo, virar para a lateral e chutar para a frente e faz o movimento de toreada.
+13. **Guarda De La Riva 3**: Solta lapela; empurra pé para baixo e coloca para baixo das duas pernas; abre perna da lateral.
+14. **Guarda De La Riva 4**: Estoura pegada; empurra joelho para o outro mesmo do joelho; vai até o chão e volta para a base.
+15. **Guarda Aberta Sentado 1**: Mão nas axilas.
+16. **Guarda Aberta Sentado 2**:  Quando o oponente sentado, basta deslizar o joelho do oponente e deslizar.
+17. **Guarda Aberta Sentado 3**:
+18. **Passagem da Meia-Guarda 1**: Pegada na gola, outra na faixa na parte de trás; empurra para o chão (para vencer o escudo); depois sobre o quadril e passa.
+19. **Passagem da Meia-Guarda 2**: Pegada gola; outra mão na calça, faz mudança de direção.
+20. **Passagem da Meia-Guarda 3**: Na esgrima, coloca a outra perna para esgrima e passa.
+
+1. Toreando (bullfigther)
+2. Passagem cruzando o joelho (knee slice)
+3. Encorcada (Stack Pass)
+4. Leg Drag
+5. Passagem da guarda borboleta (amassando as pernas)
+22. 
+23. 
+
+
+
+
+
 
 
 
