@@ -63,7 +63,7 @@
 - [ ] 01. Guarda Fechada (puxando 1 perna)
 - [ ] 02. Volante Caminhão
 - [ ] 03. Guarda-Aranha (Ponto Morto)
-- [ ] 04. Guarda-Aranha (1 Perna)
+- [ ] 04. Guarda-Aranha (1 Perna) (estourar a perna)
 - [ ] 05. Emborcada
 - [ ] 06. Toreando
 - [ ] 07. Cruzando o Joelho
