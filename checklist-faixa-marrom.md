@@ -19,7 +19,7 @@
 ### Finalizações: 3 Chaves de Braço da Meia-Guarda
 - [ ] 01. Kimura
 - [ ] 02. Americana
-- [ ] 03. Arm-Lock (passando a perna)
+- [ ] 03. Arm-Lock (passando a perna por cima da cabeça)
 
 ### Finalizações: 2 Estrangulamentos da Meia-Guarda
 - [ ] 01. Ezequiel
@@ -112,33 +112,43 @@
 
 ### Técnicas: 2 Saídas de Joelho na Barriga
 - [ ] 01. Reposição de Guarda
+      duas mãso, empurra, pega na manga e puxa
 - [ ] 02. Saída rodando para Single Leg
+      pega o braço por baixo, como o mesmo braço, puxa e empurra o peito.
+      pegando a faixa/caça e rodando (single leg)
 
 ### Técnicas: 4 Saídas da Meia-Guarda (Por Cima)
-- [ ] 01. Joelho para fora   
-- [ ] 02. Joelho para Montada
+- [ ] 01. Joelho para fora (cabeça no chao no mesmo lado)
+- [ ] 02. Joelho para Montada (empurra)
 - [ ] 03. Joelho com mão no ombro
-- [ ] 04. Joelho Ivertido
+- [ ] 04. Joelho Ivertido (vira para o outro lado, empurra mão e é para sair)
 
-### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)
-- [ ] 01. Reposição para Guarda Fechada
-- [ ] 02. Reposição para Guarda Fechada
-- [ ] 03. Reposição para Guarda Fechada
+### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)  (iguala 2 dias para costas)
+- [ ] 01. Reposição para Guarda Fechada (empurra o joelho e repõe)
+- [ ] 02. Reposição para Guarda Fechada (1. puxa para cair sentado)
+- [ ] 03. Reposição para Guarda Fechada (2. se estiver difícil, vai para 4 apoios)
 
 ### Finalizações: 5 Chaves de Braço da Montada
-- [ ] 01. Armlock da Montada
+- [ ] 01. Armlock da Montada (braçco esticado para trás
 - [ ] 02. Estrangulamento Cruzado da Montada
 - [ ] 03. Ezequiel da Montada
 - [ ] 04. Katagatame da Montada
-- [ ] 05. Triângulo de Mão da Montad
+- [ ] 05. Triângulo de Mão da Montada
+(detalhe geral - puxar e esticar o braço)
+
+1. americana
+2. americana extendida
+3. armlock (braço esticado para frente)
+5. braço esticado por baixo axila e pé atrás (katagatami)
 
 ### Finalizações: 2 Estrangulamentos da Montada
-- [ ] 01.  Ezequiel
-- [ ] 02.  Kimono por volta da cabeça
+- [ ] 01.  Ezequiel (e amassa-pão também)
+- [ ] 02.  Kimono por volta da cabeça (estrangulamento de lapela na montada)
 
 ### Finalizações: 2 Joelhos na Barriga dos 100 Kg
-- [ ] 01. Armlock do Joelho na Barriga (Girando)
-- [ ] 02. Estrangulamento Cruzado 
+- [ ] 01. Armlock do Joelho na Barriga (Girando) (1. Cruzado)
+- [ ] 02. Estrangulamento Cruzado (2. pega lapela e cruza)
+(os dois casos precisam pesar para amassar)
 
 ---
 
