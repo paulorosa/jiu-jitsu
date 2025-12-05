@@ -15,7 +15,7 @@
 * Raspagem Guarda Laçada, ir para o omoplata
 * Raspagem Raspagem segurando o calcanhar
 * Raspagem Arm Drag (mão na gola e mão no tríceps)
-
+* Raspagem no quadricepis.
 
 ## 1. Tesoura (da Guarda Fechada)
 * **Como fazer:** Da guarda fechada, domine manga e gola cruzada. Abra a guarda, apoie a canela transversalmente no peito do oponente e a outra perna no chão (cortando). Puxe o oponente para cima de você (carregando o peso) e chute a perna de baixo.
