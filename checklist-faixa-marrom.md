@@ -155,22 +155,21 @@
 ## ⬛ 4º GRAU: Especialização e Defesa Pessoal (30 Técnicas)
 
 ### Técnicas: 2 Idas para as Costas
-1. Ida para as Costas da Meia-Guarda terminando no 4 Apoios
- - fadsfadsfasd
-3. Ida para as Costas da Meia-Guarda (ou guarda fechada) (Cadeira)
+- [ ] 1. Ida para as Costas da Meia-Guarda terminando no 4 Apoios.
+- [ ] 2. Ida para as Costas da Meia-Guarda puxando pelo quadril para terminar no chão.
 
 ### Técnicas: 2 Saídas da Costas
-- [ ] 01. Saída das Costas (Para o lado do braço)
-- [ ] 02. Saída das Costas (Para o lado do pescoço)
+- [ ] 1. Saída das Costas (Sai do Seat Belt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg) (Para o lado do braço)
+- [ ] 2. Saída das Costas (Mão oposta na lapela;levantada;giro para tirar perna; com outra mão tira o outro pé; ida para o 100kg) (Para o lado do pescoço)
 
 ### Finalizações: 1 Chave de Braço das Costas
-- [ ] 01. De Quatro Apoios
+- [ ] 1. Chave de Braço (Armlock) das Costas (ganchos e seatbelt;domine o punho;passa perna ombro/cabeça;estica rosto; tira gancho; estique corpo)
 
 ### Finalizações: 4 Estrangulamentos das Costas
-- [ ] 01. Mata-leão
-- [ ] 02. Ezequiel
-- [ ] 03. Puxa 2 golas
-- [ ] 04. Arco e Flecha
+- [ ] 1. Mata-leão
+- [ ] 2. Ezequiel (ou Ezequiel Amassa-Pão)
+- [ ] 3. Puxa 1 gola braço interno; Abraça outro ombro por cima cabeça
+- [ ] 4. Arco e Flecha (ou Amassa-Pão)
 
 ### Finalizações: 1 Chave de Braço do Quatro Apoios  
 - [ ] 01. Inversão/Reposição da Tartaruga
