@@ -175,9 +175,10 @@
 - [ ] 01. Inversão/Reposição da Tartaruga
 
 ### Finalizações: 3 Estrangulamentos do Quatro Apoioos
-- [ ] 01. Capotagem (Reloginho)
-- [ ] 02. Estrangulamento Relógio
-- [ ] 03. Crucifixo
+- [ ] 01. Reloginho (mão na lapela;outra ão calça pé)
+- [ ] 02. Estrangulamento Relógio (pegar gancho e puxar mangas)
+- [ ] 03. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
+- [ ] 4. Mata-leão dos 4 Apoios 
 
 ### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
 - [ ] 01. Botinha Reta (Pé no Quadril - Básica)
@@ -189,6 +190,16 @@
 - [ ] 07. Chave de Tornozelo (Botinha Reta)
 - [ ] 08. Mata-Leão no Pé
 - [ ] 09. Chave de Panturrilha
+
+- [ ] 1. Guarda em Pé (pega pé entre braço e axila; outra mão para fixar e puxa)
+- [ ] 2. Guarda em Pé (Colocar dedinho do pé no umbigo e apertar)
+- [ ] 3. Guarda em Pé (Parecido com 1, mas com o dedinho do pé para dentro)
+- [ ] 4. Guarda Aberta (pega tornozelo; passa joelho; cai e puxa com a outra perna)(dobrada)
+- [ ] 5. Guarda Aberta (igual anterior, mas esticada) (uma puxa com cotovelo; outra estica a perna com a mão)
+- [ ] 6. Botinha para trás
+- [ ] 7. Botinha do lado
+- [ ] 8. Botinha estica a perna
+- [ ] 9. Botinha (oponente girando para sair, no final aperta) 
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
 - [ ] 01. Defesa de Armlock da Guarda (Amassando)
