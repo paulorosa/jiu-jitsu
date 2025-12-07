@@ -207,12 +207,12 @@
 - [PENDENTE] 02. Defesa de Kimura (Contra-Kimura/Re-Kimura)
 - [PENDENTE] 03. Defesa de Americana do 100kg (Ponte e Cotovelo)
 
-###  Técnicas: 3 Saídas de Triângulo / Estrangulamento
+### Técnicas: 3 Saídas de Triângulo / Estrangulamento
 - [PENDENTE] 01. Defesa de Triângulo (Postura e Cotovelo)
 - [PENDENTE] 02. Saída de Triângulo Encaixado (Emborcada)
 - [PENDENTE] 03. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
-### [Técnicas: 2 Saídas de Chave de Perna](grau-4-tecnicas-saida-chave-perna.md)
+### Técnicas: 2 Saídas de Chave de Perna
 - [PENDENTE] 01. Defesa de Botinha Reta
 - [PENDENTE] 02. Defesa de Chave de Joelho
 
