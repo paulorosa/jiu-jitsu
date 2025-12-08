@@ -1,8 +1,8 @@
 # 4o. Grau: Técnicas - 3 Saídas de Triângulo / Estrangulamento
 
-**Vídeo**: [5 saídas do triângulo](https://www.youtube.com/shorts/7FPOL7dyd5Q)
-**Vídeo**: [defesa de estrangulamento cruzado da guarda](https://www.youtube.com/shorts/VE_1m385XRI)
-**Vídeo**: [Defesa do Estrangulamento] (https://www.youtube.com/shorts/opml7wFrUJ4)
+* Vídeo: [5 saídas do triângulo](https://www.youtube.com/shorts/7FPOL7dyd5Q)
+* Vídeo: [defesa de estrangulamento cruzado da guarda](https://www.youtube.com/shorts/VE_1m385XRI)
+* Vídeo: [Defesa do Estrangulamento] (https://www.youtube.com/shorts/opml7wFrUJ4)
 
 1. Saída Triângulo: fica em pé, pisa no bíceps, senta, joga a perna do oponente para frente, vai pro 100 kg. Uma fica em pé os dois pés nos bíceps, cai para trás e sobre jogando a perna para lado e entrando no 100kg.
 2. do triângulo + pisada no bíceps + queda
