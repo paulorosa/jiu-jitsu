@@ -196,7 +196,6 @@
 - [ ] 12. Mata-Leão no Pé
 - [ ] 13. Chave de Panturrilha
 - [ ] 14. Botinha Reta (Pé no Quadril - Básica)
-- [ ] 15. Botinha da Guarda 50/50
 - [ ] 16. Chave de Joelho Reto (Passando)
 - [ ] 17. Chave de Joelho dos Quatro Apoios
 - [ ] 18. Mata-Leão da Guarda De La Riva (Por Cima)
