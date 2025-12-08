@@ -1,10 +1,6 @@
 # 2o. Grau: Técnicas - 14 Raspagens
 
-1. pega no calcanhar da calça
-2. guarda profunda
-3. 2 joelhos para trás e empura
-4. raspagem balão
-5. raspagem leandro lo - prende 2 pernas e 2 braços
+
 * Raspagem Tesoura Chutando o Joelho: Idêntico à tesoura normal, mas chuta o joelho da perna do lado da raspagem.
 * Raspagem Abdominal: força o quadril. cotovelo no chão
 * Raspagem da guarda borboleta: trava braço do oponente embaixo do seu braço + esgrima o outro + cabeça em cima do queixo dele + cai para o lado que matou o braço + usa perna para ajudar a raspar)
