@@ -182,16 +182,6 @@
 - [ ] 4. Mata-leão dos 4 Apoios 
 
 ### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
-- [ ] 01. Botinha Reta (Pé no Quadril - Básica)
-- [ ] 02. Botinha da Guarda 50/50
-- [ ] 03. Chave de Joelho Reto (Passando)
-- [ ] 04. Chave de Joelho dos Quatro Apoios
-- [ ] 05. Mata-Leão da Guarda De La Riva (Por Cima)
-- [ ] 06. Mata-Leão Rolando
-- [ ] 07. Chave de Tornozelo (Botinha Reta)
-- [ ] 08. Mata-Leão no Pé
-- [ ] 09. Chave de Panturrilha
-
 - [ ] 1. Guarda em Pé (pega pé entre braço e axila; outra mão para fixar e puxa)
 - [ ] 2. Guarda em Pé (Colocar dedinho do pé no umbigo e apertar)
 - [ ] 3. Guarda em Pé (Parecido com 1, mas com o dedinho do pé para dentro)
@@ -200,7 +190,17 @@
 - [ ] 6. Botinha para trás
 - [ ] 7. Botinha do lado
 - [ ] 8. Botinha estica a perna
-- [ ] 9. Botinha (oponente girando para sair, no final aperta) 
+- [ ] 9. Botinha (oponente girando para sair, no final aperta)
+- [ ] 10. Mata-Leão Rolando
+- [ ] 11. Chave de Tornozelo (Botinha Reta)
+- [ ] 12. Mata-Leão no Pé
+- [ ] 13. Chave de Panturrilha
+- [ ] 14. Botinha Reta (Pé no Quadril - Básica)
+- [ ] 15. Botinha da Guarda 50/50
+- [ ] 16. Chave de Joelho Reto (Passando)
+- [ ] 17. Chave de Joelho dos Quatro Apoios
+- [ ] 18. Mata-Leão da Guarda De La Riva (Por Cima)
+
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
 - [] 1. Defesa de Omoplata (Rolamento/Cambalhota)
