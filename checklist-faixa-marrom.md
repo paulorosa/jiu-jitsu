@@ -202,17 +202,17 @@
 
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
-- [] 1. Defesa de Omoplata (Rolamento/Cambalhota)
-- [] 2. Defesa de Armlock da Guarda (Amassando)
-- [] 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
-- [] 4. Defesa de Kimura (Contra-Kimura/Re-Kimura)
+- [ ] 1. Defesa de Omoplata (Rolamento/Cambalhota)
+- [ ] 2. Defesa de Armlock da Guarda (Amassando)
+- [ ] 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
+- [ ] 4. Defesa de Kimura (Contra-Kimura/Re-Kimura)
 
 ### Técnicas: 3 Saídas de Triângulo / Estrangulamento
-- [] 1. Defesa de Triângulo (Postura e Cotovelo)
-- [] 2. Saída de Triângulo Encaixado (Emborcada)
-- [] 3. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
+- [ ] 1. Defesa de Triângulo (Postura e Cotovelo)
+- [ ] 2. Saída de Triângulo Encaixado (Emborcada)
+- [ ] 3. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
 ### Técnicas: 2 Saídas de Chave de Perna
-- [] 1. Defesa de Botinha Reta
-- [] 2. Defesa de Chave de Joelho
+- [ ] 1. Defesa de Botinha Reta
+- [ ] 2. Defesa de Chave de Joelho
 
