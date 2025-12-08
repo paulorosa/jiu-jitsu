@@ -1,10 +1,7 @@
 # 4o. Grau: Técnicas - 2 Saídas de Chave de Perna
 
-1 Saída de Chave de Tornozelo: Segura Lapela quando for cair com o tornozelo,anda, senta no joelho, vai para a montada
-1 Saída da Chave de Tornozelo (puxa gola + senta + joelho + levanta + montada)
-
-## 1. Defesa de Botinha Reta
-* **Como fazer:** Quando o oponente encaixa a botinha e cai para trás. Imediatamente, "calce a bota" (empurre o pé para o fundo da axila dele) para aliviar a pressão no tornozelo. Segure a gola dele com as duas mãos e puxe-o para você, impedindo que ele estenda o corpo. Suba, pisando no chão com o pé atacado, e coloque o peso sobre a perna dele para desmanchar a guarda. Se ele girar para a barriga para baixo, você *precisa* acompanhar o giro e subir, senão a pressão quebra o pé. Use o pé livre para pisar no quadril dele e empurrar, tirando a pressão.
+## 1. Saída de Chave de Tornozelo
+* **Como fazer:** Segura Lapela quando for cair com o tornozelo,anda, senta no joelho, vai para a montada
 * **Vídeo:** (https://www.youtube.com/watch?v=97ooErzTfuk) (https://www.youtube.com/shorts/yIaDVYicCDo)
 
 ## 2. Defesa de Chave de Joelho
@@ -15,10 +12,7 @@
 
 ### Conceito Inicial: "Pé Vivo"
 Antes de qualquer movimento, o vídeo ensina o conceito mais básico de defesa de pé: **nunca deixe o pé "morto" (mole)**.
-* **Ação:** Assim que o adversário encaixar o golpe, faça o "pé vivo" (flexione o pé para cima, como se estivesse pisando no acelerador, mas puxando os dedos para você). Isso contrai a musculatura e dificulta que ele estenda o seu tornozelo.
-* **Detalhe de Ouro:** "Calçar a bota". Em vez de tentar puxar o pé para fora desesperadamente, enfie o pé *mais para dentro* da axila dele. Isso tira o encaixe da parte óssea do braço dele do seu tendão de Aquiles.
-
----
+* **Ação:** Assim que o adversário encaixar o golpe, faça o "pé vivo" (flexione o pé para cima, como se estivesse pisando no acelerador, mas puxando os dedos para você). Isso contrai a musculatura e dificulta que ele estenda o seu tornozelo. "Calçar a bota". Em vez de tentar puxar o pé para fora desesperadamente, enfie o pé *mais para dentro* da axila dele. Isso tira o encaixe da parte óssea do braço dele do seu tendão de Aquiles.
 
 ### 1ª Defesa: O Giro Técnico (Levantada Técnica)
 Essa é a defesa clássica quando o adversário está apenas fazendo a pegada, mas ainda não cruzou a perna para o "leg drag" ou não virou de barriga para baixo.
@@ -29,8 +23,6 @@ Essa é a defesa clássica quando o adversário está apenas fazendo a pegada, m
 4.  **O Giro:** Apoie a mão no chão e faça uma levantada técnica, girando o corpo todo para o lado oposto ao da chave. Fique de pé.
 5.  **Contra-Ataque:** Ao pisar no chão e ficar de pé, não pare. Imediatamente coloque o seu joelho sobre a barriga dele.
 6.  **Finalização da Defesa:** Com o joelho na barriga, posturado, abra o joelho dele com as mãos para estourar a pegada e estabilize a passagem ou a posição de domínio.
-
----
 
 ### 2ª Defesa: O "Pulinho" (Contra a pressão lateral)
 Use esta quando o adversário já virou de lado, colocando muita pressão, e você não consegue girar para subir da forma tradicional.
@@ -49,6 +41,12 @@ Use esta quando o adversário já virou de lado, colocando muita pressão, e voc
 ## Reserva 1. Defesa de Mata-Leão no Pé
 * **Como fazer:** O oponente segura seu pé e começa a torcer. Estique a perna atacada *para frente* (na direção do peito dele) para aliviar a pressão da torção. Use o pé livre para "chutar" a pegada dele (no pulso ou bíceps) e quebrar a alavanca. Role junto com o movimento se a pressão for muito forte. A defesa é o contrário da botinha: na botinha você empurra o pé, no Toe Hold você *estica* a perna para tirar o ângulo de 90 graus que ele precisa para torcer.
 * **Vídeo:**
+
 ## Reserva 2. Saída de Chave de Calcanhar
 * **Como fazer:** O oponente ataca seu calcanhar (girando para dentro ou fora). Acompanhe o giro *imediatamente* na mesma direção da torção (não resista contra). Enquanto gira, chute a perna dele para tirar o gancho que prende seu quadril ("descascar o gancho"). Esconda o calcanhar no chão ou vista a "bota" (pé de bailarina) assim que possível. O giro é de sobrevivência ("Gator Roll"). Você gira para dissipar a força rotacional. Se ficar parado, o joelho rompe.
-* **Vídeo:** [Como sair da Chave de Calcanhar (Heel Hook)](https://www.youtube.com/watch?v=cVHnm89qyok)
+* **Vídeo:** 
+
+## Reserva 3. Defesa de Botinha Reta
+* **Como fazer:** Quando o oponente encaixa a botinha e cai para trás. Imediatamente, "calce a bota" (empurre o pé para o fundo da axila dele) para aliviar a pressão no tornozelo. Segure a gola dele com as duas mãos e puxe-o para você, impedindo que ele estenda o corpo. Suba, pisando no chão com o pé atacado, e coloque o peso sobre a perna dele para desmanchar a guarda. Se ele girar para a barriga para baixo, você *precisa* acompanhar o giro e subir, senão a pressão quebra o pé. Use o pé livre para pisar no quadril dele e empurrar, tirando a pressão.
+* **Vídeo:** (https://www.youtube.com/watch?v=97ooErzTfuk) (https://www.youtube.com/shorts/yIaDVYicCDo)
+
