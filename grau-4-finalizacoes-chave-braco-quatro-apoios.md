@@ -2,6 +2,7 @@
 
 * Vídeo: (https://www.youtube.com/shorts/6jYheVK9PVY)
 * Vídeo: (https://www.youtube.com/shorts/CIzzt5c-OTk)
+* Vídeo: (https://www.youtube.com/shorts/CveuFqifuJM)
 
 
 ##  1. Tradicional
