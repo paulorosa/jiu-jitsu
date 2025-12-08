@@ -203,13 +203,13 @@
 - [ ] 9. Botinha (oponente girando para sair, no final aperta) 
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
-- [PENDENTE] 01. Defesa de Armlock da Guarda (Amassando)
-- [PENDENTE] 02. Defesa de Kimura (Contra-Kimura/Re-Kimura)
-- [PENDENTE] 03. Defesa de Americana do 100kg (Ponte e Cotovelo)
+- [] 1. Defesa de Armlock da Guarda (Amassando)
+- [] 2. Defesa de Kimura (Contra-Kimura/Re-Kimura)
+- [] 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
 
 ### Técnicas: 3 Saídas de Triângulo / Estrangulamento
-- [PENDENTE] 01. Defesa de Triângulo (Postura e Cotovelo)
-- [PENDENTE] 02. Saída de Triângulo Encaixado (Emborcada)
+- [] 1. Defesa de Triângulo (Postura e Cotovelo)
+- [] 2. Saída de Triângulo Encaixado (Emborcada)
 - [PENDENTE] 03. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
 ### Técnicas: 2 Saídas de Chave de Perna
