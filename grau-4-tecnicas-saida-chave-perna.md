@@ -5,11 +5,11 @@
 
 ## 1. Defesa de Botinha Reta
 * **Como fazer:** Quando o oponente encaixa a botinha e cai para trás. Imediatamente, "calce a bota" (empurre o pé para o fundo da axila dele) para aliviar a pressão no tornozelo. Segure a gola dele com as duas mãos e puxe-o para você, impedindo que ele estenda o corpo. Suba, pisando no chão com o pé atacado, e coloque o peso sobre a perna dele para desmanchar a guarda. Se ele girar para a barriga para baixo, você *precisa* acompanhar o giro e subir, senão a pressão quebra o pé. Use o pé livre para pisar no quadril dele e empurrar, tirando a pressão.
-* **Vídeo Sugerido:** [Duas formas de defender a Botinha Reta](https://www.youtube.com/watch?v=97ooErzTfuk)
+* **Vídeo:** (https://www.youtube.com/watch?v=97ooErzTfuk) (https://www.youtube.com/shorts/yIaDVYicCDo)
 
 ## 2. Defesa de Chave de Joelho
 * **Como fazer:** O oponente encaixa o joelho e estica. Cruze as suas pernas (faça um triângulo com seus pés) para travar a perna atacada com a perna livre. Isso impede a extensão total. Abrace a cabeça ou o corpo do oponente e puxe-o para perto, dobrando o seu joelho. Gire o corpo para o lado oposto ao da chave para soltar o joelho. O "triângulo de perna" é a salvação imediata. Depois, você precisa "descascar" o quadril dele de cima da sua perna.
- * **Vídeo:** [Defesa de Chave de Joelho (Kneebar)](https://www.youtube.com/watch?v=qoNjBo2QIds)
+ * **Vídeo:** (https://www.youtube.com/shorts/TZKz9fkDTpc)
 
 ---
 
@@ -48,8 +48,7 @@ Use esta quando o adversário já virou de lado, colocando muita pressão, e voc
 
 ## Reserva 1. Defesa de Mata-Leão no Pé
 * **Como fazer:** O oponente segura seu pé e começa a torcer. Estique a perna atacada *para frente* (na direção do peito dele) para aliviar a pressão da torção. Use o pé livre para "chutar" a pegada dele (no pulso ou bíceps) e quebrar a alavanca. Role junto com o movimento se a pressão for muito forte. A defesa é o contrário da botinha: na botinha você empurra o pé, no Toe Hold você *estica* a perna para tirar o ângulo de 90 graus que ele precisa para torcer.
-* **Vídeo:** [Ataque e Defesa do Mata Leão no Pé](https://www.youtube.com/watch?v=_6FlMrX2u1A)
-
+* **Vídeo:**
 ## Reserva 2. Saída de Chave de Calcanhar
 * **Como fazer:** O oponente ataca seu calcanhar (girando para dentro ou fora). Acompanhe o giro *imediatamente* na mesma direção da torção (não resista contra). Enquanto gira, chute a perna dele para tirar o gancho que prende seu quadril ("descascar o gancho"). Esconda o calcanhar no chão ou vista a "bota" (pé de bailarina) assim que possível. O giro é de sobrevivência ("Gator Roll"). Você gira para dissipar a força rotacional. Se ficar parado, o joelho rompe.
 * **Vídeo:** [Como sair da Chave de Calcanhar (Heel Hook)](https://www.youtube.com/watch?v=cVHnm89qyok)
