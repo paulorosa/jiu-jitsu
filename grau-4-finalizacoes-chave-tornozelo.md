@@ -5,6 +5,13 @@ Joelho reto
 Mata leão no pé
 Panturrilha
 
+
+1) Na guarda em pé, abaixa, envolve o pé com a faca da mão, pega no Kimono e estica o trono.
+2) Na guarda em pé, empurra uma das pernas, entra o joelho, abraça o outro pé com a faca da mão, pé colado, cai de lado, joelho com joelho, pé no peito e estica o tronco.
+3) Adversário nas costas, cruzou os pés, você fecha o triângulo nos pés dele e vai deitando para trás e empurrando com o quadril para cima.
+4) Na guarda fechada, mão para frente, levanta o quadril, sai andando para frente, estoura a guarda, abraça o pé com a faca da mão, pega o kimono, estica.
+
+    
 ### Chaves de Tornozelo (Botinha)
 
 ## 1. Botinha Reta (Pé no Quadril - Básica)
