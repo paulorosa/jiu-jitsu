@@ -1,5 +1,7 @@
 # 3o. Grau: Finalizações - 5 Chaves de Braço da Montada
 
+* Vídeo: [Kimura da Montada](https://www.youtube.com/watch?v=Jz8qBmx6KJA)
+* 
 Chave de braço americana
 Chave de braço clássica
 Estrangulamento Ezekiel
