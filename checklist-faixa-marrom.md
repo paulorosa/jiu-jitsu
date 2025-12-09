@@ -95,16 +95,19 @@
 - [ ] 14. Raspagem de Guarda Laço
  
 ### Finalizações: 4 Chaves de Braço da Guarda
-- [ ] 01. Armlock Clássico da Guarda Fechada
-- [ ] 02. Kimura da Guarda Fechada
-- [ ] 03. Omoplata
-- [ ] 04. Chave de Braço Duplo da Guarda
+- [ ] 1. Tradicional da Guarda Fechada (segura braço; segura ombro; fuga; perna por cima)
+- [ ] 2. Kimura da Guarda Fechada (passando a perna)
+- [ ] 3. Omoplata
+- [ ] 4. Chave de Braço Duplo (esmaga 2 braços e levanta quadril)
+- [ ] 5. Chave Reta
+- [ ] 6. Variações da Tradicional
 
 ### Finalizações: 4 Estrangulamentos da Guarda
-- [ ] 01. Estrangulamento Cruzado (Tradicional) (e com lapela)
-- [ ] 02. Mão na Lapela e Ombro
-- [ ] 03. Mão na Lapela e Cotovelo
-- [ ] 04. Amassa-Pão
+- [ ] 1. Cruzado (Tradicional) (e com lapela)
+- [ ] 2. Mão na Lapela e Ombro
+- [ ] 3. Mão na Lapela e Cotovelo
+- [ ] 4. Triângulo (puxar a cabeça)
+- [ ] 5. Ezequiel Crossface
 
 ----
 
