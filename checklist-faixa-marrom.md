@@ -41,21 +41,20 @@
 - [x] 8. Ipon Seoi-Nage (Queda de Ombro; posiciona pé meio da guarda oponente;dá um gancho/soco para cima no ombro oponente;agarra ombro; joga oponente por cima)
 
 ### Técnicas: 6 Imobilizações
-- [ ] 1. 100kg Tradicional
-- [ ] 2. 100kg Controle Lateral (Segura ombro; cotovelo quadril)
-- [ ] 3. 100kg Invertido (Esgrima do Braço Oposto)
-- [ ] 4. Joelho na Barriga
-- [ ] 5. Norte-Sul (Variação 1: 2 braços à frente)
-- [ ] 6. Norte-Sul (Variação 2: 1 Braço para frente)
-- [ ] 7. Norte-Sul (Variação 3: 2 braços atrás)
-- [ ] 8. 4 Apoios Lateral (segurando no outrol joelho do oponente)
+- [x] 1. 100kg Tradicional
+- [x] 2. 100kg Controle Lateral (Segura braço/ombro oponente; cotovelo quadril)
+- [x] 3. 100kg Invertido (Braço Oposto na axila oponente)
+- [x] 5. Norte-Sul (Variação 1: 2 braços à frente)
+- [x] 5. Norte-Sul (Variação 1: 1 braços à frente)
+- [x] 6. Norte-Sul (Variação 2: 2 Braços para trás)
+- [ ] X. Joelho na Barriga
 
 ### Técnicas: 4 Saídas de Imobilização
-- [ ] 1. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
-- [ ] 2. Saída da Montada (Girando o oponente)
-- [ ] 3. Saída Montada (Reposição Meia-Guarda)
-- [ ] 4. Saída Montada (Reposição Guarda Borboleta)
-- [ ] 5. Saída de 4 Apoios (Empurra joelho, repõe meia-guarda)
+- [x] 1. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
+- [x] 2. Saída da Montada (Girando oponente)
+- [x] 3. Saída Montada (Reposição Meia-Guarda)
+- [x] 4. Saída Montada (Reposição Guarda Borboleta)
+- [ ] X. Saída de 4 Apoios (Empurra joelho, repõe meia-guarda)
 
 ---
 
