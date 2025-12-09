@@ -61,22 +61,21 @@
 ## 🟪 2º GRAU: O Jogo de Guarda (34 Técnicas)
 
 ### Técnicas: 4 Aberturas de Guarda
-- [ ] 1. Abertura em Pé (Postura Básica; segura 1 mão; sobre outro pé, empurra joelho)
-- [ ] 2. Abertura Ajoelhado (Joelho no Cócix)
-- [ ] 3. Abertura (Estourando o Cadeado)
-- [ ] 4. Abertura Lateral Ajoelhado (segura manga cruzado, emprura joelho do mesmo lado)
+- [x] 1. Guarda Fechada Sentado (segura calça/faixa;Estourando o Cadeado)
+- [x] 2. Guarda Fechada em Pé (Pegada mão direita 2 partes kimono;mão esquerda manga oponente;sobe com mesmo pé; empurra joelho)
+- [x] 3. Abertura Lateral Ajoelhado (segura manga cruzado;emprura joelho do mesmo lado;empurra joelho)
+- [?] 4. Abertura Cócix (segura kimono uma mão;segura manga outra mão; levanta; vai para trás;Joelho no Cócix;empurra joelho)
 
 ### Técnicas: 8 Passagens de Guarda
-- [ ] 1. Guarda Fechada (levanta e passa 1 perna)
-- [ ] 2. Guarda Fechada (emborcada)
-- [ ] 3. Guarda Aberta (toreando) (joga e cai )
-- [ ] 4. Guarda Aberta (cruzando o joelho)
-- [ ] 5. Guarda Aberta (volante caminhão)
-- [ ] 6. Guarda Aranha (Ponto Morto)
-- [ ] 7. Guarda Aranha (Estourar com 1 Perna)
-- [ ] 8. Meia Guarda (Esgrima e Slide)
-- [ ] 9. Guarda Aberta (puxa e cai na lateral do ombro)
-- [ ] 10. Lapela e joelho na barriga passando 
+- [x] 1. Guarda Fechada (segura kimono;pegada manga;levanta;passa 1 perna)
+- [x] 2. Guarda Fechada (antes de entrar na guardas fechada; emborcada)
+- [x] 3. Guarda Aberta (toreando)(pegada nas duas barras;toreia para lado;joga mãos para chão;cai 100kg)
+- [x] 4. Guarda Aberta (pé esquerdo no joelho direito oponente; chuta; cruzando o joelho)
+- [x] 5. Guarda Aberta (volante caminhão;mão esquerda na manga direita opononente;mão direita na barra calça esquerda oponente;gira;cai 100kg)
+- [x] 6. Guarda Aranha (Ponto Morto; puxa as duas e cai nos 100kg)
+- [x] 7. Guarda Aranha (Perna Esticada;Estoura Perna Esticada e cai para 100kg do outro lado)
+- [x] 8. Meia Guarda (Esgrima e Slide)
+- [?] X. Guarda Aberta (puxa e cai na lateral do ombro)
 
 ### Técnicas: 14 Raspagens
 - [ ] 01. Tesoura (da Guarda Fechada)
