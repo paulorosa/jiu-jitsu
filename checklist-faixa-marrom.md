@@ -26,19 +26,19 @@
 - [ ] X. Tradicional (braço direito abraça braço esquerdo;gira passando a perna por cima da cabeça; cai no arm-lock)
 
 ### Finalizações: 2 Estrangulamentos da Meia-Guarda
-- [ ] 1. Ezequiel (ou Ezequiel Crossface)
-- [ ] 2. Lapela (braço agarrado pescoço e segurando a lapela)
-- [ ] 3. Lapela Invertido (pegada na lapela com mão invertida ao lado pescoço; passa braço direto para outro lado cabeça oponente)
+- [x] 1. Ezequiel
+- [x] 2. Lapela (esgrimado;passa lapela oponente por trás da cabeça;pegada na lapela com mão direita invertida ao lado pescoço;passa braço direto para outro lado cabeça oponente);amassa)
+- [ ] X. Ezequiel Crossface
 
 ### Técnicas: 8 Quedas
-- [ ] 1. Single Leg (Catada de Perna)
-- [ ] 2. Double Leg (Mãos Juntas)
-- [ ] 3. Baiana (Mãos Separadas)
-- [ ] 4. Ouchi-Gari (Grancho por dentro - perna direita)
-- [ ] 5. Couchi-Gari (perna para dentro - perna esquerda)
-- [ ] 6. Osotogari (gancho para fora - rasteira 1 perna)
-- [ ] 7. Ostotoguruma (gancho para fora - rasteira 2 pernas)
-- [ ] 8. Ipon Seoi-Nage (Queda de Ombro)
+- [x] 1. Single Leg (Catada de Perna entre as pernas;pinça perna;solta perna; empurra)
+- [x] 2. Double Leg (Mãos Juntas para juntar duas pernas empurrando)
+- [x] 3. Baiana (Mãos Separadas para puxar pelo joelho e empurrar com ombro)
+- [x] 4. Ouchi-Gari (Grancho por dentro - perna direita)
+- [x] 5. Couchi-Gari (perna para dentro - perna esquerda)
+- [x] 6. Osotogari (gancho para fora - rasteira 1 perna)
+- [x] 7. Ostotoguruma (gancho para fora - rasteira 2 pernas)
+- [x] 8. Ipon Seoi-Nage (Queda de Ombro; posiciona pé meio da guarda oponente;dá um gancho/soco para cima no ombro oponente;agarra ombro; joga oponente por cima)
 
 ### Técnicas: 6 Imobilizações
 - [ ] 1. 100kg Tradicional
