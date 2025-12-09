@@ -5,21 +5,24 @@
 ## 🟦 1º GRAU: Fundamentos e Domínio Lateral (31 Técnicas)
 
 ### Finalizações: 5 Chaves de Braço do 100kg
-- [ ] 01. Americana
-- [ ] 02. Americana Extendida (Chave de Braço Reta)
-- [ ] 03. Kimura Invertido (passando perna na cabeça)
-- [ ] 04. Armlock (pegando braço do oponente fugindo)
-- [ ] 05. Armlock Invertido (pega o outro braço
+- [ ] 1. Americana
+- [ ] 2. Americana Extendida (Chave de Braço Reta)
+- [ ] 3. Kimura Invertido (passando perna na cabeça)
+- [ ] 4. Oponente fugindo (pegan braço do oponente)
+- [ ] 5. Reta (levanta perna; pega o outro braço entre axila)
+- [ ] 6. Reta (levanta perna; pega o outro braço fora cabeça)
 
 ### Finalizações: 3 Estrangulamentos do 100kg
-- [ ] 01. Ezequiel
-- [ ] 02. Enforcamento 2 Golas
-- [ ] 03. Enforcamento 1 Gola (passa outro braço por cima e puxa ombro)
+- [ ] 1. Ezequiel (também Amassa-Pão)
+- [ ] 2. Enforcamento 1 Gola (passa outro braço por cima da cabeça e puxa o ombro)
+- [ ] 3. Enforcamento 1 Gola (braço ebaixo axila e outro braço)
+- [ ] 4. Lapela Tipoia (usa kimono oponente p/ tipoia e puxa com dois braços)
 
 ### Finalizações: 3 Chaves de Braço da Meia-Guarda
-- [ ] 01. Kimura
-- [ ] 02. Americana
-- [ ] 03. Arm-Lock (passando a perna por cima da cabeça)
+- [ ] 1. Americana Tradicional (por cima)
+- [ ] 2. Americana Extendida (por cima)
+- [ ] 3. Kimura (meia-guarda por baixo)
+- [ ] 4. Arm-Lock (passando a perna por cima da cabeça)
 
 ### Finalizações: 2 Estrangulamentos da Meia-Guarda
 - [ ] 01. Ezequiel
