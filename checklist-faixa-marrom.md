@@ -67,14 +67,16 @@
 - [ ] 4. Abertura Lateral Ajoelhado (segura manga cruzado, emprura joelho do mesmo lado)
 
 ### Técnicas: 8 Passagens de Guarda
-- [ ] 1. Guarda Fechada (puxando 1 perna)
-- [ ] 2. Volante Caminhão
-- [ ] 3. Guarda-Aranha (Ponto Morto)
-- [ ] 4. Guarda-Aranha (1 Perna) (estourar a perna)
-- [ ] 5. Emborcada
-- [ ] 6. Toreando
-- [ ] 7. Cruzando o Joelho
-- [ ] 8. Passagem de Meia-Guarda (Esgrima e Slide)
+- [ ] 1. Guarda Fechada (levanta e passa 1 perna)
+- [ ] 2. Guarda Fechada (emborcada)
+- [ ] 3. Guarda Aberta (toreando) (joga e cai )
+- [ ] 4. Guarda Aberta (cruzando o joelho)
+- [ ] 5. Guarda Aberta (volante caminhão)
+- [ ] 6. Guarda Aranha (Ponto Morto)
+- [ ] 7. Guarda Aranha (Estourar com 1 Perna)
+- [ ] 8. Meia Guarda (Esgrima e Slide)
+- [ ] 9. Guarda Aberta (puxa e cai na lateral do ombro)
+- [ ] 10. Lapela e joelho na barriga passando 
 
 ### Técnicas: 14 Raspagens
 - [ ] 01. Tesoura (da Guarda Fechada)
