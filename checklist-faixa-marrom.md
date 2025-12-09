@@ -25,32 +25,36 @@
 - [ ] 4. Arm-Lock (passando a perna por cima da cabeça)
 
 ### Finalizações: 2 Estrangulamentos da Meia-Guarda
-- [ ] 01. Ezequiel
-- [ ] 02. Ezequiel Crossface ou (Estrangulamento Rodado (Lapela Oponente))
+- [ ] 1. Ezequiel (ou Ezequiel Crossface)
+- [ ] 2. Lapela (braço agarrado pescoço e segurando a lapela)
+- [ ] 3. Lapela Invertido (pegada na lapela com mão invertida ao lado pescoço; passa braço direto para outro lado cabeça oponente)
 
 ### Técnicas: 8 Quedas
-- [ ] 01. Single Leg (Catada de Perna)
-- [ ] 02. Double Leg (Mãos Juntas)
-- [ ] 03. Baiana (Mãos Separadas)
-- [ ] 04. Ouchi-Gari (Grancho por dentro - perna direita)
-- [ ] 05. Couchi-Gari (perna para dentro - perna esquerda)
-- [ ] 06. Osotogari (gancho para fora - rasteira 1 perna)
-- [ ] 07. Ostotoguruma (gancho para fora - rasteira 2 pernas)
-- [ ] 08. Ipon Seoi-Nage (Queda de Ombro)
+- [ ] 1. Single Leg (Catada de Perna)
+- [ ] 2. Double Leg (Mãos Juntas)
+- [ ] 3. Baiana (Mãos Separadas)
+- [ ] 4. Ouchi-Gari (Grancho por dentro - perna direita)
+- [ ] 5. Couchi-Gari (perna para dentro - perna esquerda)
+- [ ] 6. Osotogari (gancho para fora - rasteira 1 perna)
+- [ ] 7. Ostotoguruma (gancho para fora - rasteira 2 pernas)
+- [ ] 8. Ipon Seoi-Nage (Queda de Ombro)
 
 ### Técnicas: 6 Imobilizações
-- [ ] 01. 100kg Tradicional (Controle Lateral / Abraçando Pescoço)
-- [ ] 02. 100kg Invertido (Esgrima do Braço Oposto)
-- [ ] 03. Joelho na Barriga
-- [ ] 04. Norte-Sul (Variação 1: dois braços à frente)
-- [ ] 05. Norte-Sul (Variação 2: 1 Braço para frente)
-- [ ] 06. Montada
+- [ ] 1. 100kg Tradicional
+- [ ] 2. 100kg Controle Lateral (Segura ombro; cotovelo quadril)
+- [ ] 3. 100kg Invertido (Esgrima do Braço Oposto)
+- [ ] 4. Joelho na Barriga
+- [ ] 5. Norte-Sul (Variação 1: 2 braços à frente)
+- [ ] 6. Norte-Sul (Variação 2: 1 Braço para frente)
+- [ ] 7. Norte-Sul (Variação 3: 2 braços atrás)
+- [ ] 8. 4 Apoios Lateral (segurando no outrol joelho do oponente)
 
 ### Técnicas: 4 Saídas de Imobilização
-- [ ] 01. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
-- [ ] 02. Saída de Ponte (Upa no 100kg)
-- [ ] 03. Saída da Montada (Pegando as costas ou girando o oponente)
-- [ ] 04. Saída de 4 Apoios (Empurra joelho, repõe meia-guarda)
+- [ ] 1. Reposição de 100kg (Cotovelo/Joelho - repõe guarda)
+- [ ] 2. Saída da Montada (Girando o oponente)
+- [ ] 3. Saída Montada (Reposição Meia-Guarda)
+- [ ] 4. Saída Montada (Reposição Guarda Borboleta)
+- [ ] 5. Saída de 4 Apoios (Empurra joelho, repõe meia-guarda)
 
 ---
 
