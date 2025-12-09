@@ -61,20 +61,20 @@
 ## 🟪 2º GRAU: O Jogo de Guarda (34 Técnicas)
 
 ### Técnicas: 4 Aberturas de Guarda
-- [ ] 01. Abertura em Pé (Postura Básica)
-- [ ] 02. Abertura Ajoelhado (Joelho no Cócix)
-- [ ] 03. Abertura (Estourando o Cadeado)
-- [ ] 04. Abertura em Pé (Levantando empurrando com o braço que segura o kimono)
+- [ ] 1. Abertura em Pé (Postura Básica; segura 1 mão; sobre outro pé, empurra joelho)
+- [ ] 2. Abertura Ajoelhado (Joelho no Cócix)
+- [ ] 3. Abertura (Estourando o Cadeado)
+- [ ] 4. Abertura Lateral Ajoelhado (segura manga cruzado, emprura joelho do mesmo lado)
 
 ### Técnicas: 8 Passagens de Guarda
-- [ ] 01. Guarda Fechada (puxando 1 perna)
-- [ ] 02. Volante Caminhão
-- [ ] 03. Guarda-Aranha (Ponto Morto)
-- [ ] 04. Guarda-Aranha (1 Perna) (estourar a perna)
-- [ ] 05. Emborcada
-- [ ] 06. Toreando
-- [ ] 07. Cruzando o Joelho
-- [ ] 08. Passagem de Meia-Guarda (Esgrima e Slide)
+- [ ] 1. Guarda Fechada (puxando 1 perna)
+- [ ] 2. Volante Caminhão
+- [ ] 3. Guarda-Aranha (Ponto Morto)
+- [ ] 4. Guarda-Aranha (1 Perna) (estourar a perna)
+- [ ] 5. Emborcada
+- [ ] 6. Toreando
+- [ ] 7. Cruzando o Joelho
+- [ ] 8. Passagem de Meia-Guarda (Esgrima e Slide)
 
 ### Técnicas: 14 Raspagens
 - [ ] 01. Tesoura (da Guarda Fechada)
