@@ -114,20 +114,17 @@
 ## 🟫 3º GRAU: Transições e Dinâmica (23 Técnicas)
 
 ### Técnicas: 2 Idas para Montada
-- [ ] 01. Ida para a Montada (do 100kg) (invertido)
-- [ ] 02. Ida para a Montada (da Meia-Guarda)
+- [ ] 1. do 100kg invertido (pegar no calcanhar)
+- [ ] 2. da Meia Guarda por cima
 
 ### Técnicas: 3 Saídas da Montada
-- [ ] 01. Saída da Montada (Upa/Ponte) (pega 2 pernas, levantae vai guarda borboleta)
-- [ ] 02. Saída da Montada (Cotovelo/Joelho)
-- [ ] 03. Saída da Montada (Pé com Pé)
+- [ ] 1. Upa/Ponte (pega 2 pernas;levanta; guarda borboleta)
+- [ ] 2. Cotovelo/Joelho (gira) (prende joelho;prende com braço oposto; outra mão emprura para ajudar virar)
+- [ ] 3. Reposição Meia-Guarda (pega na calça; faz upa e entra meia-guarda)
 
 ### Técnicas: 2 Saídas de Joelho na Barriga
-- [ ] 01. Reposição de Guarda
-      duas mãso, empurra, pega na manga e puxa
-- [ ] 02. Saída rodando para Single Leg
-      pega o braço por baixo, como o mesmo braço, puxa e empurra o peito.
-      pegando a faixa/caça e rodando (single leg)
+- [ ] 1. Reposição de Guarda (duas mãos, empurra, pega na manga e puxa)
+- [ ] 2. Saída rodando para Single Leg (pega o braço por baixo, como o mesmo braço, puxa e empurra o peito;pegando a faixa/caça e rodando (single leg))
 
 ### Técnicas: 4 Saídas da Meia-Guarda (Por Cima)
 - [ ] 01. Joelho para fora (cabeça no chao no mesmo lado)
