@@ -5,12 +5,12 @@
 ## 🟦 1º GRAU: Fundamentos e Domínio Lateral (31 Técnicas)
 
 ### Finalizações: 5 Chaves de Braço do 100kg
-- [ OK ] 1. Americana
-- [ ] 2. Americana Extendida (Chave de Braço Reta)
-- [ ] 3. Kimura Invertido (100kg invertido; kimura passando perna na cabeça oponente)
-- [ ] 4. Oponente fugindo (pegan braço do oponente)
-- [ ] 5. Reta (levanta perna; pega o outro braço entre axila)
-- [ ] 6. Reta (levanta perna; pega o outro braço fora cabeça)
+- [x] 1. Americana
+- [x] 2. Americana Extendida (Chave de Braço Reta)
+- [x] 3. Kimura Invertido (100kg invertido; kimura passando perna na cabeça oponente)
+- [x] 4. Oponente fugindo (pegando braço do oponente fugindo)
+- [x] 5. Reta (100kg invertido; levanta perna; pega o outro braço entre axila)
+- [ ] 6. Reta (100kg invertido; levanta perna; pega o outro braço fora cabeça)
 
 ### Finalizações: 3 Estrangulamentos do 100kg
 - [ ] 1. Ezequiel (também Amassa-Pão)
