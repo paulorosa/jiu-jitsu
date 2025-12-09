@@ -10,7 +10,7 @@
 - [x] 3. Kimura Invertido (100kg invertido; kimura passando perna na cabeça oponente)
 - [x] 4. Oponente fugindo (pegando braço do oponente fugindo)
 - [x] 5. Reta (100kg invertido; levanta perna; pega o outro braço entre axila)
-- [ ] 6. Reta (100kg invertido; levanta perna; pega o outro braço fora cabeça)
+- [ ] Reta (100kg invertido; levanta perna; pega o outro braço fora cabeça)
 
 ### Finalizações: 3 Estrangulamentos do 100kg
 - [ ] 1. Ezequiel (também Amassa-Pão)
