@@ -10,19 +10,20 @@
 - [x] 3. Kimura Invertido (100kg invertido; kimura passando perna na cabeça oponente)
 - [x] 4. Oponente fugindo (pegando braço do oponente fugindo)
 - [x] 5. Reta (100kg invertido; levanta perna; pega o outro braço entre axila)
-- [ ] Reta (100kg invertido; levanta perna; pega o outro braço fora cabeça)
+- [ ] X. Reta (100kg invertido; levanta perna; pega o outro braço fora cabeça)
 
 ### Finalizações: 3 Estrangulamentos do 100kg
-- [ ] 1. Ezequiel (também Amassa-Pão)
-- [ ] 2. Enforcamento 1 Gola (passa outro braço por cima da cabeça e puxa o ombro)
-- [ ] 3. Enforcamento 1 Gola (braço ebaixo axila e outro braço)
-- [ ] 4. Lapela Tipoia (usa kimono oponente p/ tipoia e puxa com dois braços)
+- [x] 1. Ezequiel (também Amassa-Pão)
+- [x] 2. Enforcamento 1 Gola (mão direita dentro gola esquerda oponente; passa outro braço por cima da cabeça; puxa o ombro)
+- [x] 3. Enforcamento 1 Gola (mão esquerda dentro gola direita oponente; braço embaixo axila; amassa ombro oponente)
+- [ ] X. Amassa Pão
+- [ ] Y. Lapela Tipoia (usa kimono oponente p/ tipoia e puxa com dois braços)
 
 ### Finalizações: 3 Chaves de Braço da Meia-Guarda
-- [ ] 1. Americana Tradicional (por cima)
-- [ ] 2. Americana Extendida (por cima)
-- [ ] 3. Kimura (meia-guarda por baixo)
-- [ ] 4. Arm-Lock (passando a perna por cima da cabeça)
+- [x] 1. Americana Tradicional (por cima)
+- [x] 2. Americana Extendida (por cima)
+- [x] 3. Kimura (por baixo)
+- [ ] X. Tradicional (braço direito abraça braço esquerdo;gira passando a perna por cima da cabeça; cai no arm-lock)
 
 ### Finalizações: 2 Estrangulamentos da Meia-Guarda
 - [ ] 1. Ezequiel (ou Ezequiel Crossface)
