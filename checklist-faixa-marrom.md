@@ -80,6 +80,7 @@
 ### Técnicas: 14 Raspagens
 - [ ] 1. Guarda Fechada (Tesoura)
 - [ ] 2. Guarda Fechada (Empurrando Joelho)
+- [ ] 3. Guarda Fechada (Kimura Barrigando)
 - [ ] 3. Raspagem de Quadril no Joelho (da Guarda Fechada)
 - [ ] 4. Raspagem de Gancho (da Guarda Fechada)
 - [ ] 5. Raspagem de Gancho Cruzada (da Guarda Borboleta)
@@ -96,7 +97,7 @@
 ### Finalizações: 4 Chaves de Braço da Guarda
 - [?] 1. Tradicional da Guarda Fechada (sai guarda fechada;segura braço; segura ombro; fuga; perna por cima)
 - [x] 2. Omoplata
-- [x] 3. Chave de Braço Duplo (esmaga 2 braços e levanta quadril)
+- [x] 3. Chave de Braço Duplo (juntar 2 braços e levanta quadril para esmagar)
 - [?] 4. Kimura da Guarda Fechada (passando a perna)
 - [?] X. Variação Guarda Fechada Tradicional
 - [?] Y. Chave Reta
@@ -183,9 +184,11 @@
 - [?] X. com braço esquerdo, abraça braço direito )
 
 ### Finalizações: 3 Estrangulamentos do Quatro Apoioos
-- [?] 1. Reloginho (mão por dentro na lapela do oponente por dentro; outra mão calça pé)
-- [?] 2. Estrangulamento Relógio (pegar gancho e puxar mangas)
-- [?] 3. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
+- [x] 1. Ezequiel
+- [x] 2. Amassa Pão
+- [x] 3. Reloginho do 4 apoios em Pé ( (mão por dentro na lapela do oponente por dentro; outra mão calça pé))
+- [?] X. Estrangulamento Relógio (pegar gancho e puxar mangas)
+- [?] Y. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
 
 ### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
 - [ ] 1. Guarda em Pé (pega pé entre braço e axila; outra mão para fixar e puxa)
@@ -208,16 +211,18 @@
 
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
-- [x] 1. Defesa de Omoplata (Cambalhota)
-- [x] 2. Defesa de Armlock da Guarda (Amassando)
-- [x] 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
-- [x] X. Defesa de Omoplata (Pulando)
-- [x] Y. Defesa de Kimura (Contra-Kimura)
+- [x] 1. da Chave de Braço no Chão (saída para lado do chão; passa o pé com a mão primeiro)
+- [x] 2. Defesa de Omoplata (Cambalhota)
+- [x] 3. Defesa de Armlock da Guarda (Amassando)
+- [ ] X. Defesa de Americana do 100kg (Ponte e Cotovelo)
+- [ ] Y. Defesa de Omoplata (Pulando)
+- [ ] Z. Defesa de Kimura (Contra-Kimura)
 
 ### Técnicas: 3 Saídas de Triângulo / Estrangulamento
-- [x] 1. Defesa de Triângulo (Postura e Cotovelo)
-- [x] 2. Saída de Triângulo Encaixado (Emborcada)
-- [x] 3. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
+- [?] 1. Saída de Triângulo Encaixado (Emborcada)(amassando e empurra para outro lado)
+- [?] 2. Amassando (levanta amassando e vira para o outro lado)
+- [?] 3. Saída Triângulo (levanta e pisa no bíceps do oponente no chão)
+- [?] X. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
 ### Técnicas: 2 Saídas de Chave de Perna
 - [?] 1. Defesa de Botinha Reta (faz rolamento para o lado)
