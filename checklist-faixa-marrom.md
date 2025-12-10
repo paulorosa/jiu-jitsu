@@ -78,8 +78,8 @@
 - [?] X. Guarda Aberta (puxa e cai na lateral do ombro)
 
 ### Técnicas: 14 Raspagens
-- [ ] 1. Tesoura (da Guarda Fechada)
-- [ ] 2. Pêndulo (da Guarda Fechada)
+- [ ] 1. Guarda Fechada (Tesoura)
+- [ ] 2. Guarda Fechada (Empurrando Joelho)
 - [ ] 3. Raspagem de Quadril no Joelho (da Guarda Fechada)
 - [ ] 4. Raspagem de Gancho (da Guarda Fechada)
 - [ ] 5. Raspagem de Gancho Cruzada (da Guarda Borboleta)
