@@ -114,28 +114,29 @@
 ## 🟫 3º GRAU: Transições e Dinâmica (23 Técnicas)
 
 ### Técnicas: 2 Idas para Montada
-- [ ] 1. do 100kg invertido (pegar no calcanhar)
-- [ ] 2. da Meia Guarda por cima
+- [x] 1. do 100kg Invertido (pegar no calcanhar)
+- [x] 2. da Meia Guarda por cima (Esgrima lado montada;cabeça no chão; levanta quadril;passa joelho;com outra perna empurra outro joelho)
+- [ ] X. do 100kg Invertido (quando oponente posição lendo jornal; pegar no calcanhar;ir para montada)
 
 ### Técnicas: 3 Saídas da Montada
-- [ ] 1. Upa/Ponte (pega 2 pernas;levanta; guarda borboleta)
-- [ ] 2. Cotovelo/Joelho (gira) (prende joelho;prende com braço oposto; outra mão emprura para ajudar virar)
-- [ ] 3. Reposição Meia-Guarda (pega na calça; faz upa e entra meia-guarda)
+- [x] 1. Upa/Ponte (pega 2 pernas;levanta; guarda borboleta)
+- [x] 2. Cotovelo/Joelho (gira) (prende joelho;prende com braço oposto; outra mão emprura para ajudar virar)
+- [x] 3. Reposição Meia-Guarda (pega na calça; faz upa e entra meia-guarda)
 
 ### Técnicas: 2 Saídas de Joelho na Barriga
-- [ ] 1. Reposição de Guarda (duas mãos, empurra, pega na manga e puxa)
-- [ ] 2. Saída rodando para Single Leg (pega o braço por baixo, como o mesmo braço, puxa e empurra o peito;pegando a faixa/caça e rodando (single leg))
+- [x] 1. Reposição de Guarda (duas mãos, empurra, pega na manga e puxa)
+- [x] 2. Saída rodando para Single Leg (pega o braço por baixo, como o mesmo braço, puxa e empurra o peito;pegando a faixa/caça e rodando (single leg))
 
 ### Técnicas: 4 Saídas da Meia-Guarda (Por Cima)
-- [ ] 01. Joelho para fora (cabeça no chao no mesmo lado)
-- [ ] 02. Joelho para Montada (empurra)
-- [ ] 03. Joelho com mão no ombro
-- [ ] 04. Joelho Ivertido (vira para o outro lado, empurra mão e é para sair)
+- [x] 1. Joelho para dentro (esgrima lado saída 100kg;cabeça no chao no mesmo lado;levanta;desce joelho;empurra com outro;vai para 100kg)
+- [x] 2. Joelho para Montada (igual ida para montada)
+- [x] 3. Guarda Escudo (uma mão na gola;outra mão joelho adversário entre pernas;levanta quadril;sprawl; Joelho com mão no ombro
+- [x] 4. Joelho Invertido (esgrima lado montada;levanta;escorrega corpo para o outro lado;empurra joelho oponente com mão;empurra pé;vai para 100kg invertido)
 
-### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)  (iguala 2 dias para costas)
-- [ ] 01. Reposição para Guarda Fechada (empurra o joelho e repõe)
-- [ ] 02. Reposição para Guarda Fechada (1. puxa para cair sentado)
-- [ ] 03. Reposição para Guarda Fechada (2. se estiver difícil, vai para 4 apoios)
+### Técnicas: 3 Saídas da Meia-Guarda (Por Baixo)  (igual 2 idas para costas)
+- [x] 1. Reposição para Guarda Fechada (empurra o joelho e repõe meia-guarda)
+- [x] 2. Reposição para Guarda Fechada (puxa para cair sentado)
+- [x] 3. Reposição para Guarda Fechada (estiver difícil, vai para 4 apoios)
 
 ### Finalizações: 5 Chaves de Braço da Montada
 - [ ] 01. Armlock da Montada (braçco esticado para trás
