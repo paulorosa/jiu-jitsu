@@ -67,15 +67,18 @@
 - [?] 4. Abertura Cócix (segura kimono uma mão;segura manga outra mão; levanta; vai para trás;Joelho no Cócix;empurra joelho)
 
 ### Técnicas: 8 Passagens de Guarda
-- [x] 1. Guarda Fechada (segura kimono;pegada manga;levanta;passa 1 perna)
-- [x] 2. Guarda Fechada (antes de entrar na guardas fechada; emborcada)
-- [x] 3. Guarda Aberta (toreando)(pegada nas duas barras;toreia para lado;joga mãos para chão;cai 100kg)
-- [x] 4. Guarda Aberta (pé esquerdo no joelho direito oponente; chuta; cruzando o joelho)
-- [x] 5. Guarda Aberta (volante caminhão;mão esquerda na manga direita opononente;mão direita na barra calça esquerda oponente;gira;cai 100kg)
-- [x] 6. Guarda Aranha (Ponto Morto; puxa as duas e cai nos 100kg)
-- [?] 7. Guarda Aranha (Perna Esticada;Estoura Perna Esticada e cai para 100kg do outro lado)
-- [?] 8. Meia Guarda (Esgrima e Slide)
-- [?] X. Guarda Aberta (puxa e cai na lateral do ombro)
+- [x] 1. Guarda Fechada (2 golas) (segura golas;pegada manga;mão livre empurra joelho;vai para trás;abaixa e 100kg)
+- [x] 2. Guarda Fechada (Lapela + Axilas) (abertura lapela;trava axilas;levanta;afasta quadril;para trás;depois que abre, 100kg)
+- [x] 3. Guarda Fechada (Estourando Cadeado) (Pegada faixa; estoura cadeado)
+- [x] 4. Guarda Fechada (Emborcada) (antes de entrar na guardas fechada; emborcada)
+- [x] 5. Guarda Aberta (toreando)(pegada nas duas barras;toreia para lado;joga mãos para chão;cai 100kg)
+- [x] 6. Guarda Aberta (pé esquerdo no joelho direito oponente; chuta; cruzando o joelho)
+- [x] 7. Guarda Aberta (volante caminhão;mão esquerda na manga direita opononente;mão direita na barra calça esquerda oponente;gira;cai 100kg)
+- [x] 86. Guarda Aranha (Ponto Morto; puxa as duas e cai nos 100kg)(fechar cotovelo;puxar para trás;tira pé biceps;torea;movimenta para lado)
+- [?] X. Guarda Aranha (Perna Esticada;Estoura Perna Esticada e cai para 100kg do outro lado)(soltar mão que está por baixo, fazendo rodopío;quando solta, afasta trás;avança lateral;repoe guarda 100kg)
+- [?] X. Guarda Aranha (Empurra para frente)
+- [?] Y. Guarda Laço (saída para o lado da laçada)
+- [?] Z. Aberturas das meia-guarda por cima/baixo.
 
 ### Técnicas: 14 Raspagens
 - [ ] 1. Guarda Fechada (Tesoura)
