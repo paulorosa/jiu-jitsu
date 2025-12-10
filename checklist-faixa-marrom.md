@@ -139,57 +139,53 @@
 - [x] 3. Reposição para Guarda Fechada (estiver difícil, vai para 4 apoios)
 
 ### Finalizações: 5 Chaves de Braço da Montada
-- [ ] 01. Armlock da Montada (braçco esticado para trás
-- [ ] 02. Estrangulamento Cruzado da Montada
-- [ ] 03. Ezequiel da Montada
-- [ ] 04. Katagatame da Montada
-- [ ] 05. Triângulo de Mão da Montada
-(detalhe geral - puxar e esticar o braço)
-
-1. americana
-2. americana extendida
-3. armlock (braço esticado para frente)
-5. braço esticado por baixo axila e pé atrás (katagatami)
+- [x] 1. Americana Tradicional
+- [x] 2. Americana Extendida
+- [x] 3. Perna Levantada (braço oponente entre axila e perna, esticado para trás;puxar e esticar o braço)
+- [x] 4. Perna Levantada (braço oponente entre cabeça e perna, esticado para trás;puxar e esticar o braço)
+- [?] 5. Tradicional (levanta perna;pega braço esticado;cai para chave de braço)
 
 ### Finalizações: 2 Estrangulamentos da Montada
-- [ ] 01.  Ezequiel (e amassa-pão também)
-- [ ] 02.  Kimono por volta da cabeça (estrangulamento de lapela na montada)
+- [x] 1. Ezequiel
+- [x] 2. Kimono por volta da cabeça (estrangulamento de lapela na montada;outra mão no ombro)
+- [ ] X. Amassa Pão (empurra maxilar)
 
 ### Finalizações: 2 Joelhos na Barriga dos 100 Kg
-- [ ] 01. Armlock do Joelho na Barriga (Girando) (1. Cruzado)
-- [ ] 02. Estrangulamento Cruzado (2. pega lapela e cruza)
-(os dois casos precisam pesar para amassar)
+- [x] 1. Armlock do Joelho na Barriga (Girando) (oponente com mãos no joelho;braço direito agarra braço esquerdo oponente; gira para lateral oponente; aplica armlock)
+- [x] 2. Esmagamento Barriga (um ma mão pega lapela;outra mão pega fitilho da calça ou faixa; puxar)
 
 ---
 
 ## ⬛ 4º GRAU: Especialização e Defesa Pessoal (30 Técnicas)
 
 ### Técnicas: 2 Idas para as Costas (igual da meia-guarda)
-- [ ] 1. Ida para as Costas da Meia-Guarda terminando no 4 Apoios.
-- [ ] 2. Ida para as Costas da Meia-Guarda puxando pelo quadril para terminar no chão.
+- [x] 1. Ida para as Costas da Meia-Guarda terminando no 4 Apoios.
+- [x] 2. Ida para as Costas da Meia-Guarda puxando pelo quadril para terminar no chão.
 
 ### Técnicas: 2 Saídas da Costas
-- [ ] 1. Saída das Costas (Caso 1: antes de fazer o seatbelt) (Sai do Seat Belt, tomba, trás pé com joelho, triângulo pelo calcanhar, vai para 100 kg) (Para o lado do braço)
-- [ ] 2. Saída das Costas (Caso 1: Depois de fazer o seatbelt) (Mão oposta na lapela;levantada;giro para tirar perna; com outra mão tira o outro pé; ida para o 100kg) (Para o lado do pescoço)
-(os dois casos sempre viar para o mesmo lado)(pega o calcanhar com a outra mão (não solta a lapela)
+- [x] 1. Saída das Costas (Antes de fazer o seatbelt)(Sai do Seatbelt;cotovelo oponente para outro lado cabeça;empurra corpo para trás;mão oposta tira joelho; sai para 100kg do mesmo lado do braço que passou por trás da cabeça)
+- [x] 2. Saída das Costas (Depois de fazer o seatbelt)(Mão oposta na lapela do oponente;gira pescoço para desafogar;levanta quadril;não solta a lapela;giro para tirar perna;pega o calcanhar com a outra mão; ida para o 100kg) (Para o lado do pescoço)
 
 ### Finalizações: 1 Chave de Braço das Costas
-- [ ] 1. Chave de Braço (Armlock) das Costas (ganchos e seatbelt;domine o punho;passa perna ombro/cabeça;estica rosto; tira gancho; estique corpo) (sobe;pega gancho;pega um braço e já cai direto no armlock)
+- [x] 1. Tradicional Simples Braços soltos Oponente (nesta situação, apenas puxa o braço do oponente para trás e aplica chave de braço)
+- [ ] X. do Seatbelt (domine o punho;passa perna ombro/cabeça;estica rosto; tira gancho; estique corpo)
+- [ ] Y. Por cima (pega gancho;pega um braço e já cai direto no armlock)
 
 ### Finalizações: 4 Estrangulamentos das Costas
-- [ ] 1. Mata-leão
-- [ ] 2. Ezequiel (ou Ezequiel Amassa-Pão) (segura no outro ombro)
-- [ ] 3. Mata-Cobra (Puxa 1 gola braço interno; Abraça outro ombro por cima cabeça)
-- [ ] 4. Arco e Flecha (segura kimono; perna para travar braço oponente)
+- [x] 1. Mata-leão
+- [x] 2. Ezequiel (segura no outro ombro)
+- [x] 3. Amassa-Pão(segura no outro ombro)
+- [x] 4. Arco e Flecha (segura kimono com 1 mão;outra mão segura calça no joelho do oponente; perna para travar braço oponente)
+- [ ] X. Mata-Cobra (Puxa 1 gola braço interno; Abraça outro ombro por cima cabeça)
 
 ### Finalizações: 1 Chave de Braço do Quatro Apoios  
-- [ ] 01. Inversão/Reposição do 4 Apoios (Repetida)
+- [x] 1. Inversão (inverte posição, abraça outro braço oponente, puxa para chave de braço)
+- [?] X. com braço esquerdo, abraça braço direito )
 
 ### Finalizações: 3 Estrangulamentos do Quatro Apoioos
-- [ ] 01. Reloginho (mão na lapela;outra ão calça pé)
-- [ ] 02. Estrangulamento Relógio (pegar gancho e puxar mangas)
-- [ ] 03. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
-- [ ] 4. Mata-leão dos 4 Apoios 
+- [?] 1. Reloginho (mão por dentro na lapela do oponente por dentro; outra mão calça pé)
+- [?] 2. Estrangulamento Relógio (pegar gancho e puxar mangas)
+- [?] 3. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
 
 ### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
 - [ ] 1. Guarda em Pé (pega pé entre braço e axila; outra mão para fixar e puxa)
@@ -212,17 +208,18 @@
 
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
-- [ ] 1. Defesa de Omoplata (Rolamento/Cambalhota)
-- [ ] 2. Defesa de Armlock da Guarda (Amassando)
-- [ ] 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
-- [ ] 4. Defesa de Kimura (Contra-Kimura/Re-Kimura)
+- [x] 1. Defesa de Omoplata (Cambalhota)
+- [x] 2. Defesa de Armlock da Guarda (Amassando)
+- [x] 3. Defesa de Americana do 100kg (Ponte e Cotovelo)
+- [x] X. Defesa de Omoplata (Pulando)
+- [x] Y. Defesa de Kimura (Contra-Kimura)
 
 ### Técnicas: 3 Saídas de Triângulo / Estrangulamento
-- [ ] 1. Defesa de Triângulo (Postura e Cotovelo)
-- [ ] 2. Saída de Triângulo Encaixado (Emborcada)
-- [ ] 3. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
+- [x] 1. Defesa de Triângulo (Postura e Cotovelo)
+- [x] 2. Saída de Triângulo Encaixado (Emborcada)
+- [x] 3. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
 ### Técnicas: 2 Saídas de Chave de Perna
-- [ ] 1. Defesa de Botinha Reta
-- [ ] 2. Defesa de Chave de Joelho
+- [?] 1. Defesa de Botinha Reta (faz rolamento para o lado)
+- [?] 2. Defesa de Chave de Joelho (segura calcanhar e passa corpo para outro lado)
 
