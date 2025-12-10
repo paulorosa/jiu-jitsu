@@ -75,10 +75,10 @@
 - [x] 6. Guarda Aberta (pé esquerdo no joelho direito oponente; chuta; cruzando o joelho)
 - [x] 7. Guarda Aberta (volante caminhão;mão esquerda na manga direita opononente;mão direita na barra calça esquerda oponente;gira;cai 100kg)
 - [x] 86. Guarda Aranha (Ponto Morto; puxa as duas e cai nos 100kg)(fechar cotovelo;puxar para trás;tira pé biceps;torea;movimenta para lado)
-- [?] X. Guarda Aranha (Perna Esticada;Estoura Perna Esticada e cai para 100kg do outro lado)(soltar mão que está por baixo, fazendo rodopío;quando solta, afasta trás;avança lateral;repoe guarda 100kg)
-- [?] X. Guarda Aranha (Empurra para frente)
-- [?] Y. Guarda Laço (saída para o lado da laçada)
-- [?] Z. Aberturas das meia-guarda por cima/baixo.
+- [ ] X. Guarda Aranha (Perna Esticada;Estoura Perna Esticada e cai para 100kg do outro lado)(soltar mão que está por baixo, fazendo rodopío;quando solta, afasta trás;avança lateral;repoe guarda 100kg)
+- [ ] X. Guarda Aranha (Empurra para frente)
+- [ ] Y. Guarda Laço (saída para o lado da laçada)
+- [ ] Z. Aberturas das meia-guarda por cima/baixo.
 
 ### Técnicas: 14 Raspagens
 - [x] 1. Guarda Fechada (Tesourinha)(pegar calcanhar da calça oponente)
@@ -149,7 +149,7 @@
 - [x] 2. Americana Extendida
 - [x] 3. Perna Levantada (braço oponente entre axila e perna, esticado para trás;puxar e esticar o braço)
 - [x] 4. Perna Levantada (braço oponente entre cabeça e perna, esticado para trás;puxar e esticar o braço)
-- [?] 5. Tradicional (levanta perna;pega braço esticado;cai para chave de braço)
+- [ ] 5. Tradicional (levanta perna;pega braço esticado;cai para chave de braço)
 
 ### Finalizações: 2 Estrangulamentos da Montada
 - [x] 1. Ezequiel
@@ -186,34 +186,33 @@
 
 ### Finalizações: 1 Chave de Braço do Quatro Apoios  
 - [x] 1. Inversão (inverte posição, abraça outro braço oponente, puxa para chave de braço)
-- [?] X. com braço esquerdo, abraça braço direito )
+- [ ] X. com braço esquerdo, abraça braço direito )
 
 ### Finalizações: 3 Estrangulamentos do Quatro Apoioos
 - [x] 1. Ezequiel
 - [x] 2. Amassa Pão
 - [x] 3. Reloginho do 4 apoios em Pé ( (mão por dentro na lapela do oponente por dentro; outra mão calça pé))
-- [?] X. Estrangulamento Relógio (pegar gancho e puxar mangas)
-- [?] Y. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
+- [ ] X. Estrangulamento Relógio (pegar gancho e puxar mangas)
+- [ ] Y. Triângulo dos 4 Apoios (fica em posição contrária tipo mata-leão)
 
 ### Finalizações:  9 Chave de Tornozelo / Joelho Reto / Mata-leão no Pé / Panturilha
-- [ ] 1. Guarda em Pé (pega pé entre braço e axila; outra mão para fixar e puxa)
-- [ ] 2. Guarda em Pé (Colocar dedinho do pé no umbigo e apertar)
-- [ ] 3. Guarda em Pé (Parecido com 1, mas com o dedinho do pé para dentro)
-- [ ] 4. Guarda Aberta (pega tornozelo; passa joelho; cai e puxa com a outra perna)(dobrada)
-- [ ] 5. Guarda Aberta (igual anterior, mas esticada) (uma puxa com cotovelo; outra estica a perna com a mão)
-- [ ] 6. Botinha para trás
-- [ ] 7. Botinha do lado
-- [ ] 8. Botinha estica a perna
-- [ ] 9. Botinha (oponente girando para sair, no final aperta)
-- [ ] 10. Mata-Leão Rolando
-- [ ] 11. Chave de Tornozelo (Botinha Reta)
-- [ ] 12. Mata-Leão no Pé
-- [ ] 13. Chave de Panturrilha
-- [ ] 14. Botinha Reta (Pé no Quadril - Básica)
-- [ ] 16. Chave de Joelho Reto (Passando)
-- [ ] 17. Chave de Joelho dos Quatro Apoios
-- [ ] 18. Mata-Leão da Guarda De La Riva (Por Cima)
-
+- [x] 1. Guarda em Pé (pega pé entre braço e axila; outra mão para fixar e puxa)
+- [x] 2. Guarda em Pé (Colocar dedinho do pé no umbigo e apertar)
+- [x] 3. Guarda em Pé (Parecido com 1, mas com o dedinho do pé para dentro)
+- [x] 4. Guarda Aberta (pega tornozelo; passa joelho; cai e puxa com a outra perna)(dobrada)
+- [x] 5. Guarda Aberta (igual anterior, mas esticada) (uma puxa com cotovelo; outra estica a perna com a mão)
+- [x] 6. Botinha para trás (sentado e com seu pé no quadril do oponente)
+- [x] 7. Botinha do lado
+- [x] 8. Botinha estica a perna
+- [x] 9. Botinha (oponente girando para sair, no final aperta)
+- [ ] X. Mata-Leão Rolando
+- [ ] X. Chave de Tornozelo (Botinha Reta)
+- [ ] X. Mata-Leão no Pé
+- [ ] X. Chave de Panturrilha
+- [ ] X. Botinha Reta (Pé no Quadril - Básica)
+- [ ] X. Chave de Joelho Reto (Passando)
+- [ ] X. Chave de Joelho dos Quatro Apoios
+- [ ] X. Mata-Leão da Guarda De La Riva (Por Cima)
 
 ###  Técnicas: 3 Saídas de Braço / Ombro
 - [x] 1. da Chave de Braço no Chão (saída para lado do chão; passa o pé com a mão primeiro)
@@ -224,12 +223,12 @@
 - [ ] Z. Defesa de Kimura (Contra-Kimura)
 
 ### Técnicas: 3 Saídas de Triângulo / Estrangulamento
-- [?] 1. Saída de Triângulo Encaixado (Emborcada)(amassando e empurra para outro lado)
-- [?] 2. Amassando (levanta amassando e vira para o outro lado)
-- [?] 3. Saída Triângulo (levanta e pisa no bíceps do oponente no chão)
-- [?] X. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
+- [x] 1. Saída de Triângulo Encaixado (Emborcada)(amassando e empurra para outro lado)
+- [x] 2. Amassando (levanta amassando e vira para o outro lado)
+- [x] 3. Saída Triângulo (levanta e pisa no bíceps do oponente no chão)
+- [ ] X. Defesa de Estrangulamento Cruzado da Guarda (Mão no Bíceps)
 
 ### Técnicas: 2 Saídas de Chave de Perna
-- [?] 1. Defesa de Botinha Reta (faz rolamento para o lado)
-- [?] 2. Defesa de Chave de Joelho (segura calcanhar e passa corpo para outro lado)
+- [x] 1. Defesa de Botinha Reta (faz rolamento para o lado)
+- [x] 2. Defesa de Chave de Joelho (segura calcanhar e passa corpo para outro lado)
 
