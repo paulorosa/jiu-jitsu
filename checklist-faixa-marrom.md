@@ -88,16 +88,16 @@
 - [x] 5. Guarda Fechada (Raspagem de Quadril no Joelho)(Kimura Barrigando)
 - [x] 6. Guarda Fechada (Oponente Subindo)(quando joelho oponente subir;passar braço por baixo; agarrar panturrilha por trás;virar para montada)
 - [x] 7. Guarda Borboleta (Raspagem de Gancho Cruzada)(esgrima;cabeça no peito oponente)
-- [ ] 
-- [ ] 6. Raspagem com o Pé no Quadril (Tripé) (da Guarda Aberta)
-- [ ] 7. Foice (da Guarda Fechada)
-- [ ] 8. Raspagem da Meia-Guarda (empurrando o joelho, igual guarda fechada)
-- [ ] 9. Raspagem de Meia-Guarda Profunda
-- [ ] 10. Raspagem da Guarda Aranha (Tesourinha)
-- [ ] 11. Raspagem da Guarda De La Riva (Balão)
-- [ ] 12. Raspagem da Guarda De La Riva (Sentando / Berimbolo Setup)
-- [ ] 13. Raspagem de Guarda X (Levantada Técnica)
-- [ ] 14. Raspagem de Guarda Laço
+- [x] 8. Raspagem da Guarda Aranha Esticada (Tesourinha)
+- [x] 9. Raspagem da Guarda Aranha (Tesourinha)
+- [x] 10. Guarda Aberta (2 Calcanhares) (segura calcanhares e empurra)
+- [x] 11. Raspagem com o Pé no Quadril (Tripé) (da Guarda Aberta)
+- [x] 12. Guarda Aberta (Raspagem Balão)
+- [x] 13. Raspagem da Guarda De La Riva (Empurrando)
+- [x] 14. Raspagem da Guarda De La Riva (Puxando)
+- [ ] X. Raspagem da Meia-Guarda (igual saídas meia-guarda)
+- [ ] Y. Raspagem da Guarda De La Riva (Sentando / Berimbolo Setup)
+- [ ] Z. Raspagem de Guarda Laço (ir para omoplata)
  
 ### Finalizações: 4 Chaves de Braço da Guarda
 - [?] 1. Tradicional da Guarda Fechada (sai guarda fechada;segura braço; segura ombro; fuga; perna por cima)
