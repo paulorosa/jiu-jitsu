@@ -81,12 +81,14 @@
 - [?] Z. Aberturas das meia-guarda por cima/baixo.
 
 ### Técnicas: 14 Raspagens
-- [ ] 1. Guarda Fechada (Tesoura)
-- [ ] 2. Guarda Fechada (Empurrando Joelho)
-- [ ] 3. Guarda Fechada (Kimura Barrigando)
-- [ ] 3. Raspagem de Quadril no Joelho (da Guarda Fechada)
-- [ ] 4. Raspagem de Gancho (da Guarda Fechada)
-- [ ] 5. Raspagem de Gancho Cruzada (da Guarda Borboleta)
+- [x] 1. Guarda Fechada (Tesourinha)(pegar calcanhar da calça oponente)
+- [x] 2. Guarda Fechada (Tesoura Chutando Joelho)(puxando calça e braço oposto;levanta perna)
+- [x] 3. Guarda Fechada (Profunda)(braço por baixo da outra perna;vira para cair na montada)
+- [x] 4. Guarda Fechada (Profunda)(igual anterior segurando barra calça)
+- [x] 5. Guarda Fechada (Raspagem de Quadril no Joelho)(Kimura Barrigando)
+- [x] 6. Guarda Fechada (Oponente Subindo)(quando joelho oponente subir;passar braço por baixo; agarrar panturrilha por trás;virar para montada)
+- [x] 7. Guarda Borboleta (Raspagem de Gancho Cruzada)(esgrima;cabeça no peito oponente)
+- [ ] 
 - [ ] 6. Raspagem com o Pé no Quadril (Tripé) (da Guarda Aberta)
 - [ ] 7. Foice (da Guarda Fechada)
 - [ ] 8. Raspagem da Meia-Guarda (empurrando o joelho, igual guarda fechada)
